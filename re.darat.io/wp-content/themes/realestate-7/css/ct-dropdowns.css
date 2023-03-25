@@ -1,0 +1,272 @@
+/*
+* CT Dropdowns
+* 
+* @package WP Pro Real Estate 7
+* @subpackage CSS
+*
+*/
+
+.ct-menu {
+    font-size: 14px;
+    z-index: 999;
+    text-transform: capitalize;
+}
+
+    .ct-menu > li {
+        display: inline-block;
+        position: relative;
+    }
+
+        .ct-menu > li > a {
+            display: inline-block;
+            text-align: center;
+            line-height: 3.4em;
+            margin: 0 0 20px 0;
+            padding: 17px 20px 0 20px;
+            color: #b9bfc6;
+            z-index: 0;
+            border-top: 5px solid #29333d;
+            border-top-color: transparent;
+            -webkit-appearance:none;
+            -webkit-transition: all 0.2s linear;
+            moz-transition: all 0.2s linear;
+            -o-transition: all 0.2s linear;
+            -ms-transition: all 0.2s linear;
+            transition: all 0.2s linear;
+        }
+
+            .header-style-three .ct-menu > li > a {
+                margin: 0;
+                padding: 0 15px;
+                line-height: 84px;
+            }
+
+            #nav-full-width .ct-menu > li > a {
+                margin: 0;
+                padding-top: 12px;
+                padding-bottom: 16px;
+                line-height: 1em;
+                color: #fff;
+            }
+
+                .ct-menu > li.btn-outline > a {
+                    line-height: 2.2em;
+                    padding: 4px 14px;
+                    border-radius: 3px;
+                    border: 1px solid #27ae60;
+                    color: #27ae60;
+                }
+
+.ct-menu li.current-menu-item a,
+.ct-menu li.current_page_parent a {
+    border-top-color: #27ae60;
+}
+
+    .ct-menu li#menu-item-665 a,
+    .ct-menu li.current_page_parent#menu-item-665 a {
+        background: none;
+        border-radius: 0;
+    }
+
+        .ctmenu.current_page_parent li.current_menu_item {
+            border-top-color: #27ae60;
+        }
+
+        /* Sub Menu */
+        .ct-menu .sub-menu {
+            position: absolute;
+            display: none;
+            padding: 0;
+            font-size: 12px;
+            text-transform: uppercase;
+            text-align: left;
+            z-index: 999999;
+            border-bottom-right-radius: 3px;
+            border-bottom-left-radius: 3px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, .15);
+        }
+
+            nav ul.ct-menu .sub-menu li {
+                position: relative;
+            }
+
+                nav ul.ct-menu > li:not(.multicolumn) .sub-menu li.menu-item-has-children:hover > ul.sub-menu {
+                    left: 192px;
+                    right: auto;
+                    top: 0;
+                    padding-right: 0;
+                    padding-left: 5px;
+                    background: transparent;
+                    box-shadow: 6px 6px 3px -5px rgba(0, 0, 0, 0.15);
+                }
+
+                    nav.right ul.ct-menu > li:not(.multicolumn) .sub-menu li.menu-item-has-children:hover > ul.sub-menu {
+                        left: -197px;
+                        top: 0;
+                        padding-right: 5px;
+                        padding-left: 0;
+                        background: transparent;
+                        box-shadow: -6px 6px 3px -5px rgba(0, 0, 0, 0.15);
+                    }
+
+                        nav ul.ct-menu > li:not(.multicolumn) .sub-menu li.menu-item-has-children > ul.sub-menu li > a {
+                            border-right: 1px solid rgba(0, 0, 0, 0.15);
+                            border-left: 1px solid rgba(0, 0, 0, 0.15);
+                        }
+
+                            nav ul.ct-menu > li:not(.multicolumn) .sub-menu li.menu-item-has-children > ul.sub-menu li:first-child > a {
+                                /*border-top: 1px solid rgba(0, 0, 0, 0.15);*/
+                            }
+
+                                nav ul.ct-menu li:hover > .sub-menu {
+                                    display: block;
+                                    margin-left: 0;
+                                }
+
+                                    nav ul.ct-menu > li.multicolumn {
+                                        position: static; /*Set Static for multicolumn*/
+                                    }
+
+                                        nav ul.ct-menu > li.multicolumn:hover .sub-menu {
+                                            display: block;
+                                            margin-left: 0;
+                                        }
+
+/* Menu Ancestor Current State */
+nav > ul.ct-menu > li:hover > a,
+.ct-menu li.current-menu-item > a,
+.ct-menu li.current-menu-ancestor > a {
+    border-color: #29333d;
+}
+
+    nav ul.ct-menu .sub-menu li:hover > a,
+    .ct-menu .sub-menu li.current-menu-ancestor > a,
+    .ct-menu .sub-menu li.current-menu-parent > a,
+    .ct-menu .sub-menu li.current-menu-item > a {
+        background: #29333d;
+        color: #fff;
+        font-weight: 400;
+        -webkit-appearance:none;
+        -webkit-transition: all 0.2s linear;
+        moz-transition: all 0.2s linear;
+        -o-transition: all 0.2s linear;
+        -ms-transition: all 0.2s linear;
+        transition: all 0.2s linear;
+    }
+
+/* Mega Menu */
+
+.ct-menu .multicolumn > .sub-menu {
+    width: 100%;
+    left: 0;
+    padding: 0 1% 2% 1%;
+    background: #29333d;
+}
+
+    #nav-full-width .ct-menu .multicolumn > .sub-menu {
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+
+        #nav-full-width nav {
+            position: relative;
+        }
+
+            .ct-menu .multicolumn > .sub-menu > li {
+            }
+
+                .ct-menu .multicolumn .col-title {
+                    color: #fff;
+                    padding: 30px 2% 0 2%;
+                    border-bottom: none;
+                    font-size: 14px;
+                    font-weight: 400;
+                }
+
+                    .ct-menu .multicolumn .sub-menu .sub-menu {
+                        position: relative;
+                        margin-top: 15px;
+                    }
+
+                        .ct-menu .multicolumn-2 .sub-menu li {
+                            width: 50%;
+                        }
+
+                            .ct-menu .multicolumn-3 .sub-menu li {
+                                width: 33.33%;
+                            }
+
+                                .ct-menu .multicolumn-4 .sub-menu li {
+                                    width: 25%;
+                                }
+
+                                    .ct-menu .multicolumn-5 .sub-menu li {
+                                        width: 20%;
+                                    }
+
+                                        .ct-menu .multicolumn-6 .sub-menu li {
+                                            width: 16.667%;
+                                        }
+
+                                            .ct-menu .multicolumn .sub-menu li li {
+                                                width: 100% !important;
+                                            }
+
+                                                .ct-menu .multicolumn .sub-menu li .sub-menu li a {
+                                                    margin: 0;
+                                                    padding-left: 2%;
+                                                    font-weight: 400;
+                                                }
+
+                                                    .ct-menu .multicolumn .sub-menu li .sub-menu li:last-child a {
+                                                        border-bottom: none;
+                                                    }
+
+                                                        .ct-menu .sub-menu > .sub-menu {
+                                                            right: 18em !important;
+                                                        }
+
+                                                            .ct-menu .sub-menu > li {
+                                                                display: block;
+                                                                width: 16em;
+                                                                line-height: normal;
+                                                                background: #29333d;
+                                                            }
+
+                                                                .ct-menu .multicolumn .sub-menu > li {
+                                                                    float: left;
+                                                                }
+
+                                                                    .ct-menu .sub-menu > li i {
+                                                                        display: none;
+                                                                    }
+
+                                                                        .ct-menu .sub-menu > li > a {
+                                                                            padding: 15px 25px;
+                                                                            display: block;
+                                                                            color: #fff;
+                                                                            font-size: 0.9em;
+                                                                            border-bottom: 1px solid #222;
+                                                                            -webkit-transition: all 0.2s;
+                                                                            -moz-transition: all 0.2s;
+                                                                            transition: all 0.2s;
+                                                                        }
+
+                                                                            .ct-menu .sub-menu > li:last-child,
+                                                                            .ct-menu .sub-menu > li:last-child > a { border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom: none;}
+
+                                                                        .ct-menu .sub-menu > li > a:hover {
+                                                                            background: #3b4d5d;
+                                                                            border-radius: 3px;
+                                                                            cursor: pointer;
+                                                                        }
+
+                                                                            .ct-menu .multicolumn .sub-menu > li > a:hover {
+                                                                                padding-left: 6% !important;
+                                                                            }
+
+                                                                                .ct-menu .sub-menu > li:last-child > a {
+                                                                                    border-bottom-right-radius: 3px;
+                                                                                    border-bottom-left-radius: 3px;
+                                                                                    overflow: hidden;
+                                                                                }

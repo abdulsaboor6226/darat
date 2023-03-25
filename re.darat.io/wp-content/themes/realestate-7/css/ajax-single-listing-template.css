@@ -1,0 +1,278 @@
+@keyframes shine {
+    to {
+        background-position: 100% 0, /* move highlight to right */ 0 0,
+        0 20px,
+        0 40px,
+        0 60px;
+    }
+}
+
+#single-listing-content article#single-listing-content-content { scroll-behavior: smooth;}
+
+div#single-listing-content { display: flex; flex-wrap: wrap;}
+
+    .ajax-listing-column { display: flex; flex-wrap: wrap; align-content: flex-start; justify-content: center; flex-basis: 50%;}
+
+        #single-listing-content-gallery.single-image-gallery { align-content: center;}
+
+        .search-listings #single-listing-content { height: 100vh;}
+
+            #single-listing-content-gallery { background: #121212;}
+
+            #single-listing-content-content.ajax-listing-column { display: block; height: 100vh;}
+
+                #ct-listing-single-modal-template { display: none;}
+
+                    #ct-listing-single-modal-template.active { display: block;}
+
+#ct-listing-single-modal {
+    background-color: rgba(0, 0, 0, 0.80);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 20px;
+    position: fixed;
+    z-index: 9999999; /* Modal has 999999, did this to fully overlap the wp admin bar. */
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.mfp-zoom-out-cur .mfp-bg {
+    z-index: 99999999; /* Modal has 999999, did this to fully overlap the wp admin bar.*/
+}
+
+#ct-listing-single-modal .fa-spinner { display: block; margin: 0 auto; margin-top: 25%; color: #047980; font-size: 2em;}
+
+    .admin-bar #ct-listing-single-modal { top: 32px;}
+
+    #ct-listing-single-modal .sub-listings,
+    #ct-listing-single-modal .ct-affordability-calculator { padding-right: 0; padding-left: 0;}
+        #ct-listing-single-modal .ct-affordability-calculator { margin-bottom: 80px;}
+
+@media (max-width: 792px){
+    .admin-bar #ct-listing-single-modal { top: 46px;}
+}
+
+/**
+ * WordPress Break Point
+ */
+@media screen and (max-width: 600px) {
+    .admin-bar #ct-listing-single-modal { top: 0;}
+}
+
+div#single-listing-ajax-wrap { background: #fff; display: block; overflow-x: scroll; overflow-y: hidden; width: 90%; margin: 0 auto; max-width: 1240px;}
+    
+    div#single-listing-ajax-wrap ul.tabs li a { padding-right: 12px; padding-left: 12px; font-size: 14px;}
+    #ct-listing-single-modal.loading div#single-listing-ajax-wrap { background: #ececec; display: block; height: 310px; overflow: scroll; max-width: 40%; margin: 0 auto; margin-top: 10%; box-shadow: 0 0 15px 5px #2b2b2b;}
+
+    div#single-listing-ajax-wrap #single-listing-content-wrap { padding: 0;}
+
+/**
+* Disable duplicate data when ...
+* $ct_listing_single_layout == 'listings-three' || $ct_listing_single_layout == 'listings-four'
+*/
+
+div#single-listing-ajax-wrap header.listing-location .save-this-btn { left: 0; line-height: 27px; height: 27px;}
+
+div#single-listing-ajax-wrap header.listing-location #listing-title { margin-top: 60px !important;}
+
+div#single-listing-ajax-wrap header.listing-location #listing-price-type { display: none;}
+
+div#single-listing-ajax-wrap.single-listings #listing-sections li.listing-nav-icon { display: none;}
+
+div#single-listing-ajax-wrap.single-listings #listing-sections li a { font-size: 14px;}
+    div#single-listing-ajax-wrap .propinfo.idx-info span.right { word-break: break-word;}
+
+div#single-listing-ajax-wrap .info-inner iframe { max-width: 100%;}
+
+div#single-listing-ajax-wrap .save-this-text {}
+   div#single-listing-ajax-wrap .save-this-text i { position: relative; top: 2px; display: inline-block; margin: 0 8px 0 0; color: #bc0000;}
+
+div#single-listing-ajax-wrap h6.snipe.status { float: right;}
+    div#single-listing-ajax-wrap .sub-listings h6.snipe.status { right: 0;}
+div#single-listing-ajax-wrap h1#listing-title { font-size: 1.9em;}
+    div#single-listing-ajax-wrap #listing-map-btn { right: 0; bottom: -60px;}
+
+#ct-listing-single-modal #ajax-single-listing-price-wrap .price { background: none; font-size: 28px; color: #03b5c3; padding: 0;}
+    div#single-listing-ajax-wrap .est-payment { margin-bottom: 0px !important; padding: 2px 0 0 0 !important;}
+
+div#single-listing-ajax-wrap .ajax-listing-column { max-height: 100vh; overflow: scroll; -ms-overflow-style: none;}
+    div#single-listing-ajax-wrap .ajax-listing-column::-webkit-scrollbar { display: none;}
+
+    div#single-listing-ajax-wrap .brokerage { border-top: none;}
+
+    div#single-listing-ajax-wrap #single-listing-content div.sub-listings .listing.span_4 { margin-bottom: 2%;}
+    div#single-listing-ajax-wrap #single-listing-content div.sub-listings .listing.span_4:nth-child(even) { margin-left: 2%;}
+        div#single-listing-ajax-wrap #single-listing-content div.sub-listings li.listing.modern h5 {}
+
+    div#single-listing-ajax-wrap #single-listing-content #loanCalc-wrap { padding-bottom: 60px;}
+
+span#single-listing-close-modal { position: absolute; font-size: 4em; color: #fff; right: 2%; top: 4%; cursor: pointer;}
+    span#single-listing-close-modal svg { height: 30px; width: 30px; fill: #fff;}
+
+@media only screen and (min-width: 992px) {
+
+    #single-listing-ajax-wrap.single-listings .listing-location .snipe-wrap { right: 0;}
+
+    #single-listing-ajax-wrap.single-listings header.listing-location { padding-left: 0; padding-bottom: 15px;}
+
+    #single-listing-ajax-wrap.single-listings .post-content,
+    #single-listing-ajax-wrap.single-listings .listing-agent-contact,
+    #single-listing-ajax-wrap.single-listings .sub-listings,
+    #single-listing-ajax-wrap.single-listings article ul#single-listing-propinfo { padding: 20px 0;}
+        #single-listing-ajax-wrap.single-listings .agent-info { padding-right: 0; padding-left: 0;}
+
+    #single-listing-ajax-wrap .marB60 { padding-right: 10px;}
+
+    #single-listing-ajax-wrap .yelp-nearby .span_9 { width: 60%;}
+    #single-listing-ajax-wrap .yelp-nearby .span_3 { width: 37%;}
+
+}
+
+/**
+ * Gallery
+ */
+#ajax-single-listing-gallery-wrap { width: 100%;}
+#ajax-single-listing-gallery-wrap > ul { display: flex; flex-wrap: wrap; align-items: center; justify-content: center;}
+    #ajax-single-listing-gallery-wrap > ul,
+    #ajax-single-listing-gallery-wrap > ul > li { margin: 0; padding: 0;}
+        #ajax-single-listing-gallery-wrap > ul li { list-style: none; padding: 1px 0 0 1px; flex-basis: 50%; flex-grow: 1;}
+            #ajax-single-listing-gallery-wrap ul li:first-child { flex-basis: 100%;}
+                #ajax-single-listing-gallery-wrap ul li div.dummy { background: #e0e0e0; min-height: 195px; position: relative; display: flex; align-items: center; justify-content: center;}
+                    #ajax-single-listing-gallery-wrap ul li div.dummy .fa-spinner { margin-top: 0; color: #b7b7b7; font-size: 18px;}
+
+#ct-listing-single-modal .single-listings #listing-sections { padding: 10px 10px;}
+
+#ajax-single-listing-gallery-outer-wrap { width: 100%; }
+
+.ajax-single-listing-skeleton-ui#ajax-single-listing-chunk-2-wrap,
+.ajax-single-listing-skeleton-ui#ajax-single-listing-chunk-1-wrap { margin: 40px 0 0 0;}
+
+#ajax-single-listing-gallery-outer-wrap div#ct-listing-back--button,
+
+#ajax-single-listing-gallery-outer-wrap .flexslider { display: none;}
+    #single-listing-ajax-wrap.single-listings .flexslider .slides img:hover { cursor: grab;}
+
+/**
+ * Tablets & up.
+ */
+@media (min-width: 992px) {
+    #single-listing-ajax-wrap.single-listingsdiv.sub-listings .listing.span_4 { width: 48%; margin: 0;}
+    #single-listing-ajax-wrap.single-listings form#get-directions .span_9 { width: 66.0%;}
+    #single-listing-ajax-wrap.single-listings form#get-directions .span_3 { width: 32.0%;}
+    #single-listing-ajax-wrap.single-listings .listing-agent-contact { background: none;}
+}
+
+@media (max-width: 992px) {
+
+    #ct-listing-single-modal { padding: 0;}
+
+    div#single-listing-ajax-wrap .ajax-listing-column { max-height: none; overflow: visible; max-width: 100%;}
+
+    div#single-listing-ajax-wrap #single-listing-content-gallery.ajax-listing-column { overflow-x: hidden; overflow-y: visible;}
+        .ajax-listing-column { flex-basis: 100%;}
+            div#single-listing-ajax-wrap { overflow-x: hidden; overflow-y: visible; width: 100%;}
+            #ajax-single-listing-gallery-outer-wrap { width: 100%;}
+
+
+    #ajax-single-listing-gallery-outer-wrap .flexslider  { display: block; background: #eee;}
+        #ajax-single-listing-gallery-outer-wrap .flexslider.preloading { padding: 120px 0 120px; display: flex; align-items: center; justify-content: center;}
+            .single-image-gallery #ajax-single-listing-gallery-outer-wrap .flexslider { display: none;}
+                #ajax-single-listing-gallery-outer-wrap .flexslider.single-image  { display: none;}
+
+    .search-listings figure#ajax-single-listing-gallery { display: none;}
+        .single-image-gallery #ajax-single-listing-gallery-outer-wrap figure#ajax-single-listing-gallery { display: block;}
+
+        #ajax-single-listing-gallery-outer-wrap .flex-control-nav li { margin: 0 4px;}
+            #ajax-single-listing-gallery-outer-wrap .flex-control-paging li a { width: 5px; height: 5px;}
+
+    #ajax-single-listing-gallery-outer-wrap .flex-control-nav { bottom: 0; line-height: 1em;}
+
+    #ajax-single-listing-gallery-outer-wrap div#ct-listing-back--button { background: black; position: absolute; left: 0; color: #fff; padding: 10px 20px; display: block; cursor: pointer; z-index: 2000; font-size: 20px;}
+    
+    div#single-listing-ajax-wrap header.listing-location .save-this-btn { line-height: 25px; height: 26px;}
+
+    #single-listing-ajax-wrap.single-listings .post-content,
+    #single-listing-ajax-wrap.single-listings article ul#single-listing-propinfo,
+    #single-listing-ajax-wrap.single-listings header.listing-location { padding: 30px 0;}
+        div#single-listing-ajax-wrap h6.snipe.status { float: left; right: initial;}
+        div#single-listing-ajax-wrap #listing-map-btn { top: 20px;}
+        #single-listing-ajax-wrap.single-listings header.listing-location { padding-bottom: 15px;}
+
+    #single-listing-ajax-wrap.single-listings .listing-location .snipe-wrap { position: static;}
+        #single-listing-ajax-wrap.single-listings .listing-location.has-save-button .snipe-wrap { position: absolute; top: 20px; right: 85px;}
+            #single-listing-ajax-wrap.single-listings .listing-location.has-save-button h6.snipe.status { position: absolute; float: none; right: 0;}
+                #single-listing-ajax-wrap.single-listings .listing-location.has-save-button h6.snipe.status span { display: inline-block; height: 29px; line-height: 17px;}
+}
+
+    @media only screen and (min-width: 480px) and (max-width: 768px) {
+        #single-listing-ajax-wrap.single-listings .listing-location.has-save-button .snipe-wrap { width: 25%;}
+        #single-listing-ajax-wrap.single-listings #listing-map-btn { height: 27px;}
+            #single-listing-ajax-wrap.single-listings #listing-map-btn i, #single-listing-ajax-wrap.single-listings #listing-map-btn span { position: relative; display: inline-block; top: -14px;}
+                #single-listing-ajax-wrap.single-listings #listing-map-btn i { top: -12px; margin-right: 4px;}
+    }
+
+/**
+ * Preloader.
+ */
+
+.re7-modal-preloader-base {
+    margin: 0 0 10px 0;
+    border-radius: 2px;
+    height: 12.5px; /* change height to see repeat-y behavior */
+
+    background-image:
+            linear-gradient( 100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0) 80% ),
+            linear-gradient( #d8d8d8 100%, transparent 0 );
+    background-repeat: no-repeat;
+    background-size:
+            50px 200px, /* highlight */
+            100% 100%;
+
+    background-position:
+            0 0, /* highlight */
+            0 0;
+    animation: shine 1s infinite;
+}
+
+@keyframes shine {
+    to {
+        background-position:
+                200% 0, /* move highlight to right */
+                0 0;
+    }
+}
+
+.re7-modal-preloader-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5em;
+}
+.re7-modal-preloader-row.flex-align-center {
+    align-items: center;
+    justify-content: center;
+}
+.re7-modal-preloader-row.flex-align-start {
+    align-items: center;
+    justify-content: flex-start;
+}
+.re7-modal-preloader-row .re7-modal-preloader-column {
+    width: 50%;
+}
+.re7-modal-preloader-row.no-base-line {
+    margin-bottom: 0;
+}
+
+.re7-modal-preloader-row .re7-modal-preloader-column.full-width {
+    width: 100%;
+}
+.re7-modal-preloader-spacer {
+    height: 10px;
+    display: block;
+    width: 100%;
+}
+
+#ajax-single-listing-chunk-1-wrap .re7-modal-preloader-row {
+    margin-bottom: 10px;
+}

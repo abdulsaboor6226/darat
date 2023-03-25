@@ -1,0 +1,4905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-12 18:01+0000\n"
+"PO-Revision-Date: 2020-11-12 18:06+0000\n"
+"Last-Translator: Chris Robinson\n"
+"Language-Team: Afrikaans\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "Aan Die Begin"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo Huis Map"
+
+#: single-listings.php:42 single-brokerage.php:209
+#: admin/ReduxFramework/theme-options/re7-config.php:3092
+msgid "Listings"
+msgstr "Lys"
+
+#. Name of the template
+#: single-listings.php:48 admin/theme-functions.php:9359
+#: admin/theme-functions.php:10453
+msgid "Home"
+msgstr "Die huis"
+
+#: single-listings.php:65
+msgid "Call"
+msgstr "Bel"
+
+#: single-listings.php:66 template-favorite-listings.php:119
+#: archive-brokerage.php:115 archive-brokerage.php:177 single-brokerage.php:85
+#: single-brokerage.php:145 single-brokerage.php:341 single-brokerage.php:404
+#: template-brokerages.php:129 template-brokerages.php:189 author.php:88
+#: author.php:136 author.php:387 template-agents.php:306
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/single-listing-contact.php:107
+#: includes/single-listing-contact.php:177
+#: includes/single-listing-contact.php:253 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 admin/theme-functions.php:5658
+#: includes/widgets/ct-widget-listingscontact.php:37
+#: includes/widgets/ct-widget-listingscontact.php:37
+#: includes/widgets/ct-widget-listingscontact.php:37
+#: includes/widgets/ct-widget-agentinfo.php:79
+msgid "Email"
+msgstr "E-pos"
+
+#: single-listings.php:79 single-listings.php:91 single-listings.php:97
+#: single-listings.php:103 single-listings.php:124 single-listings.php:125
+#: single-listings.php:126 includes/single-listing-home.php:367
+#: includes/single-listing-home.php:368 includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+#: includes/widgets/ct-widget-listingssocial.php:32
+msgid "Check out this great listing on"
+msgstr "Check uit hierdie groot notering op"
+
+#: single-listings.php:128 admin/theme-functions.php:1291
+msgid "Close"
+msgstr "Naby"
+
+#: single-listings.php:232 template-listing-analytics.php:63
+#: template-edit-profile.php:60 template-submit-listing.php:361
+#: template-user-dashboard.php:61 template-listing-email-alerts.php:71
+#: template-view-listings.php:65 template-view-invoices.php:61
+#: template-edit-listing.php:407 template-membership.php:61
+msgid "You must be logged in to view this page."
+msgstr "Jy moet ingeteken wees om hierdie bladsy te sien."
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1502
+msgid "Testimonials"
+msgstr "Getuigskrifte"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Bladsy Nie Gevind"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Woah daar! Lyk soos jy've gekry verloor."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Gaan terug na die tuisblad"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Home Video Demo"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Linker Sidebar"
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "Geen poste is gevind wat ooreenstem met jou soek kriteria"
+
+#: archive.php:77 layouts/grid.php:31 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "Probeer om die verbreding van jou soektog te vind meer resultate."
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:3973
+msgid "Listing Analytics"
+msgstr "Lys Analytics"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Pakkette Dankie"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Kies'n Pakket"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Betaling"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Voltooi"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Wysig Profiel"
+
+#: template-edit-profile.php:81
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"Die wagwoorde wat jy ingetik nie ooreenstem nie. Jou wagwoord is nie "
+"opgedateer."
+
+#: template-edit-profile.php:89
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+"Die E-pos wat jy ingevoer het, is nie geldig nie. Probeer asseblief weer."
+
+#: template-edit-profile.php:91
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+"Hierdie e-pos is reeds in gebruik deur'n ander gebruiker. Probeer'n ander "
+"een."
+
+#: template-edit-profile.php:132 template-favorite-listings.php:117
+#: archive-brokerage.php:113 single-brokerage.php:83 single-brokerage.php:339
+#: template-brokerages.php:127 author.php:86 template-agents.php:304
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/single-listing-multi-floorplan.php:34
+#: includes/single-listing-contact.php:173 includes/single-listing-home.php:273
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25
+#: includes/widgets/ct-widget-listingscontact.php:35
+#: includes/widgets/ct-widget-listingscontact.php:35
+#: includes/widgets/ct-widget-listingscontact.php:35
+msgid "Name"
+msgstr "Naam"
+
+#: template-edit-profile.php:136 admin/theme-functions.php:5567
+#: admin/theme-functions.php:5653
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: template-edit-profile.php:137
+msgid "Usernames cannot be changed."
+msgstr "Gebruikers kan nie verander word nie."
+
+#: template-edit-profile.php:140 admin/theme-functions.php:5663
+msgid "First Name"
+msgstr "Die Eerste Naam"
+
+#: template-edit-profile.php:144 admin/theme-functions.php:5668
+msgid "Last Name"
+msgstr "Laaste Naam"
+
+#: template-edit-profile.php:148
+msgid "Nickname"
+msgstr "Bynaam"
+
+#: template-edit-profile.php:148
+msgid "(required)"
+msgstr "(vereis)"
+
+#: template-edit-profile.php:152
+msgid "Display to Public as"
+msgstr "Vertoon aan die Publiek as"
+
+#: template-edit-profile.php:190
+msgid "Contact Info"
+msgstr "Kontak Info"
+
+#: template-edit-profile.php:194
+msgid "E-mail *"
+msgstr "E-pos *"
+
+#: template-edit-profile.php:198 admin/theme-functions.php:5673
+msgid "Website"
+msgstr "Webwerf"
+
+#: template-edit-profile.php:221
+msgid "About Yourself"
+msgstr "Oor Jouself"
+
+#: template-edit-profile.php:225
+msgid "Biographical Information"
+msgstr "Biografiese Inligting"
+
+#: template-edit-profile.php:225
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Deel'n bietjie biografiese inligting in te vul jou profiel. Dit kan getoon "
+"word in die openbaar."
+
+#: template-edit-profile.php:229
+msgid "New Password"
+msgstr "Nuwe Wagwoord"
+
+#: template-edit-profile.php:229
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"As jy wil om te verander die wagwoord tik'n nuwe een. Anders laat dit leeg."
+
+#: template-edit-profile.php:233
+msgid "Type your new password again."
+msgstr "Tik jou nuwe wagwoord weer."
+
+#: template-edit-profile.php:235
+msgid "Strength indicator"
+msgstr "Sterkte aanwyser"
+
+#: template-edit-profile.php:247
+msgid "Update Profile"
+msgstr "Update Profiel"
+
+#: template-edit-profile.php:253
+msgid "Delete Account"
+msgstr "Verwyder Rekening"
+
+#. Name of the template
+#: includes/single-listing-sub-navigation.php:185
+#: admin/ReduxFramework/theme-options/re7-config.php:5553
+msgid "Contact"
+msgstr "Kontak"
+
+#: template-contact.php:67
+msgid "Name*"
+msgstr "Naam*"
+
+#: template-contact.php:71
+msgid "Email*"
+msgstr "E-pos*"
+
+#: template-contact.php:75 template-favorite-listings.php:121
+#: archive-brokerage.php:117 single-brokerage.php:87 single-brokerage.php:343
+#: template-brokerages.php:131 author.php:90 template-agents.php:308
+#: includes/single-listing-lead-media-with-contact.php:159
+#: includes/single-listing-contact.php:181 includes/single-listing-home.php:277
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29
+#: includes/widgets/ct-widget-listingscontact.php:39
+#: includes/widgets/ct-widget-listingscontact.php:39
+#: includes/widgets/ct-widget-listingscontact.php:39
+msgid "Phone"
+msgstr "Selfoon"
+
+#: template-contact.php:78
+msgid "Subject*"
+msgstr "Onderwerp*"
+
+#: template-contact.php:80
+msgid "Message"
+msgstr "Boodskap"
+
+#: template-contact.php:90 template-submit-listing.php:861
+#: template-favorite-listings.php:128 archive-brokerage.php:125
+#: single-brokerage.php:95 single-brokerage.php:351 template-brokerages.php:137
+#: author.php:100 template-agents.php:318
+#: includes/single-listing-contact.php:198 includes/single-listing-home.php:285
+#: includes/agent-contact-modal.php:38
+#: includes/widgets/ct-widget-listingscontact.php:48
+msgid "Submit"
+msgstr "Stuur"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Hierdie pos is'n wagwoord beskerm. Tik die wagwoord om kommentaar te sien."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Geen Kommentaar"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 Kommentaar"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% Kommentaar"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Nuwer Kommentaar "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Kommentaar is gesluit, maar"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Trackback URL vir hierdie post"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "trackbacks"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "en skakelkennisgewing is oop."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Resensies is gesluit."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Kommentaar is gesluit."
+
+#. Name of the template
+#: header.php:235 header.php:560 header.php:590 includes/user-sidebar.php:51
+msgid "Submit Listing"
+msgstr "Stuur Die Lys"
+
+#: template-submit-listing.php:388
+msgid "You haven't chosen a package yet…"
+msgstr "Jy het\\'n gekies om'n pakket nie..."
+
+#: template-submit-listing.php:389
+msgid "Get Started!"
+msgstr "Kry Begin!"
+
+#: template-submit-listing.php:395
+msgid "Listings Limit Reached"
+msgstr "Volledige Lys Limiet Bereik"
+
+#: template-submit-listing.php:396
+msgid "You've reached the listings limit for your membership package."
+msgstr "Jy've bereik die lys limiet vir jou lidmaatskap pakket."
+
+#: template-submit-listing.php:397
+msgid "Upgrade Today!"
+msgstr "Gradeer Vandag!"
+
+#: template-submit-listing.php:414 template-edit-listing.php:420
+msgid "Street Address"
+msgstr "Straat Adres"
+
+#: template-submit-listing.php:415
+msgid "1234 Somewhere St."
+msgstr "1234 Iewers St"
+
+#: template-submit-listing.php:419 template-edit-listing.php:425
+msgid "Alternate Title"
+msgstr "Alternatiewe Titel"
+
+#: template-submit-listing.php:420 template-edit-listing.php:426
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(bv. die Sentrum Penthouse)"
+
+#: template-submit-listing.php:426 template-advanced-search.php:62
+#: template-edit-listing.php:432 includes/advanced-search.php:35
+#: includes/header-advanced-search.php:122
+#: includes/header-advanced-search.php:523
+#: includes/header-advanced-search.php:533 admin/theme-functions.php:7180
+#: includes/widgets/ct-widget-agentsotherlistings.php:393
+#: includes/widgets/ct-widget-listingssearch.php:93
+#: includes/widgets/ct-widget-listingssearch.php:103
+#: includes/widgets/ct-widget-listings.php:384
+msgid "Type"
+msgstr "Tipe"
+
+#: template-submit-listing.php:434 template-submit-listing.php:459
+#: template-edit-listing.php:438 template-edit-listing.php:467
+#: admin/theme-functions.php:8776 admin/theme-functions.php:8810
+#: admin/theme-functions.php:8844
+msgid "Any"
+msgstr "Enige"
+
+#: template-submit-listing.php:451 template-advanced-search.php:115
+#: template-view-invoices.php:96 template-edit-listing.php:461
+#: includes/single-listing-ct-idx-pro-info.php:118
+#: includes/single-listing-ct-idx-pro-info.php:752
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:257
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:661
+#: includes/header-advanced-search.php:671
+#: includes/widgets/ct-widget-listingssearch.php:252
+#: includes/widgets/ct-widget-listingssearch.php:262
+msgid "Status"
+msgstr "Status"
+
+#: template-submit-listing.php:471 template-view-listings.php:192
+#: template-edit-listing.php:480 includes/home-listings-count.php:201
+#: admin/theme-functions.php:7750
+#: includes/widgets/ct-widget-agentsotherlistings.php:70
+#: includes/widgets/ct-widget-listings.php:62
+msgid "Featured"
+msgstr "Sien"
+
+#: template-submit-listing.php:475 template-submit-listing.php:485
+#: template-view-invoices.php:113
+#: includes/widgets/ct-widget-contactinfo.php:150
+msgid "No"
+msgstr "Geen"
+
+#: template-submit-listing.php:476 template-submit-listing.php:486
+#: template-view-invoices.php:113
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "Yes"
+msgstr "Ja"
+
+#: template-submit-listing.php:480
+msgid "Not Included"
+msgstr "Nie Ingesluit Nie"
+
+#: template-submit-listing.php:480
+msgid "Package Limit Reached"
+msgstr "Pakket Limiet Bereik"
+
+#: template-submit-listing.php:494 template-edit-listing.php:494
+#: includes/single-listing-multi-floorplan.php:50
+msgid "Price"
+msgstr "Prys"
+
+#: template-submit-listing.php:499 template-edit-listing.php:499
+msgid "Price Prefix"
+msgstr "Prys Voorvoegsel"
+
+#: template-submit-listing.php:500 template-edit-listing.php:500
+msgid " (e.g. From, Call for price)"
+msgstr " (bv. Van, Bel vir prys)"
+
+#: template-submit-listing.php:504 template-edit-listing.php:504
+msgid "Price Postfix Text"
+msgstr "Prys Postfix Teks"
+
+#: template-submit-listing.php:505 template-edit-listing.php:505
+msgid " (e.g. /month, /week)"
+msgstr " (bv. die /maand /week)"
+
+#: template-submit-listing.php:510 template-edit-listing.php:510
+msgid "Listing Description"
+msgstr "Notering Beskrywing"
+
+#: template-submit-listing.php:524 template-edit-listing.php:527
+msgid "Listing Featured Image"
+msgstr "Lys Featured Beeld"
+
+#: template-submit-listing.php:529
+msgid "Gallery Images (select as many as you like)"
+msgstr "Gallery van Beelde (kies soveel as wat jy wil)"
+
+#: template-submit-listing.php:536 template-edit-listing.php:536
+#: admin/ReduxFramework/theme-options/re7-config.php:3355
+msgid "Listing Images"
+msgstr "Lys Van Beelde"
+
+#: template-submit-listing.php:546 template-edit-listing.php:617
+msgid "Drag & Drop Images Here"
+msgstr "Sleep "
+
+#: template-submit-listing.php:549 template-edit-listing.php:620
+msgid "or"
+msgstr "of"
+
+#: template-submit-listing.php:552 template-edit-listing.php:623
+msgid "Select Images"
+msgstr "Kies Beelde"
+
+#: template-submit-listing.php:556
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr ""
+"*Ten minste een beeld is geldig vir die indiening, die minimum breedte van "
+"817px."
+
+#: template-submit-listing.php:557 template-edit-listing.php:628
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*Jy kan sien'n beeld te sien deur te kliek op die ster-ikoon, Anders eerste "
+"beeld sal oorweeg word featured beeld."
+
+#: template-submit-listing.php:567 template-edit-listing.php:640
+msgid "Files & Documents"
+msgstr "Lêers "
+
+#: template-submit-listing.php:579 template-edit-listing.php:664
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*Ondersteun lêer tipes PDF, Woord, Excel "
+
+#: template-submit-listing.php:633 template-edit-listing.php:728
+#: includes/header-advanced-search.php:395 admin/theme-functions.php:7121
+#: includes/widgets/ct-widget-agentsotherlistings.php:338
+#: includes/widgets/ct-widget-listings.php:329
+msgid "Lot Size"
+msgstr "Baie Grootte"
+
+#: template-submit-listing.php:638 template-edit-listing.php:733
+#: admin/theme-functions.php:6961
+#: includes/widgets/ct-widget-agentsotherlistings.php:203
+#: includes/widgets/ct-widget-listings.php:194
+msgid "Pets"
+msgstr "Troeteldiere"
+
+#: template-submit-listing.php:639
+msgid "(e.g. Cats, small dogs)"
+msgstr "(bv. Katte, klein honde)"
+
+#: template-submit-listing.php:643 template-edit-listing.php:738
+#: admin/theme-functions.php:6976
+#: includes/widgets/ct-widget-agentsotherlistings.php:218
+#: includes/widgets/ct-widget-listings.php:209
+msgid "Parking"
+msgstr "Parkering"
+
+#: template-submit-listing.php:644
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(bv. Afdak, 2 Kar Garage)"
+
+#: template-submit-listing.php:648 template-advanced-search.php:165
+#: template-advanced-search.php:166 template-edit-listing.php:743
+#: includes/advanced-search.php:220 includes/advanced-search.php:221
+#: includes/header-advanced-search.php:455
+#: includes/header-advanced-search.php:456
+#: includes/header-advanced-search.php:1004
+#: includes/header-advanced-search.php:1005
+#: includes/widgets/ct-widget-listingssearch.php:414
+#: includes/widgets/ct-widget-listingssearch.php:415
+msgid "Property ID"
+msgstr "Eiendom ID"
+
+#: template-submit-listing.php:653 template-edit-listing.php:748
+msgid "Video URL"
+msgstr "Video URL"
+
+#: template-submit-listing.php:660
+msgid "Virtual Tour URL"
+msgstr "Virtuele Toer URL"
+
+#: template-submit-listing.php:668 template-edit-listing.php:763
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:40
+#: includes/single-listing-sub-navigation.php:62 admin/theme-functions.php:7522
+msgid "Open House"
+msgstr "Oop Huis"
+
+#: template-submit-listing.php:671 template-edit-listing.php:766
+#: includes/single-listing-open-house.php:48
+msgid "Date"
+msgstr "Datum"
+
+#: template-submit-listing.php:676 template-edit-listing.php:771
+msgid "Start Time"
+msgstr "Begin Tyd"
+
+#: template-submit-listing.php:681 template-edit-listing.php:776
+msgid "End Time"
+msgstr "Einde Van Die Tyd"
+
+#: template-submit-listing.php:699 template-edit-listing.php:786
+msgid "Additional Features (comma separated)"
+msgstr "Bykomende Funksies (komma geskei)"
+
+#: template-submit-listing.php:714 template-edit-listing.php:801
+msgid "Max-number of Guests"
+msgstr "Maksimum-aantal van die Gaste"
+
+#: template-submit-listing.php:715
+msgid " (e.g. 2)"
+msgstr " (bv. 2)"
+
+#: template-submit-listing.php:719 template-edit-listing.php:806
+msgid "Minimum Stay"
+msgstr "Minimum Verblyf"
+
+#: template-submit-listing.php:720
+msgid " (e.g. 1 night)"
+msgstr " (bv 1 nag)"
+
+#: template-submit-listing.php:726 template-edit-listing.php:813
+msgid "Check In Time"
+msgstr "Check In Tyd"
+
+#: template-submit-listing.php:727
+msgid " (e.g. 3:00 PM)"
+msgstr " (bv. 3:00 PM)"
+
+#: template-submit-listing.php:731 template-edit-listing.php:818
+msgid "Check Out Time"
+msgstr "Check Uit Die Tyd"
+
+#: template-submit-listing.php:732
+msgid " (e.g. 11:00 AM)"
+msgstr " (bv. 11:00 AM)"
+
+#: template-submit-listing.php:738 template-edit-listing.php:825
+msgid "Extra Person Charge"
+msgstr "Ekstra Persoon Beheer"
+
+#: template-submit-listing.php:739
+msgid " (e.g. 50)"
+msgstr " (bv. 50)"
+
+#: template-submit-listing.php:743 template-edit-listing.php:830
+#: admin/theme-functions.php:7280
+msgid "Cleaning Fee"
+msgstr "Skoonmaak Fooi"
+
+#: template-submit-listing.php:744
+msgid " (e.g. 150)"
+msgstr " (bv. 150)"
+
+#: template-submit-listing.php:750 template-edit-listing.php:837
+#: admin/theme-functions.php:7291
+msgid "Cancellation Fee"
+msgstr "Kansellasie Fooi"
+
+#: template-submit-listing.php:751
+msgid " (e.g. 275)"
+msgstr " (bv. 275)"
+
+#: template-submit-listing.php:755 template-edit-listing.php:842
+#: admin/theme-functions.php:7302
+msgid "Security Deposit"
+msgstr "Sekuriteit Deposito"
+
+#: template-submit-listing.php:756
+msgid " (e.g. 895)"
+msgstr " (bv. 895)"
+
+#: template-submit-listing.php:767 author.php:158 template-edit-listing.php:861
+#: admin/profile-fields.php:220
+msgid "Address"
+msgstr "Spreek"
+
+#: template-submit-listing.php:768 template-edit-listing.php:862
+msgid "Type in an address"
+msgstr "Tik in'n adres"
+
+#: template-submit-listing.php:788 template-edit-listing.php:882
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:171
+#: includes/header-advanced-search.php:571
+#: includes/widgets/ct-widget-listingssearch.php:166
+msgid "County"
+msgstr "County"
+
+#: template-submit-listing.php:793 template-advanced-search.php:100
+#: template-edit-listing.php:887 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:581
+#: includes/widgets/ct-widget-listingssearch.php:157
+msgid "Country"
+msgstr "Land"
+
+#: template-submit-listing.php:803 template-edit-listing.php:897
+msgid "Latitude & Longitude (optional)"
+msgstr "Latitude "
+
+#: template-submit-listing.php:812 template-edit-listing.php:906
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Jy kan ook die hand te sleep die merker om die presiese ligging van jou lys "
+"as die outomatiese geolocation is af."
+
+#: template-submit-listing.php:824 template-edit-listing.php:912
+#: admin/theme-functions.php:6499
+#: admin/ReduxFramework/theme-options/re7-config.php:5003
+msgid "Private Notes"
+msgstr "Private Notas"
+
+#: template-submit-listing.php:825 template-edit-listing.php:913
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Skryf'n private nota oor hierdie lys, dit textarea sal nie vertoon word nie "
+"op enige plek op die voorkant van die site."
+
+#: template-submit-listing.php:844 template-edit-listing.php:932
+msgid "Cancel"
+msgstr "Kanselleer"
+
+#: template-submit-listing.php:845
+msgid "Save As Draft"
+msgstr "Red As'n Konsep"
+
+#: template-submit-listing.php:853 template-edit-listing.php:936
+msgid "Next"
+msgstr "Volgende"
+
+#: template-submit-listing.php:862 template-edit-listing.php:937
+msgid "Previous"
+msgstr "Vorige"
+
+#: template-submit-listing.php:872 single.php:127 page.php:59
+#: template-dsidxpress.php:41 template-edit-listing.php:970
+msgid "Pages:"
+msgstr "Pages:"
+
+#. Name of the template
+#: header.php:226 header.php:551 includes/user-sidebar.php:42
+#: admin/ReduxFramework/theme-options/re7-config.php:5357
+msgid "Favorite Listings"
+msgstr "Gunsteling Lys"
+
+#: template-favorite-listings.php:112 archive-brokerage.php:108
+#: single-brokerage.php:78 single-brokerage.php:334 template-brokerages.php:122
+#: author.php:81 template-agents.php:299
+msgid "Tell me more about a property"
+msgstr "Vertel my meer oor'n eiendom"
+
+#: template-favorite-listings.php:113 archive-brokerage.php:109
+#: single-brokerage.php:79 single-brokerage.php:335 template-brokerages.php:123
+#: author.php:82 template-agents.php:300
+#: includes/single-listing-lead-media-with-contact.php:145
+#: includes/single-listing-contact.php:167 includes/single-listing-home.php:270
+#: includes/agent-contact-modal.php:22
+#: includes/widgets/ct-widget-listingscontact.php:32
+msgid "Request a showing"
+msgstr "Versoek'n vertoning"
+
+#: template-favorite-listings.php:114 archive-brokerage.php:110
+#: single-brokerage.php:80 single-brokerage.php:336 template-brokerages.php:124
+#: author.php:83 template-agents.php:301
+msgid "General Questions"
+msgstr "Algemene Vrae"
+
+#: template-favorite-listings.php:145
+msgid "Request More Information on All Favorites"
+msgstr "Versoek Meer Inligting oor Al die Gunstelinge"
+
+#: template-favorite-listings.php:221 archive-brokerage.php:208
+#: template-view-listings.php:205 template-brokerages.php:220
+#: includes/single-listing-multi-floorplan.php:129
+#: includes/single-listing-ct-idx-pro-info.php:493
+#: includes/single-listing-ct-idx-pro-info.php:1092
+#: includes/featured-listings.php:118 layouts/grid.php:113
+msgid "View"
+msgstr "Kyk"
+
+#: template-favorite-listings.php:247
+msgid "Previous Entries"
+msgstr "Vorige Inskrywings"
+
+#: template-favorite-listings.php:248
+msgid "Next Entries"
+msgstr "Die Volgende Inskrywings"
+
+#. Name of the template
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2651
+msgid "Brokerages"
+msgstr "Makelaars"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Tik'n stel naam of adres hier om te filter die lys."
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "Geen Makelaars Gevind."
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/Sidebar"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Volle Breedte"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "Gebruiker Paneelbord"
+
+#. Name of the template
+#: template-user-dashboard.php:85 header.php:241 header.php:566
+#: includes/user-sidebar.php:57
+msgid "Membership"
+msgstr "Lidmaatskap"
+
+#: template-user-dashboard.php:108
+msgid "Leads Active"
+msgstr ""
+
+#: template-user-dashboard.php:109 template-user-dashboard.php:119
+msgid "Past 30 Days"
+msgstr ""
+
+#: template-user-dashboard.php:118
+msgid "Lead Sources"
+msgstr ""
+
+#: template-user-dashboard.php:135
+msgid "Leads Funnel"
+msgstr ""
+
+#: template-user-dashboard.php:160 header.php:238 header.php:563
+#: includes/user-sidebar.php:54
+msgid "My Listings"
+msgstr "My Lys"
+
+#: template-user-dashboard.php:183
+#: admin/ReduxFramework/theme-options/re7-config.php:1452
+msgid "Featured Listings"
+msgstr "Lyste"
+
+#: template-user-dashboard.php:206
+msgid "Pending Listings"
+msgstr "Hangende Lys"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Kontak Geen Vorm"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Demo Huis Volledige Lys Skuiwer"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:5229
+msgid "Listing Email Alerts"
+msgstr "Lys Van E-Pos Kennisgewings"
+
+#: template-listing-email-alerts.php:86
+msgid "Manage your alerts"
+msgstr "Bestuur jou waarskuwings"
+
+#: template-listing-email-alerts.php:87
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"Hier kan jy draai gered waarskuwings op/af of verwyder hulle heeltemal."
+
+#: template-listing-email-alerts.php:92
+msgid "Query"
+msgstr "Navraag"
+
+#: template-listing-email-alerts.php:95
+msgid "Date Created"
+msgstr "Datum Geskep"
+
+#: template-listing-email-alerts.php:98
+msgid "Email Setting"
+msgstr "Die Opstel Van E-Pos"
+
+#: template-listing-email-alerts.php:101 admin/theme-functions.php:5425
+msgid "Delete"
+msgstr "Verwyder"
+
+#: template-listing-email-alerts.php:128
+msgid "You don't have any saved searches yet, create one above."
+msgstr "Jy don't het'n gestoorde soektogte nog, skep een hierbo."
+
+#: template-listing-email-alerts.php:140
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Aktiveer \"Contempo E-pos Kennisgewings\" inprop via Voorkoms > Installeer "
+"Plugins."
+
+#: header.php:190 header.php:513
+msgid "Hi, "
+msgstr "Hi, "
+
+#: header.php:220 header.php:545 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: header.php:229 header.php:554 includes/user-sidebar.php:45
+msgid "Saved Searches"
+msgstr "Gestoor Soektogte"
+
+#. Name of the template
+#: header.php:244 header.php:569 includes/user-sidebar.php:60
+msgid "Invoices"
+msgstr "Fakture"
+
+#: header.php:247 header.php:572 includes/user-sidebar.php:63
+msgid "Analytics"
+msgstr ""
+
+#: header.php:252 header.php:577 includes/user-sidebar.php:67
+msgid "Account Settings"
+msgstr "Rekening Instellings"
+
+#: header.php:255 header.php:580 includes/user-sidebar.php:70
+msgid "Logout"
+msgstr "Logout"
+
+#: header.php:259 header.php:588
+msgid "Login / Register"
+msgstr "Login / Registreer"
+
+#: header.php:259 header.php:588 admin/theme-functions.php:5576
+msgid "Login"
+msgstr "Teken"
+
+#: header.php:829
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "Voeg \"CT Vergelyk\" Widget via Voorkoms > Widgets > Vergelyk."
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2729
+msgid "Advanced Search"
+msgstr "Gevorderde Soek"
+
+#: template-advanced-search.php:67 template-agents.php:96
+#: includes/advanced-search.php:44 includes/header-advanced-search.php:131
+#: includes/header-advanced-search.php:543 admin/profile-fields.php:226
+#: admin/theme-functions.php:8100
+#: includes/widgets/ct-widget-listingssearch.php:112
+msgid "City"
+msgstr "Stad"
+
+#: template-advanced-search.php:77 includes/advanced-search.php:58
+#: admin/theme-functions.php:8022 admin/theme-functions.php:8041
+#: admin/theme-functions.php:8123
+#: includes/widgets/ct-widget-listingssearch.php:126
+msgid "Area"
+msgstr "Area"
+
+#: template-advanced-search.php:79 includes/advanced-search.php:60
+#: admin/theme-functions.php:8121 admin/theme-functions.php:8161
+#: includes/widgets/ct-widget-listingssearch.php:128
+msgid "Suburb"
+msgstr "Voorstad"
+
+#: template-advanced-search.php:81 includes/advanced-search.php:62
+#: admin/profile-fields.php:234 admin/theme-functions.php:8125
+#: includes/widgets/ct-widget-listingssearch.php:130
+msgid "State"
+msgstr "Die staat"
+
+#: template-advanced-search.php:92 includes/advanced-search.php:77
+#: admin/theme-functions.php:8142
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Postcode"
+msgstr "Poskode"
+
+#: template-advanced-search.php:94 template-agents.php:104
+#: includes/advanced-search.php:79 admin/theme-functions.php:8144
+#: includes/widgets/ct-widget-listingssearch.php:147
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: template-advanced-search.php:105 template-view-listings.php:156
+#: search-listings.php:32 includes/single-listing-multi-floorplan.php:40
+#: includes/advanced-search.php:107 includes/header-advanced-search.php:189
+#: includes/header-advanced-search.php:591 admin/theme-functions.php:6922
+#: admin/theme-functions.php:8060 admin/theme-functions.php:8374
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:164
+#: includes/widgets/ct-widget-listingssearch.php:184
+#: includes/widgets/ct-widget-listings.php:155
+msgid "Beds"
+msgstr "Beddens"
+
+#: template-advanced-search.php:110 template-view-listings.php:172
+#: search-listings.php:40 includes/single-listing-multi-floorplan.php:43
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:198
+#: includes/header-advanced-search.php:601 admin/theme-functions.php:6942
+#: admin/theme-functions.php:8079 admin/theme-functions.php:8380
+#: layouts/list.php:110 includes/widgets/ct-widget-agentsotherlistings.php:184
+#: includes/widgets/ct-widget-listingssearch.php:193
+#: includes/widgets/ct-widget-listings.php:175
+msgid "Baths"
+msgstr "Bad"
+
+#: template-advanced-search.php:125
+#: includes/single-listing-ct-idx-pro-info.php:140
+#: includes/single-listing-ct-idx-pro-info.php:774
+#: includes/advanced-search.php:148 includes/header-advanced-search.php:290
+#: includes/header-advanced-search.php:714 admin/theme-functions.php:8159
+#: includes/widgets/ct-widget-listingssearch.php:285
+msgid "Neighborhood"
+msgstr "Omgewing"
+
+#: template-advanced-search.php:127
+#: includes/single-listing-ct-idx-pro-info.php:626
+#: includes/single-listing-ct-idx-pro-info.php:1198
+#: includes/advanced-search.php:150 includes/header-advanced-search.php:292
+#: includes/header-advanced-search.php:716 admin/theme-functions.php:8163
+#: includes/widgets/ct-widget-listingssearch.php:287
+msgid "District"
+msgstr "Distrik"
+
+#: template-advanced-search.php:129 includes/advanced-search.php:152
+#: includes/header-advanced-search.php:180
+#: includes/header-advanced-search.php:294
+#: includes/header-advanced-search.php:718 admin/theme-functions.php:8175
+#: includes/widgets/ct-widget-listingssearch.php:175
+#: includes/widgets/ct-widget-listingssearch.php:289
+msgid "Community"
+msgstr "Gemeenskap"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:162 includes/advanced-search.php:163
+#: includes/header-advanced-search.php:304
+#: includes/header-advanced-search.php:305
+#: includes/header-advanced-search.php:728
+#: includes/header-advanced-search.php:729
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-listingssearch.php:300
+msgid "Price From"
+msgstr "Die Prys Van"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:313
+#: includes/header-advanced-search.php:314
+#: includes/header-advanced-search.php:740
+#: includes/header-advanced-search.php:741
+#: includes/widgets/ct-widget-listingssearch.php:308
+#: includes/widgets/ct-widget-listingssearch.php:309
+msgid "Price To"
+msgstr "Prys Om Te"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:181 includes/header-advanced-search.php:341
+#: includes/header-advanced-search.php:806
+#: includes/widgets/ct-widget-listingssearch.php:337
+msgid "Size From"
+msgstr "Grootte Van"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:350
+#: includes/header-advanced-search.php:818
+#: includes/widgets/ct-widget-listingssearch.php:346
+msgid "Size To"
+msgstr "Grootte Te"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:198 includes/advanced-search.php:199
+#: includes/header-advanced-search.php:376
+#: includes/header-advanced-search.php:377
+#: includes/header-advanced-search.php:885
+#: includes/header-advanced-search.php:886
+#: includes/widgets/ct-widget-listingssearch.php:373
+#: includes/widgets/ct-widget-listingssearch.php:374
+msgid "Lot Size From"
+msgstr "Baie Grootte Van"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:385
+#: includes/header-advanced-search.php:386
+#: includes/header-advanced-search.php:897
+#: includes/header-advanced-search.php:898
+#: includes/widgets/ct-widget-listingssearch.php:382
+#: includes/widgets/ct-widget-listingssearch.php:383
+msgid "Lot Size To"
+msgstr "Baie Grootte Te"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:230 includes/advanced-search.php:231
+#: includes/header-advanced-search.php:465
+#: includes/header-advanced-search.php:466
+#: includes/header-advanced-search.php:1014
+#: includes/header-advanced-search.php:1015
+#: includes/widgets/ct-widget-listingssearch.php:424
+#: includes/widgets/ct-widget-listingssearch.php:425
+msgid "Number of Guests"
+msgstr "Aantal van die Gaste"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:134
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Additional Features"
+msgstr "Bykomende Funksies"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:253
+#: includes/header-advanced-search.php:501
+#: includes/home-hero-advanced-search.php:39
+#: includes/widgets/ct-widget-listingssearch.php:438
+msgid "Search"
+msgstr "Soek"
+
+#: footer.php:88
+msgid "Back to top"
+msgstr "Terug na bo"
+
+#: footer.php:90
+msgid "All Rights Reserved."
+msgstr "Alle Regte Voorbehou."
+
+#: footer.php:90
+msgid "Back to top "
+msgstr "Terug na bo "
+
+#. Name of the template
+#: admin/theme-functions.php:6653
+msgid "Compare"
+msgstr "Vergelyk"
+
+#. Name of the template
+#: single-brokerage.php:422
+msgid "View Listings"
+msgstr "Sien Volledige Lys"
+
+#: template-view-listings.php:95
+msgid "Type a listing name or address here to filter the list."
+msgstr "Tik'n lys naam of adres hier om te filter die lys."
+
+#: template-view-listings.php:152 search-listings.php:28
+#: includes/single-listing-ct-idx-pro-info.php:537
+#: includes/single-listing-ct-idx-pro-info.php:539
+#: includes/single-listing-ct-idx-pro-info.php:1128
+#: admin/theme-functions.php:6918 admin/theme-functions.php:8056
+#: admin/theme-functions.php:8368 layouts/list.php:86
+#: includes/widgets/ct-widget-agentsotherlistings.php:160
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Rooms"
+msgstr "Kamers"
+
+#: template-view-listings.php:154 search-listings.php:30
+#: includes/single-listing-ct-idx-pro-info.php:547
+#: includes/single-listing-ct-idx-pro-info.php:1134
+#: admin/theme-functions.php:6920 admin/theme-functions.php:8058
+#: admin/theme-functions.php:8370 layouts/list.php:88
+#: includes/widgets/ct-widget-agentsotherlistings.php:162
+#: includes/widgets/ct-widget-listings.php:153
+msgid "Bedrooms"
+msgstr "Slaapkamers"
+
+#: template-view-listings.php:158 search-listings.php:34
+#: admin/theme-functions.php:6924 admin/theme-functions.php:8062
+#: admin/theme-functions.php:8372 layouts/list.php:92
+#: includes/widgets/ct-widget-agentsotherlistings.php:166
+#: includes/widgets/ct-widget-listings.php:157
+msgid "Bed"
+msgstr "Bed"
+
+#: template-view-listings.php:170 search-listings.php:38
+#: admin/theme-functions.php:6940 admin/theme-functions.php:8077
+#: admin/theme-functions.php:8376 layouts/list.php:108
+#: includes/widgets/ct-widget-agentsotherlistings.php:182
+#: includes/widgets/ct-widget-listings.php:173
+msgid "Bathrooms"
+msgstr "Badkamers"
+
+#: template-view-listings.php:174 search-listings.php:42
+#: admin/theme-functions.php:6944 admin/theme-functions.php:8081
+#: admin/theme-functions.php:8378 layouts/list.php:112
+#: includes/widgets/ct-widget-agentsotherlistings.php:186
+#: includes/widgets/ct-widget-listings.php:177
+msgid "Bath"
+msgstr "Bad"
+
+#: template-view-listings.php:185
+msgid "Published"
+msgstr "Gepubliseer"
+
+#: template-view-listings.php:187
+msgid "Pending"
+msgstr "Hangende"
+
+#: template-view-listings.php:189
+msgid "Draft"
+msgstr "Ontwerp"
+
+#: template-view-listings.php:204
+msgid "Edit"
+msgstr "Wysig"
+
+#: template-view-listings.php:208 admin/theme-functions.php:6754
+msgid " Views"
+msgstr " Uitsig"
+
+#: template-view-listings.php:229
+msgid "Paid"
+msgstr "Betaal"
+
+#: template-view-listings.php:245
+msgid "You don't have any listings yet..."
+msgstr "Jy don't het'n volledige lys nie..."
+
+#: template-view-listings.php:246
+msgid "Create One"
+msgstr "Skep Een"
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:57
+#: layouts/blog-large.php:57
+msgid "By"
+msgstr "Deur"
+
+#: single.php:79 layouts/blog-grid.php:57 layouts/blog-large.php:57
+msgid "in"
+msgstr "in"
+
+#: single.php:79 layouts/blog-grid.php:57 layouts/blog-large.php:57
+msgid "with"
+msgstr "met"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX Volle Breedte"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#: search-listings.php:250 search-listings.php:351 search-listings.php:401
+msgid "listings found"
+msgstr "volledige lys gevind"
+
+#: search-listings.php:250 search-listings.php:351 search-listings.php:401
+msgid "listing found"
+msgstr "lys gevind"
+
+#: search-listings.php:254 search-listings.php:355 search-listings.php:408
+msgid "Loading Results…"
+msgstr "Laai Die Resultate..."
+
+#: search-listings.php:259 search-listings.php:361
+msgid "Find A Home"
+msgstr "Vind'n Huis"
+
+#: search-listings.php:372 search-listings.php:393 search-listings.php:416
+msgid "Searching:"
+msgstr "Soek:"
+
+#: search-listings.php:376 search-listings.php:397 search-listings.php:420
+msgid "All listings"
+msgstr "Alle lyste"
+
+#: search-listings.php:379 search-listings.php:422
+#: admin/theme-functions.php:1287
+msgid "Close Map"
+msgstr "Naby Kaart"
+
+#: search-listings.php:462 single-brokerage.php:212
+#: includes/single-listing-header.php:73
+msgid "Map"
+msgstr "Kaart"
+
+#: search-listings.php:465
+msgid "Grid"
+msgstr ""
+
+#: search-listings.php:478 search-listings.php:482
+msgid "Save Search"
+msgstr ""
+
+#: search-listings.php:480
+msgid "View Saved"
+msgstr "Kyk Gered"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Volle Breedte 2"
+
+#: single-brokerage.php:39 includes/header-advanced-search.php:276
+#: includes/header-advanced-search.php:681 admin/profile-fields.php:189
+msgid "Brokerage"
+msgstr "Stel"
+
+#. Name of the template
+#: single-brokerage.php:211
+#: admin/ReduxFramework/theme-options/re7-config.php:2508
+msgid "Agents"
+msgstr "Agente"
+
+#: single-brokerage.php:214 includes/single-listing-sub-navigation.php:165
+msgid "Reviews"
+msgstr "Resensies"
+
+#: single-brokerage.php:278
+msgid "Type an agents name or title here to filter the list."
+msgstr "Tik'n agente naam of titel hier om te filter die lys."
+
+#: single-brokerage.php:433
+msgid "This brokerage currently has no active agents."
+msgstr "Hierdie makelaars het tans geen aktiewe agente."
+
+#: single-brokerage.php:433 layouts/grid.php:23 layouts/grid.php:27
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "Kyk gou terug."
+
+#: single-brokerage.php:455 includes/single-listing-reviews.php:21
+#: includes/single-listing-reviews.php:25
+msgid "No Reviews"
+msgstr "Geen Resensies"
+
+#: single-brokerage.php:455 includes/single-listing-reviews.php:21
+#: includes/single-listing-reviews.php:25
+msgid "1 Review"
+msgstr "1 Oorsig"
+
+#: single-brokerage.php:455 includes/single-listing-reviews.php:21
+#: includes/single-listing-reviews.php:25
+msgid "% Reviews"
+msgstr "% Resensies"
+
+#: template-view-invoices.php:83
+msgid "You haven't placed any orders yet…"
+msgstr "Jy het\\'t geplaas enige bestellings nog..."
+
+#: template-view-invoices.php:91
+msgid "Invoice"
+msgstr "Faktuur"
+
+#: template-view-invoices.php:92
+msgid "Package"
+msgstr "Pakket"
+
+#: template-view-invoices.php:93
+msgid "Start"
+msgstr "Begin"
+
+#: template-view-invoices.php:94
+msgid "Expire"
+msgstr "Verval"
+
+#: template-view-invoices.php:95
+msgid "Recurring"
+msgstr "Herhalende"
+
+#: template-view-invoices.php:97
+msgid "Total"
+msgstr "Totale"
+
+#: template-view-invoices.php:114 admin/theme-functions.php:6407
+msgid "Expired"
+msgstr "Verstryk het"
+
+#: template-view-invoices.php:124
+msgid "-"
+msgstr "-"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#. Name of the template
+#: includes/home-listings-count.php:71
+msgid "Open Houses"
+msgstr "Oop Huise"
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Groot Kaart"
+
+#: author.php:39 includes/single-listing-lead-media-with-contact.php:114
+#: includes/single-listing-contact.php:72 admin/profile-fields.php:87
+#: admin/theme-functions.php:2662 admin/theme-functions.php:5684
+#: layouts/list.php:151
+msgid "Agent"
+msgstr "Agent"
+
+#: author.php:166
+msgid "Social"
+msgstr "Sosiale"
+
+#: author.php:297 author.php:530
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Tik'n lys adres of navraag te filter die lys."
+
+#: template-agents.php:84
+msgid "Select a State"
+msgstr "Kies'n Staat"
+
+#: template-agents.php:125
+msgid "Search Agents"
+msgstr "Soek Agente"
+
+#: template-agents.php:135 template-agents.php:160
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:350
+msgid "Broker#"
+msgstr ""
+
+#: template-agents.php:351
+msgid "License#"
+msgstr ""
+
+#: template-agents.php:419
+msgid "View Profile"
+msgstr "View Profile"
+
+#: template-agents.php:441
+msgid "Previous Page"
+msgstr "Vorige Bladsy"
+
+#: template-agents.php:445
+msgid "Next Page"
+msgstr "Volgende Bladsy"
+
+#: template-agents.php:453
+msgid "No Agents Found."
+msgstr "Geen Agente Gevind."
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Wysig Die Lys"
+
+#: template-edit-listing.php:627
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"*Ten minste een beeld is wat nodig is vir geldige voorlegging, minimum "
+"breedte van 817px."
+
+#: template-edit-listing.php:755
+msgid "Vitrual Tour URL"
+msgstr "Vitrual Toer URL"
+
+#: template-edit-listing.php:954
+msgid "Update"
+msgstr "Update"
+
+#: template-edit-listing.php:964
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "Hierdie isn't een van jou opgedra volledige lys, redigering is ontken."
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Laaste Twintig Poste"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Bladsye"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Kategorieë"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Poste per kategorie"
+
+#: includes/single-listing-features.php:23
+#: includes/single-listing-features.php:25
+msgid "Property Features"
+msgstr "Eiendom Funksies"
+
+#: includes/single-listing-open-house.php:51
+msgid "Time"
+msgstr "Tyd"
+
+#: includes/single-listing-open-house.php:54
+#: includes/single-listing-open-house.php:96
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-attachments.php:22
+#: includes/single-listing-attachments.php:24
+#: includes/single-listing-sub-navigation.php:120
+msgid "Attachments"
+msgstr "Aanhegsels"
+
+#: includes/single-listing-map.php:22 includes/single-listing-map.php:24
+#: includes/single-listing-sub-navigation.php:151
+#: includes/single-listing-sub-navigation.php:180
+#: admin/theme-functions.php:6498
+#: admin/ReduxFramework/theme-options/re7-config.php:4914
+msgid "Location"
+msgstr "Plek"
+
+#: includes/single-listing-map.php:36
+msgid "Enter your starting address"
+msgstr "Tik jou begin spreek"
+
+#: includes/single-listing-map.php:52
+msgid "get directions"
+msgstr "kry aanwysings"
+
+#: includes/single-listing-energy-efficiency.php:24
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Efficiency"
+msgstr "Energie Doeltreffendheid"
+
+#: includes/single-listing-energy-efficiency.php:33
+msgid "Energy Class"
+msgstr "Energie Klas"
+
+#: includes/single-listing-energy-efficiency.php:36
+msgid "Global Energy Performance"
+msgstr "Globale Energie Prestasie"
+
+#: includes/single-listing-energy-efficiency.php:39
+msgid "Renewable Energy Performance"
+msgstr "Hernubare Energie Prestasie"
+
+#: includes/single-listing-energy-efficiency.php:42
+msgid "Building Energy Performance"
+msgstr "Die Bou Van Energie Prestasie"
+
+#: includes/single-listing-lead-media-with-contact.php:144
+#: includes/single-listing-contact.php:166
+msgid "Tell me more about this listing"
+msgstr "Vertel my meer oor hierdie lys"
+
+#: includes/single-listing-lead-media-with-contact.php:174
+msgid "Request Information"
+msgstr "Versoek Inligting"
+
+#: includes/single-listing-multi-floorplan.php:24
+#: includes/single-listing-multi-floorplan.php:26
+msgid "Floor Plans & Pricing"
+msgstr "Vloer Planne "
+
+#: includes/single-listing-multi-floorplan.php:47
+msgid "Size"
+msgstr "Grootte"
+
+#: includes/single-listing-multi-floorplan.php:53
+msgid "Availability"
+msgstr "Beskikbaarheid"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Beskrywing"
+
+#: includes/single-listing-sub-navigation.php:43 admin/theme-functions.php:6494
+#: admin/ReduxFramework/theme-options/re7-config.php:4706
+msgid "Details"
+msgstr "Besonderhede"
+
+#: includes/single-listing-sub-navigation.php:72
+msgid "Floor Plans"
+msgstr "Vloer Planne"
+
+#: includes/single-listing-sub-navigation.php:89 admin/theme-functions.php:6496
+#: admin/ReduxFramework/theme-options/re7-config.php:4825
+msgid "Rental Info"
+msgstr "Huur Info"
+
+#: includes/single-listing-sub-navigation.php:100
+#: includes/single-listing-ct-idx-pro-info.php:392
+#: includes/single-listing-ct-idx-pro-info.php:394
+#: includes/single-listing-ct-idx-pro-info.php:998
+msgid "Features"
+msgstr "Funksies"
+
+#: includes/single-listing-sub-navigation.php:110
+msgid "Booking"
+msgstr "Bespreking"
+
+#: includes/single-listing-sub-navigation.php:130
+#: includes/single-listing-video.php:25 includes/single-listing-video.php:27
+msgid "Video"
+msgstr "Video"
+
+#: includes/single-listing-sub-navigation.php:143
+msgid "Tour"
+msgstr "Toer"
+
+#: includes/single-listing-sub-navigation.php:158
+msgid "Nearby"
+msgstr "Die nabygeleë"
+
+#: includes/single-listing-sub-navigation.php:179
+msgid "Listing Features"
+msgstr "Lys Funksies"
+
+#: includes/single-listing-ct-idx-pro-info.php:108
+#: includes/single-listing-ct-idx-pro-info.php:110
+#: includes/single-listing-ct-idx-pro-info.php:746
+msgid "Overview"
+msgstr "Oorsig"
+
+#: includes/single-listing-ct-idx-pro-info.php:129
+#: includes/single-listing-ct-idx-pro-info.php:763
+msgid "Sold Date"
+msgstr "Verkoop Datum"
+
+#: includes/single-listing-ct-idx-pro-info.php:151
+#: includes/single-listing-ct-idx-pro-info.php:785
+msgid "Subdivision"
+msgstr "Onderverdeling"
+
+#: includes/single-listing-ct-idx-pro-info.php:162
+#: includes/single-listing-ct-idx-pro-info.php:796
+msgid "Style"
+msgstr "Styl"
+
+#: includes/single-listing-ct-idx-pro-info.php:173
+#: includes/single-listing-ct-idx-pro-info.php:807
+#: admin/theme-functions.php:7094
+msgid "Year Built"
+msgstr "Jaar Gebou"
+
+#: includes/single-listing-ct-idx-pro-info.php:184
+#: includes/single-listing-ct-idx-pro-info.php:818
+msgid "Fencing"
+msgstr "Omheining"
+
+#: includes/single-listing-ct-idx-pro-info.php:195
+#: includes/single-listing-ct-idx-pro-info.php:829
+msgid "Topography"
+msgstr "Topografie"
+
+#: includes/single-listing-ct-idx-pro-info.php:206
+#: includes/single-listing-ct-idx-pro-info.php:840
+msgid "Lot Sq Ft"
+msgstr "Baie Vk M"
+
+#: includes/single-listing-ct-idx-pro-info.php:217
+#: includes/single-listing-ct-idx-pro-info.php:402
+#: includes/single-listing-ct-idx-pro-info.php:851
+#: includes/single-listing-ct-idx-pro-info.php:1004
+msgid "Exterior"
+msgstr "Buite"
+
+#: includes/single-listing-ct-idx-pro-info.php:228
+#: includes/single-listing-ct-idx-pro-info.php:862
+msgid "Roofing"
+msgstr "Die dak"
+
+#: includes/single-listing-ct-idx-pro-info.php:242
+#: includes/single-listing-ct-idx-pro-info.php:873
+msgid "Structures"
+msgstr "Strukture"
+
+#: includes/single-listing-ct-idx-pro-info.php:253
+#: includes/single-listing-ct-idx-pro-info.php:884
+msgid "Parking/Garage"
+msgstr "Parkering/Garage"
+
+#: includes/single-listing-ct-idx-pro-info.php:269
+#: includes/single-listing-ct-idx-pro-info.php:895
+msgid "Parking/Garage Spaces"
+msgstr "Parkering/Garage Spasies"
+
+#: includes/single-listing-ct-idx-pro-info.php:280
+#: includes/single-listing-ct-idx-pro-info.php:906
+msgid "Garage Stalls"
+msgstr "Garage Stalletjies"
+
+#: includes/single-listing-ct-idx-pro-info.php:291
+#: includes/single-listing-ct-idx-pro-info.php:917
+msgid "Utilities"
+msgstr "Utilities"
+
+#: includes/single-listing-ct-idx-pro-info.php:302
+#: includes/single-listing-ct-idx-pro-info.php:928
+msgid "Heating"
+msgstr "Verwarming"
+
+#: includes/single-listing-ct-idx-pro-info.php:317
+#: includes/single-listing-ct-idx-pro-info.php:939
+msgid "Primary Heating"
+msgstr "Primêre Verwarming"
+
+#: includes/single-listing-ct-idx-pro-info.php:328
+#: includes/single-listing-ct-idx-pro-info.php:950
+msgid "Heat Source"
+msgstr "Hitte Bron"
+
+#: includes/single-listing-ct-idx-pro-info.php:339
+#: includes/single-listing-ct-idx-pro-info.php:961
+msgid "Cooling"
+msgstr "Verkoeling"
+
+#: includes/single-listing-ct-idx-pro-info.php:354
+#: includes/single-listing-ct-idx-pro-info.php:972
+msgid "Water"
+msgstr "Water"
+
+#: includes/single-listing-ct-idx-pro-info.php:365
+#: includes/single-listing-ct-idx-pro-info.php:983
+msgid "Sewer/Septic"
+msgstr "Riool/Septiese"
+
+#: includes/single-listing-ct-idx-pro-info.php:413
+#: includes/single-listing-ct-idx-pro-info.php:1015
+msgid "Interior"
+msgstr "Binneland"
+
+#: includes/single-listing-ct-idx-pro-info.php:424
+#: includes/single-listing-ct-idx-pro-info.php:1026
+msgid "Equipment"
+msgstr "Toerusting"
+
+#: includes/single-listing-ct-idx-pro-info.php:435
+#: includes/single-listing-ct-idx-pro-info.php:1037
+msgid "Misc"
+msgstr "Misc"
+
+#: includes/single-listing-ct-idx-pro-info.php:446
+#: includes/single-listing-ct-idx-pro-info.php:1048
+msgid "Fireplace"
+msgstr "Kaggel"
+
+#: includes/single-listing-ct-idx-pro-info.php:457
+#: includes/single-listing-ct-idx-pro-info.php:1059
+msgid "Fireplace Type"
+msgstr "Kaggel Tipe"
+
+#: includes/single-listing-ct-idx-pro-info.php:471
+#: includes/single-listing-ct-idx-pro-info.php:1070
+msgid "Number of Fireplaces"
+msgstr "Aantal van Kaggels"
+
+#: includes/single-listing-ct-idx-pro-info.php:482
+#: includes/single-listing-ct-idx-pro-info.php:1081
+msgid "Pool"
+msgstr "Swembad"
+
+#: includes/single-listing-ct-idx-pro-info.php:504
+#: includes/single-listing-ct-idx-pro-info.php:1103
+msgid "Security"
+msgstr "Sekuriteit"
+
+#: includes/single-listing-ct-idx-pro-info.php:515
+#: includes/single-listing-ct-idx-pro-info.php:1114
+msgid "Floor Coverings"
+msgstr "Vloerbedekkings"
+
+#: includes/single-listing-ct-idx-pro-info.php:558
+#: includes/single-listing-ct-idx-pro-info.php:1145
+msgid "Full Baths"
+msgstr "Vol Bad"
+
+#: includes/single-listing-ct-idx-pro-info.php:569
+#: includes/single-listing-ct-idx-pro-info.php:1156
+msgid "3/4 Baths"
+msgstr "3/4 Bad"
+
+#: includes/single-listing-ct-idx-pro-info.php:583
+#: includes/single-listing-ct-idx-pro-info.php:1167
+msgid "1/2 Baths"
+msgstr "1/2 Bad"
+
+#: includes/single-listing-ct-idx-pro-info.php:594
+#: includes/single-listing-ct-idx-pro-info.php:1178
+msgid "Basement"
+msgstr "Kelder"
+
+#: includes/single-listing-ct-idx-pro-info.php:616
+#: includes/single-listing-ct-idx-pro-info.php:618
+#: includes/single-listing-ct-idx-pro-info.php:1192
+msgid "Schools"
+msgstr "Skole"
+
+#: includes/single-listing-ct-idx-pro-info.php:637
+#: includes/single-listing-ct-idx-pro-info.php:1209
+msgid "Elementary"
+msgstr "Elementêre"
+
+#: includes/single-listing-ct-idx-pro-info.php:651
+#: includes/single-listing-ct-idx-pro-info.php:1220
+msgid "Middle"
+msgstr "Midde -"
+
+#: includes/single-listing-ct-idx-pro-info.php:662
+#: includes/single-listing-ct-idx-pro-info.php:1231
+msgid "High"
+msgstr "Hoë"
+
+#: includes/single-listing-ct-idx-pro-info.php:684
+#: includes/single-listing-ct-idx-pro-info.php:686
+#: includes/single-listing-ct-idx-pro-info.php:694
+#: includes/single-listing-ct-idx-pro-info.php:1245
+#: includes/single-listing-ct-idx-pro-info.php:1251
+msgid "HOA"
+msgstr "HEV"
+
+#: includes/single-listing-ct-idx-pro-info.php:705
+#: includes/single-listing-ct-idx-pro-info.php:1262
+msgid "HOA Fee Due"
+msgstr "HEV Fooi as Gevolg van"
+
+#: includes/single-listing-ct-idx-pro-info.php:716
+#: includes/single-listing-ct-idx-pro-info.php:1273
+msgid "HOA Includes"
+msgstr "HEV Sluit"
+
+#: includes/single-listing-contact.php:56
+msgid "You Must be Registered to View Agent Details"
+msgstr "Jy Moet Geregistreer wees om te Kyk Agent Besonderhede"
+
+#: includes/single-listing-contact.php:124
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:152 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "Versoek Meer Inligting"
+
+#: includes/single-listing-contact.php:213 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Mede-aanbieding Agent"
+
+#: includes/ajax-single-listing-template-chunk-2.php:20
+msgid "Mortgage Calculator"
+msgstr "Verband Sakrekenaar"
+
+#: includes/single-listing-yelp.php:25 includes/single-listing-yelp.php:28
+msgid "powered by "
+msgstr "aangedryf deur "
+
+#: includes/single-listing-yelp.php:26 includes/single-listing-yelp.php:29
+#: includes/single-listing-google-places.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:4158
+msgid "What's Nearby?"
+msgstr "Wat's in die Buurt?"
+
+#: includes/single-listing-yelp.php:50
+#: includes/single-listing-google-places.php:66
+msgid "Restaurants"
+msgstr "Restaurante"
+
+#: includes/single-listing-yelp.php:58
+#: includes/single-listing-google-places.php:75
+msgid "Coffee Shops"
+msgstr "Koffie Winkels"
+
+#: includes/single-listing-yelp.php:66
+msgid "Grocery"
+msgstr "Kruideniersware"
+
+#: includes/single-listing-yelp.php:74
+#: includes/single-listing-google-places.php:93
+msgid "Education"
+msgstr "Onderwys"
+
+#: includes/single-listing-yelp.php:82
+msgid "Bank"
+msgstr "Bank"
+
+#: includes/single-listing-yelp.php:90
+#: includes/single-listing-google-places.php:111
+msgid "Bars"
+msgstr "Bars"
+
+#: includes/single-listing-yelp.php:98
+#: includes/single-listing-google-places.php:120
+msgid "Hospitals"
+msgstr "Hospitale"
+
+#: includes/single-listing-yelp.php:106
+#: includes/single-listing-google-places.php:129
+msgid "Gas Stations"
+msgstr "Gas Stasies"
+
+#: includes/single-listing-yelp.php:114
+#: includes/single-listing-google-places.php:138
+msgid "Transit Stations"
+msgstr "Vervoer-Stasies"
+
+#: includes/single-listing-yelp.php:122
+#: includes/single-listing-google-places.php:147
+msgid "Convenience Stores"
+msgstr "Gerief Winkels"
+
+#: includes/single-listing-yelp.php:130
+#: includes/single-listing-google-places.php:84
+msgid "Stores"
+msgstr "Winkels"
+
+#: includes/single-listing-yelp.php:138
+#: includes/single-listing-google-places.php:156
+msgid "Shopping Malls"
+msgstr "Winkelsentrums"
+
+#: includes/single-listing-yelp.php:146
+#: includes/single-listing-google-places.php:165
+msgid "Veterinary Care"
+msgstr "Veeartsenykundige Sorg"
+
+#: includes/single-listing-yelp.php:154
+#: includes/single-listing-google-places.php:174
+msgid "Pet Store"
+msgstr "Troeteldier Winkel"
+
+#: includes/single-listing-yelp.php:162
+#: includes/single-listing-google-places.php:183
+msgid "Park"
+msgstr "Park"
+
+#: includes/single-listing-yelp.php:176 admin/theme-functions.php:8914
+msgid "You need to setup the Yelp Fusion API."
+msgstr "Wat jy nodig het om die opstel van die Tjank Fusion API."
+
+#: includes/single-listing-yelp.php:177 admin/theme-functions.php:8915
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr "Gaan in Admin > Real Estate 7 Opsies > Wat\\'n Nabygeleë? > Skep App"
+
+#: includes/single-listing-home.php:28 includes/featured-listings.php:67
+#: includes/featured-listings.php:76 includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53
+msgid "featured"
+msgstr "sien"
+
+#: includes/single-listing-home.php:74 includes/single-listing-header.php:33
+#: includes/single-listing-header.php:87
+msgid "Co-listing"
+msgstr "Mede-lys"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:54
+msgid "Prices"
+msgstr "Pryse"
+
+#: includes/single-listing-home.php:155
+#: includes/single-listing-booking-calendar.php:19
+#: includes/single-listing-booking-calendar.php:21
+msgid "Book this listing"
+msgstr "Bespreek hierdie lys"
+
+#: includes/single-listing-home.php:269 includes/agent-contact-modal.php:21
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Tell me more about this property"
+msgstr "Vertel my meer oor hierdie eiendom"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "Deel Hierdie Lys"
+
+#: includes/ajax-single-listing.php:44
+msgid "There was an error fetching the post. Invalid Post ID."
+msgstr "Daar was'n fout met die afhaal van die post. Ongeldig Pos ID."
+
+#: includes/advanced-search.php:180 includes/header-advanced-search.php:340
+#: includes/header-advanced-search.php:805
+#: includes/widgets/ct-widget-listingssearch.php:336
+msgid "From"
+msgstr "Uit"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:349
+#: includes/header-advanced-search.php:817
+#: includes/widgets/ct-widget-listingssearch.php:345
+msgid "To"
+msgstr "Om te"
+
+#: includes/advanced-search.php:217 includes/advanced-search.php:218
+#: includes/header-advanced-search.php:452
+#: includes/header-advanced-search.php:453
+#: includes/header-advanced-search.php:1001
+#: includes/header-advanced-search.php:1002
+#: includes/widgets/ct-widget-listingssearch.php:411
+#: includes/widgets/ct-widget-listingssearch.php:412
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/advanced-search.php:239 includes/header-advanced-search.php:97
+#: includes/header-advanced-search.php:476
+#: includes/header-advanced-search.php:1023
+#: includes/header-advanced-search.php:1024
+#: includes/home-hero-advanced-search.php:21
+msgid "Keyword"
+msgstr "Navraag"
+
+#: includes/advanced-search.php:240 includes/header-advanced-search.php:477
+#: includes/home-hero-advanced-search.php:22
+msgid "Street, City, State, Zip or keyword"
+msgstr "Straat, Stad, Staat, Poskode of navraag"
+
+#: includes/advanced-search.php:256
+#: includes/widgets/ct-widget-listingssearch.php:442
+msgid "More Search Options"
+msgstr "Meer Soek Opsies"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-estimated-payment.php:24
+msgid "Est. Payment"
+msgstr "Est. Betaling"
+
+#: includes/single-listing-rental-info.php:27
+#: includes/single-listing-rental-info.php:29
+msgid "Rental Information"
+msgstr "Huur Inligting"
+
+#: includes/post-social.php:16 includes/post-social.php:17
+#: includes/post-social.php:18 admin/theme-functions.php:9457
+#: admin/theme-functions.php:9458 admin/theme-functions.php:9459
+msgid "Check out this great article on"
+msgstr "Check uit hierdie groot artikel op"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "Banke"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google Plekke/Wat\\'n Nabygeleë? Fout."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"Wat jy nodig het om te skep'n API sleutel gaan in Admin > Real Estate 7 "
+"Opsies > Google Maps > API Sleutel, dan is die opstel van die opsies via "
+"Real Estate 7 Opsies > \"Wat's in die Buurt?\" paneel."
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "Sien Al"
+
+#: includes/single-listing-virtual-tour.php:24
+#: includes/single-listing-virtual-tour.php:26
+msgid "Virtual Tour"
+msgstr "Virtuele Toer"
+
+#: includes/header-advanced-search.php:98
+msgid "Street, City, Zip or Keyword"
+msgstr "Straat, Stad, Poskode of Navraag"
+
+#: includes/header-advanced-search.php:100
+#: includes/header-advanced-search.php:479
+#: includes/home-hero-advanced-search.php:24
+msgid "Searching..."
+msgstr "Op soek..."
+
+#: includes/header-advanced-search.php:207
+#: includes/header-advanced-search.php:610
+#: includes/widgets/ct-widget-listingssearch.php:202
+msgid "Beds +"
+msgstr "Beddens +"
+
+#: includes/header-advanced-search.php:211
+#: includes/header-advanced-search.php:614
+#: includes/widgets/ct-widget-listingssearch.php:206
+msgid "All Rooms"
+msgstr "Al Die Kamers"
+
+#: includes/header-advanced-search.php:213
+#: includes/header-advanced-search.php:616
+#: includes/widgets/ct-widget-listingssearch.php:208
+msgid "All Bedrooms"
+msgstr "Al Die Slaapkamers"
+
+#: includes/header-advanced-search.php:215
+#: includes/header-advanced-search.php:618
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "All Beds"
+msgstr "Al Die Beddens"
+
+#: includes/header-advanced-search.php:217
+#: includes/header-advanced-search.php:620
+#: includes/widgets/ct-widget-listingssearch.php:212
+msgid "All Bed"
+msgstr "Alle Bed"
+
+#: includes/header-advanced-search.php:233
+#: includes/header-advanced-search.php:636
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Baths +"
+msgstr "Bad +"
+
+#: includes/header-advanced-search.php:237
+#: includes/header-advanced-search.php:640
+#: includes/widgets/ct-widget-listingssearch.php:232
+msgid "All Bathrooms"
+msgstr "Al Die Badkamers"
+
+#: includes/header-advanced-search.php:239
+#: includes/header-advanced-search.php:642
+#: includes/widgets/ct-widget-listingssearch.php:234
+msgid "All Baths"
+msgstr "Al Bad"
+
+#: includes/header-advanced-search.php:241
+#: includes/header-advanced-search.php:644
+#: includes/widgets/ct-widget-listingssearch.php:236
+msgid "All Bath"
+msgstr "Al Bad"
+
+#: includes/header-advanced-search.php:323
+#: includes/header-advanced-search.php:751
+msgid "Price range:"
+msgstr "Prysklas:"
+
+#: includes/header-advanced-search.php:325
+#: includes/header-advanced-search.php:361
+#: includes/header-advanced-search.php:398
+#: includes/header-advanced-search.php:772
+#: includes/header-advanced-search.php:853
+#: includes/header-advanced-search.php:928
+#: includes/widgets/ct-widget-listingbooktour.php:209
+msgid "to"
+msgstr "om te"
+
+#: includes/header-advanced-search.php:359
+#: includes/header-advanced-search.php:833
+msgid "Size range:"
+msgstr "Grootte reeks:"
+
+#: includes/header-advanced-search.php:396
+#: includes/header-advanced-search.php:912
+msgid "Lot size range:"
+msgstr "Baie grootte reeks:"
+
+#: includes/header-advanced-search.php:413
+msgid "Year From"
+msgstr "Jaar Van"
+
+#: includes/header-advanced-search.php:415
+#: includes/header-advanced-search.php:958
+#: includes/header-advanced-search.php:960
+msgid "Year Min"
+msgstr "Jaar Min"
+
+#: includes/header-advanced-search.php:432
+#: includes/header-advanced-search.php:981
+msgid "Year To"
+msgstr "Jaar Te"
+
+#: includes/header-advanced-search.php:434
+#: includes/header-advanced-search.php:983
+msgid "Year Max"
+msgstr "Jaar Max"
+
+#: includes/header-advanced-search.php:502
+msgid "More"
+msgstr "Meer"
+
+#: includes/header-advanced-search.php:690
+msgid "Popular Features"
+msgstr "Gewilde Funksies"
+
+#: includes/header-advanced-search.php:700
+msgid "Addtional Features"
+msgstr "Addtional Funksies"
+
+#: includes/home-listings-count.php:45
+msgid "Homes For Sale"
+msgstr "Huise Te Koop"
+
+#: includes/home-listings-count.php:97
+msgid "Recently Sold"
+msgstr "Onlangs Verkoop"
+
+#: includes/home-listings-count.php:123
+msgid "Reduced"
+msgstr "Verminder"
+
+#: includes/home-listings-count.php:149
+msgid "For Rent"
+msgstr "Vir Huur"
+
+#: includes/home-listings-count.php:175
+msgid "Leased"
+msgstr "Gehuur"
+
+#: includes/home-listings-count.php:227
+msgid "New Additions"
+msgstr "Nuwe Toevoegings"
+
+#: includes/home-listings-count.php:253
+msgid "Special Offers"
+msgstr "Spesiale Aanbiedinge"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Neighborhood"
+msgstr "Ander Lyste in die Buurt"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in Suburb"
+msgstr "Ander Lyste in die Voorstad"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in District"
+msgstr "Ander Lyste in die Distrik"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in School District"
+msgstr "Ander Lyste in die Skool Distrik"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Building"
+msgstr "Ander Lyste in Gebou"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Complex"
+msgstr "Ander Lyste in Kompleks"
+
+#: includes/single-listing-sub-listings.php:35
+msgid "Other Listings in Borough"
+msgstr "Ander Lyste in die Gemeente"
+
+#: includes/single-listing-sub-listings.php:37
+msgid "Other Listings in Community"
+msgstr "Ander Lyste in die Gemeenskap"
+
+#: admin/merlin-config.php:105 admin/merlin-config.php:122
+#: admin/merlin-config.php:139 admin/merlin-config.php:156
+#: admin/merlin-config.php:173 admin/merlin-config.php:190
+#: admin/merlin-config.php:207 admin/merlin-config.php:224
+#: admin/merlin-config.php:241 admin/merlin-config.php:258
+#: admin/merlin-config.php:275 admin/merlin-config.php:292
+#: admin/merlin-config.php:309 admin/merlin-config.php:326
+#: admin/merlin-config.php:343 admin/merlin-config.php:360
+#: admin/merlin-config.php:377
+msgid "A special note for this import."
+msgstr "'n spesiale nota vir hierdie invoer."
+
+#: admin/profile-fields.php:44
+msgid "Social profile information"
+msgstr "Sosiale profiel inligting"
+
+#: admin/profile-fields.php:48
+msgid "Twitter Username"
+msgstr "Twitter Gebruikersnaam"
+
+#: admin/profile-fields.php:54
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/profile-fields.php:60
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:66
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/profile-fields.php:72
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: admin/profile-fields.php:81
+msgid "Extra profile information"
+msgstr "Ekstra profiel inligting"
+
+#: admin/profile-fields.php:93
+msgid "Agent Order"
+msgstr "Agent Einde"
+
+#: admin/profile-fields.php:96
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"As die gebruiker is'n agent kies die volgorde wat jy wil graag om hulle "
+"vertoon op die agente bladsy, byvoorbeeld 1, 2, 3, ens"
+
+#: admin/profile-fields.php:101
+msgid "Profile Image"
+msgstr "Profiel Beeld"
+
+#: admin/profile-fields.php:111
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Laai asseblief'n profiel foto hier, as niemand is gekies om'n verstek beeld "
+"wat sal gebruik word."
+
+#: admin/profile-fields.php:116
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:123
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:130
+msgid "Title"
+msgstr "Titel"
+
+#: admin/profile-fields.php:136
+msgid "Tagline"
+msgstr "Tagline"
+
+#: admin/profile-fields.php:142
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:145
+msgid "Add the agents license number here."
+msgstr "Voeg die agente lisensie nommer hier."
+
+#: admin/profile-fields.php:153
+msgid "Agent Testimonials"
+msgstr "Agent Getuigskrifte"
+
+#: admin/profile-fields.php:157
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"As hierdie gebruiker is gemerk as'n agent (\"Wys op die agente bladsy\" "
+"opsie hierbo) gebruik hierdie gebied te voeg kliënt getuigskrifte."
+
+#: admin/profile-fields.php:171
+msgid "Office Information"
+msgstr "Kantoor Inligting"
+
+#: admin/profile-fields.php:175
+msgid "Personal Logo"
+msgstr "Persoonlike Logo"
+
+#: admin/profile-fields.php:185
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Laai jou persoonlike logo hier, of as jy kies om te assosieer'n Stel onder "
+"die logo sal word in plaas daarvan gebruik."
+
+#: admin/profile-fields.php:195
+msgid "Select a Brokerage"
+msgstr "Kies'n Makelaar"
+
+#: admin/profile-fields.php:203
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Ken'n stel hier, dit is getrek uit die Stel van persoonlike boodskap tipe."
+
+#: admin/profile-fields.php:207
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:210
+msgid "Add the brokerage license number here."
+msgstr "Voeg die makelaars lisensie nommer hier."
+
+#: admin/profile-fields.php:214
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:236
+msgid "State or Province"
+msgstr "Staat of Provinsie"
+
+#: admin/profile-fields.php:253 admin/theme-functions.php:8140
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "Dateer asseblief Jou PHP Weergawe van die Aanbevole 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"Anders sommige van die Tema Funksies en Persoonlike Visuele Komponis modules "
+"gewen het't beskikbaar wees vir gebruik, of veroorsaak dat probleme met jou "
+"webwerf vertoon."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"Dit is'n vinnige en eenvoudige proses (nie meer as'n paar minute), verwys "
+"asseblief na hierdie knowledge artikel hieronder."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "Minimum PHP Weergawe 5.6 en Hoe om te Werk aan Dit"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:133
+#: admin/theme-functions.php:175
+msgid "Dismiss this notice"
+msgstr "Ontslaan hierdie kennisgewing"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo Vergelyk Lys Moet opgestel wees"
+
+#: admin/theme-functions.php:132 admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr ""
+"Neem net'n paar sekondes om te installeer die plugin behoorlik sien "
+"asseblief die "
+
+#: admin/theme-functions.php:132 admin/theme-functions.php:174
+msgid "documentation"
+msgstr "dokumentasie"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress Sosiale Login Nodig het om te wees die Opstel van"
+
+#: admin/theme-functions.php:402
+msgid "Listing Large"
+msgstr "Lys Groot"
+
+#: admin/theme-functions.php:413
+msgid "Primary Left Menu"
+msgstr "Primêre Linker Menu"
+
+#: admin/theme-functions.php:414
+msgid "Primary Right Menu"
+msgstr "Primêre Regte Menu"
+
+#: admin/theme-functions.php:415
+msgid "Primary Full Width"
+msgstr "Primêre Volle Breedte"
+
+#: admin/theme-functions.php:416
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/theme-functions.php:417
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: admin/theme-functions.php:441
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "Spyskaart nie't bestaan, asseblief een skep deur te kliek hier."
+
+#: admin/theme-functions.php:1288
+msgid "Open Map"
+msgstr "Oop Kaart"
+
+#: admin/theme-functions.php:1289
+msgid "Close Search"
+msgstr "Naby Soek"
+
+#: admin/theme-functions.php:1290
+msgid "Open Search"
+msgstr "Maak Soek"
+
+#: admin/theme-functions.php:1292
+msgid "Open"
+msgstr "Oop"
+
+#: admin/theme-functions.php:1293
+msgid "Search Saved"
+msgstr "Soek Gered"
+
+#: admin/theme-functions.php:1305 admin/theme-functions.php:8350
+msgid "All Towns"
+msgstr "Alle Dorpe"
+
+#: admin/theme-functions.php:1307 admin/theme-functions.php:8352
+msgid "All Villages"
+msgstr "Al Die Dorpe"
+
+#: admin/theme-functions.php:1309 admin/theme-functions.php:8354
+msgid "All Cities"
+msgstr "Al Die Stede"
+
+#: admin/theme-functions.php:1313 admin/theme-functions.php:8356
+msgid "All Areas"
+msgstr "Alle Gebiede"
+
+#: admin/theme-functions.php:1315 admin/theme-functions.php:8358
+#: admin/theme-functions.php:8392
+msgid "All Suburbs"
+msgstr "Al Die Voorstede"
+
+#: admin/theme-functions.php:1317 admin/theme-functions.php:8360
+msgid "All Provinces"
+msgstr "Al Die Provinsies"
+
+#: admin/theme-functions.php:1319 admin/theme-functions.php:8362
+msgid "All Regions"
+msgstr "Al Die Streke"
+
+#: admin/theme-functions.php:1321 admin/theme-functions.php:8364
+msgid "All Parishes"
+msgstr "Al Die Gemeentes"
+
+#: admin/theme-functions.php:1323 admin/theme-functions.php:8366
+msgid "All States"
+msgstr "Al Die State"
+
+#: admin/theme-functions.php:1327 admin/theme-functions.php:8402
+msgid "All Postcodes"
+msgstr "Alle Post"
+
+#: admin/theme-functions.php:1329 admin/theme-functions.php:8404
+msgid "All Postal Codes"
+msgstr "Al Postal Kodes"
+
+#: admin/theme-functions.php:1331 admin/theme-functions.php:8406
+msgid "All Zipcodes"
+msgstr "Al Zipcodes"
+
+#: admin/theme-functions.php:1346
+msgid "* This field is required"
+msgstr "* Hierdie veld word vereis"
+
+#: admin/theme-functions.php:1347
+msgid "* Please select an option"
+msgstr "* Kies'n opsie"
+
+#: admin/theme-functions.php:1348
+msgid "* This checkbox is required"
+msgstr "* Hierdie boks is nodig"
+
+#: admin/theme-functions.php:1349
+msgid "* Invalid phone number"
+msgstr "* Ongeldig selfoon nommer"
+
+#: admin/theme-functions.php:1350
+msgid "* Invalid email address"
+msgstr "* Ongeldige e-pos adres"
+
+#: admin/theme-functions.php:1351
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* Ongeldige datum, moet in JJJJ-MM-DD-formaat"
+
+#: admin/theme-functions.php:1352
+msgid "* Numbers only"
+msgstr "* Getalle net"
+
+#: admin/theme-functions.php:1353
+msgid "* No special caracters allowed"
+msgstr "* Geen spesiale caracters toegelaat"
+
+#: admin/theme-functions.php:1354
+msgid "* Letters only"
+msgstr "* Briewe slegs"
+
+#: admin/theme-functions.php:1412 admin/theme-functions.php:1428
+msgid "Read more"
+msgstr "Lees meer"
+
+#: admin/theme-functions.php:1419
+msgid "Collapse"
+msgstr "Ineenstorting"
+
+#: admin/theme-functions.php:2631 admin/theme-functions.php:5682
+msgid "Buyer"
+msgstr "Koper"
+
+#: admin/theme-functions.php:2643 admin/theme-functions.php:5683
+msgid "Seller"
+msgstr "Verkoper"
+
+#: admin/theme-functions.php:2681
+msgid "Broker"
+msgstr "Makelaar"
+
+#: admin/theme-functions.php:2868 admin/theme-functions.php:2933
+#: admin/theme-functions.php:2997
+msgid "Beds: "
+msgstr "Beddens: "
+
+#: admin/theme-functions.php:2869 admin/theme-functions.php:2934
+#: admin/theme-functions.php:2998
+msgid "Baths: "
+msgstr "Bad: "
+
+#: admin/theme-functions.php:2870 admin/theme-functions.php:2935
+#: admin/theme-functions.php:2999
+msgid "Sq Ft: "
+msgstr "Vk M: "
+
+#: admin/theme-functions.php:2879 admin/theme-functions.php:2944
+#: admin/theme-functions.php:3007
+msgid "1 Listing found"
+msgstr "1 Lys gevind"
+
+#: admin/theme-functions.php:2881 admin/theme-functions.php:2946
+#: admin/theme-functions.php:3009
+msgid " Listings found"
+msgstr " Volledige lys gevind"
+
+#: admin/theme-functions.php:3014
+msgid "No Listings Found"
+msgstr "Geen Inskrywings Gevind"
+
+#: admin/theme-functions.php:3251
+msgid "Sort By"
+msgstr "Sorteer Deur"
+
+#: admin/theme-functions.php:3252
+msgid "Default Order"
+msgstr "Standaard Einde"
+
+#: admin/theme-functions.php:3253
+msgid "Price - Low to High"
+msgstr "Prys - Lae tot Hoë"
+
+#: admin/theme-functions.php:3254
+msgid "Price - High to Low"
+msgstr "Prys - Hoog na Laag"
+
+#: admin/theme-functions.php:3255
+msgid "Date - Old to New"
+msgstr "Datum - die Ou na die Nuwe"
+
+#: admin/theme-functions.php:3256
+msgid "Date - New to Old"
+msgstr "Datum - Nuwe Ou"
+
+#: admin/theme-functions.php:3462
+msgid "Error:"
+msgstr ""
+
+#: admin/theme-functions.php:3464
+msgid ""
+"Google Maps Geocoding API Failed to Automatically Generate the Coordinates "
+"for this Listing"
+msgstr ""
+
+#: admin/theme-functions.php:3468
+msgid "Can be due to missing, bad or improper address information"
+msgstr ""
+
+#: admin/theme-functions.php:3472
+msgid ""
+"Please check the information or enter the latitude and longitude manually. "
+"If not entered this can cause display issues with mapping, most importantly "
+"the pan/zoom, draw and geolocation functions."
+msgstr ""
+
+#: admin/theme-functions.php:3480
+msgid "Warning:"
+msgstr ""
+
+#: admin/theme-functions.php:3482
+msgid "Conflicting Coordinates"
+msgstr ""
+
+#: admin/theme-functions.php:3490
+msgid ""
+"Please check the Latitude & Longitude field and click on the update button "
+"to fix."
+msgstr ""
+
+#: admin/theme-functions.php:3681 admin/theme-functions.php:3756
+#: admin/theme-functions.php:3857 admin/theme-functions.php:3976
+#: admin/theme-functions.php:4099 admin/theme-functions.php:4192
+#: admin/theme-functions.php:4306
+msgid "You need to setup the Google Maps API."
+msgstr "Wat jy nodig het om die opstel van die Google Maps API."
+
+#: admin/theme-functions.php:3682 admin/theme-functions.php:3757
+#: admin/theme-functions.php:3858 admin/theme-functions.php:3977
+#: admin/theme-functions.php:4100 admin/theme-functions.php:4193
+#: admin/theme-functions.php:4307
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "Gaan in Admin > Real Estate 7 Opsies > Google Maps"
+
+#: admin/theme-functions.php:5523
+msgid "User registration is not enabled"
+msgstr "Gebruiker registrasie is nie in staat gestel om"
+
+#: admin/theme-functions.php:5553
+msgid "Log in"
+msgstr "Teken in"
+
+#: admin/theme-functions.php:5555
+msgid "Don't have an account?"
+msgstr "Don't het'n rekening?"
+
+#: admin/theme-functions.php:5555
+msgid "Create your account,"
+msgstr "Skep jou rekening,"
+
+#: admin/theme-functions.php:5555
+msgid "it takes less than a minute."
+msgstr "dit neem minder as'n minuut."
+
+#: admin/theme-functions.php:5570 admin/theme-functions.php:5690
+msgid "Password"
+msgstr "Wagwoord"
+
+#: admin/theme-functions.php:5587
+msgid "Lost your password?"
+msgstr "Verloor jou wagwoord vergeet?"
+
+#: admin/theme-functions.php:5597
+msgid "Lost Password?"
+msgstr "Wagwoord Vergeet?"
+
+#: admin/theme-functions.php:5598
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Tik jou e-pos adres en ons sal aan jou stuur'n skakel wat jy kan gebruik om "
+"af te haal'n nuwe wagwoord."
+
+#: admin/theme-functions.php:5600
+msgid "Username or Email"
+msgstr "Gebruikersnaam of E-pos"
+
+#: admin/theme-functions.php:5602
+msgid "Get New Password"
+msgstr "Kry Nuwe Wagwoord"
+
+#: admin/theme-functions.php:5638
+msgid "Create an account"
+msgstr "Die skep van'n rekening"
+
+#: admin/theme-functions.php:5639
+msgid "It takes less than a minute. If you already have an account "
+msgstr "Dit neem minder as'n minuut. As jy reeds'n rekening het nie "
+
+#: admin/theme-functions.php:5639
+msgid "login"
+msgstr "teken"
+
+#: admin/theme-functions.php:5679
+msgid "Buyer, Seller or Agent?"
+msgstr "Koper, Verkoper of Agent?"
+
+#: admin/theme-functions.php:5681
+msgid "Please choose"
+msgstr "Kies asseblief"
+
+#: admin/theme-functions.php:5695
+msgid "Password Again"
+msgstr "Wagwoord Weer"
+
+#: admin/theme-functions.php:5701
+msgid "I accept the"
+msgstr "Ek aanvaar die"
+
+#: admin/theme-functions.php:5701
+msgid "Terms &amp; Conditions"
+msgstr "Terme "
+
+#: admin/theme-functions.php:5706
+msgid "Register"
+msgstr "Registreer"
+
+#: admin/theme-functions.php:5748
+msgid "Username already taken"
+msgstr "Gebruikersnaam reeds geneem"
+
+#: admin/theme-functions.php:5752 admin/theme-functions.php:5874
+#: admin/theme-functions.php:5923
+msgid "Invalid username"
+msgstr "Ongeldige gebruikersnaam"
+
+#: admin/theme-functions.php:5756
+msgid "Please enter a username"
+msgstr "Voer asseblief'n gebruikersnaam"
+
+#: admin/theme-functions.php:5760
+msgid "Invalid email"
+msgstr "Ongeldige e-pos"
+
+#: admin/theme-functions.php:5764
+msgid "Email already registered"
+msgstr "E-pos reeds geregistreer"
+
+#: admin/theme-functions.php:5768 admin/theme-functions.php:5879
+#: admin/theme-functions.php:5928
+msgid "Please enter a password"
+msgstr "Tik'n wagwoord"
+
+#: admin/theme-functions.php:5772
+msgid "Passwords do not match"
+msgstr "Wagwoorde kom nie ooreen nie"
+
+#: admin/theme-functions.php:5776
+msgid "Terms & Conditions must be checked"
+msgstr "Terme "
+
+#: admin/theme-functions.php:5844
+msgid "There was an error while trying to create your account"
+msgstr "Daar was'n fout terwyl hy probeer om jou rekening te skep"
+
+#: admin/theme-functions.php:5885 admin/theme-functions.php:5934
+msgid "Incorrect password"
+msgstr "Verkeerde wagwoord"
+
+#: admin/theme-functions.php:5984
+msgid "Error"
+msgstr "Fout"
+
+#: admin/theme-functions.php:6292 admin/theme-functions.php:6296
+msgid "Featured Image"
+msgstr "Featured Beeld"
+
+#: admin/theme-functions.php:6294
+msgid "Brokerage Logo"
+msgstr "Stel Logo"
+
+#: admin/theme-functions.php:6384 admin/theme-functions.php:6411
+msgid "User hasn't chosen a package yet…"
+msgstr "Gebruiker het nie gekies om'n pakket nie..."
+
+#: admin/theme-functions.php:6403
+msgid "Limit Reached"
+msgstr "Limiet Bereik"
+
+#: admin/theme-functions.php:6416
+msgid "Current Package Details"
+msgstr "Huidige Pakket Besonderhede"
+
+#: admin/theme-functions.php:6417
+msgid "Overview of users existing membership & package information."
+msgstr ""
+
+#: admin/theme-functions.php:6419
+#, fuzzy
+msgid "Active"
+msgstr "Aktiewe"
+
+#: admin/theme-functions.php:6422
+msgid "Package Name:"
+msgstr "Pakket Naam:"
+
+#: admin/theme-functions.php:6423
+msgid "Listings Remaining:"
+msgstr "Volledige Lys Oorblywende:"
+
+#: admin/theme-functions.php:6424
+msgid "Featured Listings Remaining:"
+msgstr "Lyste Oorblywende:"
+
+#: admin/theme-functions.php:6457
+msgid "Enter the listing street address here"
+msgstr "Tik die lys straat adres hier"
+
+#: admin/theme-functions.php:6473
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:6492
+#: admin/ReduxFramework/theme-options/re7-config.php:4617
+msgid "Price & Description"
+msgstr "Prys "
+
+#: admin/theme-functions.php:6493
+msgid "Photos & Files"
+msgstr "Foto's "
+
+#: admin/theme-functions.php:6611
+msgid "Add to Favorites"
+msgstr "Voeg by die Gunstelinge"
+
+#: admin/theme-functions.php:6616
+msgid "Favorite"
+msgstr "Gunsteling"
+
+#: admin/theme-functions.php:6731
+msgid " Photo"
+msgstr " Foto"
+
+#: admin/theme-functions.php:6733
+msgid " Photos"
+msgstr " Foto's"
+
+#: admin/theme-functions.php:6792
+msgid "Remove"
+msgstr "Verwyder"
+
+#: admin/theme-functions.php:6995
+#: includes/widgets/ct-widget-agentsotherlistings.php:237
+#: includes/widgets/ct-widget-listings.php:228
+msgid "Rating"
+msgstr "Gradering"
+
+#: admin/theme-functions.php:7012
+#: includes/widgets/ct-widget-agentsotherlistings.php:254
+#: includes/widgets/ct-widget-listings.php:245
+msgid "Guests"
+msgstr "Gaste"
+
+#: admin/theme-functions.php:7027 admin/theme-functions.php:7248
+#: includes/widgets/ct-widget-agentsotherlistings.php:269
+#: includes/widgets/ct-widget-listings.php:260
+msgid "Min Stay"
+msgstr "Min Bly"
+
+#: admin/theme-functions.php:7078
+#: includes/widgets/ct-widget-agentsotherlistings.php:320
+#: includes/widgets/ct-widget-listings.php:311
+msgid "Price Per"
+msgstr "Prys Per"
+
+#: admin/theme-functions.php:7148
+#: includes/widgets/ct-widget-agentsotherlistings.php:361
+#: includes/widgets/ct-widget-listings.php:352
+msgid "Walk Score&reg;"
+msgstr "Loop Telling"
+
+#: admin/theme-functions.php:7195
+msgid "Single Family Residence"
+msgstr "Enkele Familie Woning"
+
+#: admin/theme-functions.php:7215
+msgid "Check In"
+msgstr "Check In"
+
+#: admin/theme-functions.php:7226
+msgid "Check Out"
+msgstr "Check Uit"
+
+#: admin/theme-functions.php:7237
+msgid "Max Guests"
+msgstr "Max Gaste"
+
+#: admin/theme-functions.php:7269
+msgid "Extra People"
+msgstr "Ekstra Mense"
+
+#: admin/theme-functions.php:7450
+#, php-format
+msgid "%s ago"
+msgstr "%s gelede"
+
+#: admin/theme-functions.php:7470
+msgid "Updated on"
+msgstr "Opgedateer op"
+
+#: admin/theme-functions.php:7472
+msgid "at"
+msgstr "by"
+
+#: admin/theme-functions.php:7551
+msgid "Hosted By"
+msgstr "Aangebied Deur"
+
+#: admin/theme-functions.php:7608 admin/theme-functions.php:7625
+msgid "Offered by"
+msgstr "Aangebied deur"
+
+#: admin/theme-functions.php:7610 admin/theme-functions.php:7627
+msgid "Brokered by"
+msgstr "Bemiddel deur"
+
+#: admin/theme-functions.php:7963
+msgid "/mo"
+msgstr "/mo"
+
+#: admin/theme-functions.php:8018
+msgid " Sq Ft"
+msgstr " Vk M"
+
+#: admin/theme-functions.php:8020
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:8035
+msgid "Acres"
+msgstr "Hektaar"
+
+#: admin/theme-functions.php:8037
+msgid "Sq Ft"
+msgstr "Vk M"
+
+#: admin/theme-functions.php:8039
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:8096
+msgid "Village"
+msgstr "Dorp"
+
+#: admin/theme-functions.php:8098
+msgid "Town"
+msgstr "Die dorp"
+
+#: admin/theme-functions.php:8115
+msgid "Parish"
+msgstr "Gemeente"
+
+#: admin/theme-functions.php:8117
+msgid "Region"
+msgstr "Streek"
+
+#: admin/theme-functions.php:8119
+msgid "Province"
+msgstr "Provinsie"
+
+#: admin/theme-functions.php:8165
+msgid "School District"
+msgstr "Skool Distrik"
+
+#: admin/theme-functions.php:8167
+msgid "Building"
+msgstr "Gebou"
+
+#: admin/theme-functions.php:8169
+msgid "Complex"
+msgstr "Kompleks"
+
+#: admin/theme-functions.php:8171
+msgid "Borough"
+msgstr "Gemeente"
+
+#: admin/theme-functions.php:8173
+msgid "Sector"
+msgstr "Sektor"
+
+#: admin/theme-functions.php:8344
+msgid "All Property Types"
+msgstr "Alle Soorte Eiendom"
+
+#: admin/theme-functions.php:8346
+msgid "All Countries"
+msgstr "Al Die Lande"
+
+#: admin/theme-functions.php:8348
+msgid "All Counties"
+msgstr "Al Die Provinsies"
+
+#: admin/theme-functions.php:8382
+msgid "All Statuses"
+msgstr "Al Statusse"
+
+#: admin/theme-functions.php:8384
+msgid "All Additional Features"
+msgstr "Al Die Bykomende Funksies"
+
+#: admin/theme-functions.php:8386
+msgid "All Neighborhoods"
+msgstr "Alle Wyk"
+
+#: admin/theme-functions.php:8388
+msgid "All Districts"
+msgstr "Alle Distrikte"
+
+#: admin/theme-functions.php:8390
+msgid "All School Districts"
+msgstr "Al Die Skool Distrikte"
+
+#: admin/theme-functions.php:8394
+msgid "All Buildings"
+msgstr "Al Die Geboue"
+
+#: admin/theme-functions.php:8396
+msgid "All Complexes"
+msgstr "Al Die Komplekse"
+
+#: admin/theme-functions.php:8398
+msgid "All Sectors"
+msgstr "Alle Sektore"
+
+#: admin/theme-functions.php:8400
+msgid "All Communities"
+msgstr "Alle Gemeenskappe"
+
+#: admin/theme-functions.php:8408
+msgid "Pet Friendly?"
+msgstr "Troeteldier Vriendelik?"
+
+#: admin/theme-functions.php:8410
+msgid "Furnished/Unfurnished?"
+msgstr "Gemeubileerde/Ongemeubileerd?"
+
+#: admin/theme-functions.php:8495
+msgid "All Brokerages"
+msgstr "Alle Makelaars"
+
+#: admin/theme-functions.php:8917
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "Jy've bereik die daaglikse Tjank Fusion API limiet."
+
+#: admin/theme-functions.php:8918
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr "Besoek asseblief https://www.yelp.com/developers/v3/manage_app"
+
+#: admin/theme-functions.php:8920
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "Algemene 502 Fout van Yelp Fusion API"
+
+#: admin/theme-functions.php:8921 admin/theme-functions.php:8924
+msgid "Please check your server error logs."
+msgstr "Kontroleer asseblief jou bediener fout logs."
+
+#: admin/theme-functions.php:8923
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "Algemene 500 Fout van Yelp Fusion API"
+
+#: admin/theme-functions.php:8926
+msgid "General Error from Yelp Fusion API"
+msgstr "Algemene Fout van Yelp Fusion API"
+
+#: admin/theme-functions.php:9011
+msgid " km"
+msgstr " km"
+
+#: admin/theme-functions.php:9013
+msgid " mi"
+msgstr " mi"
+
+#: admin/theme-functions.php:9028
+msgid "reviews"
+msgstr "resensies"
+
+#: admin/theme-functions.php:9101
+msgid "Unfortunately, your API key is over its quota."
+msgstr "Ongelukkig, jou API sleutel is oor sy kwota."
+
+#: admin/theme-functions.php:9107
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "Ongelukkig, daar's geen resultate in die buurt vir hierdie aanbieding."
+
+#: admin/theme-functions.php:9113
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"Ongelukkig, jou versoek is geweier, oor die algemeen as gevolg van die "
+"gebrek van'n ongeldige belangrike parameter."
+
+#: admin/theme-functions.php:9119
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"Ongelukkig, jou versoek is, is ongeldig, gewoonlik as gevolg van die "
+"verkeerde adres inligting of lat/long koördinate."
+
+#: admin/theme-functions.php:9125
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"'n bediener-kant fout gebeur het probeer om weer te kan suksesvol wees, "
+"asseblief skuif die bladsy te verfris."
+
+#: admin/theme-functions.php:9361
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Soek Resultate vir: %s"
+
+#: admin/theme-functions.php:9367
+#, php-format
+msgid "Author: %s"
+msgstr "Skrywer: %s"
+
+#: admin/theme-functions.php:9370
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: admin/theme-functions.php:9373
+#, php-format
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: admin/theme-functions.php:9373
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:9376
+#, php-format
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: admin/theme-functions.php:9376
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:9379
+msgid "Archives"
+msgstr "Argiewe"
+
+#: admin/theme-functions.php:9454
+msgid "Share This"
+msgstr "Deel Hierdie"
+
+#: admin/theme-functions.php:9498
+msgid "About The Author"
+msgstr "Oor Die Skrywer"
+
+#: admin/theme-functions.php:9555
+msgid "Related Posts"
+msgstr "Verwante Poste"
+
+#: admin/theme-functions.php:9605
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:9606
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:10266
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fas fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:10267
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fas fa-chevron-right\">"
+"</i></span>"
+msgstr ""
+
+#: admin/theme-functions.php:10289 admin/theme-functions.php:10290
+msgid "%link"
+msgstr "%skakel"
+
+#: admin/theme-functions.php:10611
+msgid "g:i a"
+msgstr "g:ek het'n"
+
+#: admin/theme-functions.php:10614
+#, php-format
+msgid "Minute %1$s"
+msgstr "Minuut %1$s"
+
+#: admin/theme-functions.php:10614
+msgid "i"
+msgstr "ek"
+
+#: admin/theme-functions.php:10617
+msgid "g a"
+msgstr "g'n"
+
+#: admin/theme-functions.php:10628 admin/theme-functions.php:10634
+#: admin/theme-functions.php:10634 admin/theme-functions.php:10639
+#: admin/theme-functions.php:10639 admin/theme-functions.php:10644
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:10629 admin/theme-functions.php:10640
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:10630
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:10635
+#, php-format
+msgid "Week %1$s"
+msgstr "Week %1$s"
+
+#: admin/theme-functions.php:10635
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:10651
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Soek resultate vir "
+
+#: admin/theme-functions.php:10655
+msgid "404 Not Found"
+msgstr "404 Nie Gevind Nie"
+
+#: layouts/blog-grid.php:99 layouts/blog-large.php:99
+msgid "Read More"
+msgstr "Lees Meer"
+
+#: layouts/saved-search-list.php:72 layouts/saved-search-list.php:75
+msgid "beds"
+msgstr "beddens"
+
+#: layouts/saved-search-list.php:73 layouts/saved-search-list.php:76
+#, fuzzy
+msgid "baths"
+msgstr "Bad:"
+
+#: layouts/saved-search-list.php:78
+msgid "+ beds"
+msgstr "+ beddens"
+
+#: layouts/saved-search-list.php:79
+#, fuzzy
+msgid "+ baths"
+msgstr "Bad:"
+
+#: layouts/saved-search-list.php:120 includes/widgets/ct-widget-tabs.php:219
+msgid "on"
+msgstr "op"
+
+#: layouts/saved-search-list.php:120
+msgid "On"
+msgstr "Op"
+
+#: layouts/saved-search-list.php:121
+msgid "off"
+msgstr "af"
+
+#: layouts/saved-search-list.php:121
+msgid "Off"
+msgstr "Af"
+
+#: layouts/grid.php:23 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "Die agent het tans geen aktiewe aanbiedings."
+
+#: layouts/grid.php:27 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "Hierdie makelaars het tans geen aktiewe aanbiedings."
+
+#: layouts/grid.php:31 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "Geen eienskappe is gevind wat ooreenstem met jou soek kriteria"
+
+#: layouts/list.php:127
+msgid "Type:"
+msgstr "Tipe:"
+
+#: includes/widgets/ct-widget-contactinfo.php:14
+msgid "CT Contact Info"
+msgstr "CT Kontak Info"
+
+#: includes/widgets/ct-widget-contactinfo.php:86
+msgid "Agent #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:87
+#: includes/widgets/ct-widget-brokerinfo.php:58
+msgid "Broker #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:147
+#, fuzzy
+msgid "Show Logo"
+msgstr "Wys Logo:"
+
+#: includes/widgets/ct-widget-contactinfo.php:154
+msgid "Icon Color"
+msgstr "Ikoon Kleur"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "Light"
+msgstr "Lig"
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+#: includes/widgets/ct-widget-listingscontact.php:69
+#: includes/widgets/ct-widget-testimonials.php:63
+#: includes/widgets/ct-widget-agentsotherlistings.php:440
+#: includes/widgets/ct-widget-brokerinfo.php:82
+#: includes/widgets/ct-widget-blogauthor.php:61
+#: includes/widgets/ct-widget-listingssearch.php:466
+#: includes/widgets/ct-widget-latestposts.php:71
+#: includes/widgets/ct-widget-search.php:41
+#: includes/widgets/ct-widget-agentinfo.php:107
+#: includes/widgets/ct-widget-listings.php:436
+#: admin/ct-social/ct-social.php:131
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Blurb:"
+msgstr "Blurb:"
+
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Company Name:"
+msgstr "Maatskappy Naam:"
+
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Agent License #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:177
+#: includes/widgets/ct-widget-brokerinfo.php:106
+msgid "Broker License #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Street Address:"
+msgstr "Straat Adres:"
+
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "City:"
+msgstr "City:"
+
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "State:"
+msgstr "Staat:"
+
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "Postal:"
+msgstr "Postal:"
+
+#: includes/widgets/ct-widget-contactinfo.php:197
+msgid "Country:"
+msgstr "Land:"
+
+#: includes/widgets/ct-widget-contactinfo.php:201
+msgid "Phone:"
+msgstr "Selfoon:"
+
+#: includes/widgets/ct-widget-contactinfo.php:205
+#: admin/ct-social/ct-social.php:139
+msgid "Email:"
+msgstr "E-pos:"
+
+#: includes/widgets/ct-widget-contactinfo.php:209
+#: admin/ct-social/ct-social.php:143
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: includes/widgets/ct-widget-contactinfo.php:213
+#: admin/ct-social/ct-social.php:179
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: includes/widgets/ct-widget-contactinfo.php:217
+#: admin/ct-social/ct-social.php:163
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: includes/widgets/ct-widget-contactinfo.php:221
+#: admin/ct-social/ct-social.php:171
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: includes/widgets/ct-widget-contactinfo.php:225
+#: admin/ct-social/ct-social.php:159
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: includes/widgets/ct-widget-contactinfo.php:229
+msgid "Youtube:"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingssocial.php:14
+msgid "CT Listings Social"
+msgstr "CT Lys Sosiale"
+
+#: includes/widgets/ct-widget-listingssocial.php:49
+#: includes/widgets/ct-widget-listingscrolltocontact.php:63
+#: includes/widgets/ct-widget-adspace.php:56
+msgid "Title (optional):"
+msgstr "Titel (opsioneel):"
+
+#: includes/widgets/ct-widget-listingscontact.php:14
+msgid "CT Listing Agent Contact"
+msgstr "CT Aanbieding Agent Kontak"
+
+#: includes/widgets/ct-widget-listingscontact.php:73
+msgid "Subject:"
+msgstr "Onderwerp:"
+
+#: includes/widgets/ct-widget-testimonials.php:14
+msgid "CT Testimonials"
+msgstr "CT Getuigskrifte"
+
+#: includes/widgets/ct-widget-testimonials.php:67
+#: includes/widgets/ct-widget-agentsotherlistings.php:444
+#: includes/widgets/ct-widget-latestposts.php:75
+#: includes/widgets/ct-widget-listings.php:440
+msgid "Number:"
+msgstr "Aantal:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:14
+msgid "CT Agents Other Listings"
+msgstr "CT Agente Ander Lyste"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:452
+#: includes/widgets/ct-widget-listings.php:448
+msgid "Taxonomy:"
+msgstr "Taksonomie:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:461
+#: includes/widgets/ct-widget-listings.php:457
+msgid "Tag:"
+msgstr "Tag:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:14
+msgid "CT Brokers Info"
+msgstr "CT Makelaars Info"
+
+#: includes/widgets/ct-widget-brokerinfo.php:56
+msgid "Email Office"
+msgstr "E-Pos Kantoor"
+
+#: includes/widgets/ct-widget-brokerinfo.php:57
+msgid "Visit Brokers Website"
+msgstr "Besoek Makelaars Webwerf"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Logo URL:"
+msgstr "Logo URL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Company:"
+msgstr "Maatskappy:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Phone:"
+msgstr "Kantoor Phone:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Office Email:"
+msgstr "Kantoor E-Pos:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:102
+msgid "Website:"
+msgstr "Webwerf:"
+
+#: includes/widgets/ct-widget-blogauthor.php:14
+msgid "CT Blog Author Info"
+msgstr "CT Blog Skrywer Info"
+
+#: includes/widgets/ct-widget-blogauthor.php:65
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:69
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:73
+msgid "Gravatar Size:"
+msgstr "Gravatar Grootte:"
+
+#: includes/widgets/ct-widget-blogauthor.php:77
+msgid "Gravatar Alignment:"
+msgstr "Gravatar Belyning:"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Left"
+msgstr "Links"
+
+#: includes/widgets/ct-widget-blogauthor.php:80
+msgid "Right"
+msgstr "Reg"
+
+#: includes/widgets/ct-widget-blogauthor.php:84
+msgid "Read More Text (optional):"
+msgstr "Lees Meer Teks (opsioneel):"
+
+#: includes/widgets/ct-widget-blogauthor.php:88
+msgid "Read More URL (optional):"
+msgstr "Lees Meer URL (opsioneel):"
+
+#: includes/widgets/ct-widget-blogauthor.php:92
+msgid "Visible Pages:"
+msgstr "Sigbaar Bladsye:"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "All"
+msgstr "Al"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Home only"
+msgstr "Die huis net"
+
+#: includes/widgets/ct-widget-blogauthor.php:96
+msgid "Single only"
+msgstr "Slegs enkele"
+
+#: includes/widgets/ct-widget-listingssearch.php:14
+msgid "CT Listings Search"
+msgstr "CT Lys Soek"
+
+#: includes/widgets/ct-widget-latestposts.php:14
+msgid "CT Latest Posts"
+msgstr "CT Nuutste Poste"
+
+#: includes/widgets/ct-widget-search.php:14
+msgid "CT Search"
+msgstr "CT Soek"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:14
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT Lys Kontak ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:67
+msgid "Button One Text:"
+msgstr "Knoppie Een Teks:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:71
+msgid "Button Two Text:"
+msgstr "Knoppie Twee Teks:"
+
+#: includes/widgets/ct-widget-adspace.php:14
+msgid "CT Adspace Widget"
+msgstr "CT Adspace Widget"
+
+#: includes/widgets/ct-widget-adspace.php:60
+msgid "Ad Code:"
+msgstr "Advertensie Kode:"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Image Url:"
+msgstr "Beeld Url:"
+
+#: includes/widgets/ct-widget-adspace.php:69
+msgid "Link URL:"
+msgstr "Skakel URL:"
+
+#: includes/widgets/ct-widget-adspace.php:73
+msgid "Alt text:"
+msgstr "Alt teks:"
+
+#: includes/widgets/ct-widget-agentinfo.php:14
+msgid "CT Agent Info"
+msgstr "CT Agent Info"
+
+#: includes/widgets/ct-widget-tabs.php:14
+msgid "CT Tabs"
+msgstr "CT Oortjies"
+
+#: includes/widgets/ct-widget-tabs.php:105
+msgid "Number of posts:"
+msgstr "Aantal poste:"
+
+#: includes/widgets/ct-widget-tabs.php:110
+msgid "First Visible Tab:"
+msgstr "Eerste Sigbare Blad:"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:119
+msgid "Latest"
+msgstr "Jongste"
+
+#: includes/widgets/ct-widget-tabs.php:113
+#: includes/widgets/ct-widget-tabs.php:122
+msgid "Comments"
+msgstr "Kommentaar"
+
+#: includes/widgets/ct-widget-tabs.php:114
+#: includes/widgets/ct-widget-tabs.php:125
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/widgets/ct-widget-listings.php:14
+msgid "CT Listings"
+msgstr "CT Lys"
+
+#: includes/widgets/ct-widget-listings.php:461
+msgid "View All Link Text"
+msgstr "Sien Al Skakel Teks"
+
+#: includes/widgets/ct-widget-listings.php:465
+msgid "View All Link URL"
+msgstr "Sien Alle URL Skakel"
+
+#: includes/widgets/ct-widget-listingbooktour.php:14
+msgid "CT Listing Book Showing"
+msgstr "CT Lys Boek Wat"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Sunday"
+msgstr "Sondag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Monday"
+msgstr "Maandag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Friday"
+msgstr "Vrydag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Saturday"
+msgstr "Saterdag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "SUN"
+msgstr "SON"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "MON"
+msgstr "MY"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "TUES"
+msgstr "DINSDAG"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "WED"
+msgstr "WED"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "THUR"
+msgstr "DONDERDAG"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "FRI"
+msgstr "VRYDAG"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "SAT"
+msgstr "SIT"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "JAN"
+msgstr "JAN"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "FEB"
+msgstr "FEBRUARIE"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "MAR"
+msgstr "MAR"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "APR"
+msgstr "APR"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "MAY"
+msgstr "MAG"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "JUNE"
+msgstr "JUNIE"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "JULY"
+msgstr "JULIE"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "AUG"
+msgstr "AUG"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "SEPT"
+msgstr "SEPTEMBER"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "OCT"
+msgstr "OKTOBER"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "NOV"
+msgstr "NOV"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "DEC"
+msgstr "DESEMBER"
+
+#: includes/widgets/ct-widget-listingbooktour.php:165
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr ""
+"Dankie vir die bespreking van'n vertoning, ons sal terug te kry om te "
+"bevestig met wat jy kort."
+
+#: includes/widgets/ct-widget-listingbooktour.php:172
+msgid "Request a Showing"
+msgstr "Versoek'n Vertoning"
+
+#: includes/widgets/ct-widget-listingbooktour.php:182
+msgid "Select Your Time and Day"
+msgstr "Kies Jou Tyd en Dag"
+
+#: includes/widgets/ct-widget-listingbooktour.php:186
+#: includes/widgets/ct-widget-listingbooktour.php:187
+#: includes/widgets/ct-widget-listingbooktour.php:187
+#: includes/widgets/ct-widget-listingbooktour.php:188
+#: includes/widgets/ct-widget-listingbooktour.php:188
+#: includes/widgets/ct-widget-listingbooktour.php:189
+#: includes/widgets/ct-widget-listingbooktour.php:189
+#: includes/widgets/ct-widget-listingbooktour.php:190
+#: includes/widgets/ct-widget-listingbooktour.php:190
+#: includes/widgets/ct-widget-listingbooktour.php:191
+#: includes/widgets/ct-widget-listingbooktour.php:191
+#: includes/widgets/ct-widget-listingbooktour.php:214
+#: includes/widgets/ct-widget-listingbooktour.php:214
+#: includes/widgets/ct-widget-listingbooktour.php:215
+#: includes/widgets/ct-widget-listingbooktour.php:215
+#: includes/widgets/ct-widget-listingbooktour.php:216
+#: includes/widgets/ct-widget-listingbooktour.php:216
+#: includes/widgets/ct-widget-listingbooktour.php:217
+#: includes/widgets/ct-widget-listingbooktour.php:217
+msgid "am"
+msgstr "am"
+
+#: includes/widgets/ct-widget-listingbooktour.php:192
+#: includes/widgets/ct-widget-listingbooktour.php:193
+#: includes/widgets/ct-widget-listingbooktour.php:193
+#: includes/widgets/ct-widget-listingbooktour.php:194
+#: includes/widgets/ct-widget-listingbooktour.php:194
+#: includes/widgets/ct-widget-listingbooktour.php:195
+#: includes/widgets/ct-widget-listingbooktour.php:195
+#: includes/widgets/ct-widget-listingbooktour.php:196
+#: includes/widgets/ct-widget-listingbooktour.php:196
+#: includes/widgets/ct-widget-listingbooktour.php:197
+#: includes/widgets/ct-widget-listingbooktour.php:197
+#: includes/widgets/ct-widget-listingbooktour.php:198
+#: includes/widgets/ct-widget-listingbooktour.php:198
+#: includes/widgets/ct-widget-listingbooktour.php:199
+#: includes/widgets/ct-widget-listingbooktour.php:199
+#: includes/widgets/ct-widget-listingbooktour.php:200
+#: includes/widgets/ct-widget-listingbooktour.php:200
+#: includes/widgets/ct-widget-listingbooktour.php:201
+#: includes/widgets/ct-widget-listingbooktour.php:201
+#: includes/widgets/ct-widget-listingbooktour.php:202
+#: includes/widgets/ct-widget-listingbooktour.php:202
+#: includes/widgets/ct-widget-listingbooktour.php:203
+#: includes/widgets/ct-widget-listingbooktour.php:203
+#: includes/widgets/ct-widget-listingbooktour.php:204
+#: includes/widgets/ct-widget-listingbooktour.php:204
+#: includes/widgets/ct-widget-listingbooktour.php:218
+#: includes/widgets/ct-widget-listingbooktour.php:218
+#: includes/widgets/ct-widget-listingbooktour.php:219
+#: includes/widgets/ct-widget-listingbooktour.php:219
+#: includes/widgets/ct-widget-listingbooktour.php:220
+#: includes/widgets/ct-widget-listingbooktour.php:220
+#: includes/widgets/ct-widget-listingbooktour.php:221
+#: includes/widgets/ct-widget-listingbooktour.php:221
+#: includes/widgets/ct-widget-listingbooktour.php:222
+#: includes/widgets/ct-widget-listingbooktour.php:222
+#: includes/widgets/ct-widget-listingbooktour.php:223
+#: includes/widgets/ct-widget-listingbooktour.php:223
+#: includes/widgets/ct-widget-listingbooktour.php:224
+#: includes/widgets/ct-widget-listingbooktour.php:224
+#: includes/widgets/ct-widget-listingbooktour.php:225
+#: includes/widgets/ct-widget-listingbooktour.php:225
+#: includes/widgets/ct-widget-listingbooktour.php:226
+#: includes/widgets/ct-widget-listingbooktour.php:226
+#: includes/widgets/ct-widget-listingbooktour.php:227
+#: includes/widgets/ct-widget-listingbooktour.php:227
+#: includes/widgets/ct-widget-listingbooktour.php:228
+#: includes/widgets/ct-widget-listingbooktour.php:228
+#: includes/widgets/ct-widget-listingbooktour.php:229
+#: includes/widgets/ct-widget-listingbooktour.php:229
+#: includes/widgets/ct-widget-listingbooktour.php:230
+#: includes/widgets/ct-widget-listingbooktour.php:230
+#: includes/widgets/ct-widget-listingbooktour.php:231
+#: includes/widgets/ct-widget-listingbooktour.php:231
+#: includes/widgets/ct-widget-listingbooktour.php:232
+#: includes/widgets/ct-widget-listingbooktour.php:232
+msgid "pm"
+msgstr "pm"
+
+#: includes/widgets/ct-widget-listingbooktour.php:245
+msgid "Showing Request for "
+msgstr "Wat Versoek vir "
+
+#: includes/widgets/ct-widget-listingbooktour.php:261
+#: includes/widgets/ct-widget-listingbooktour.php:263
+msgid "Schedule Tour"
+msgstr "Skedule Toer"
+
+#: includes/widgets/ct-widget-listingbooktour.php:280
+msgid "No options required for this widget."
+msgstr "Geen opsies wat nodig is vir hierdie widget."
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Sosiale"
+
+#: admin/ct-social/ct-social.php:135
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:147
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:151
+msgid "Foursquare:"
+msgstr "Vierkantig:"
+
+#: admin/ct-social/ct-social.php:155
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:167
+msgid "Medium:"
+msgstr "Medium:"
+
+#: admin/ct-social/ct-social.php:175
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:183
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:187
+msgid "Links:"
+msgstr "Skakels:"
+
+#: admin/plugins/register.php:66 admin/getting-started/getting-started.php:177
+msgid "Redux Framework"
+msgstr "Redux Raamwerk"
+
+#: admin/plugins/register.php:72 admin/getting-started/getting-started.php:189
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo Real Estate Persoonlike Poste"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor Bladsy Bouer"
+
+#: admin/plugins/register.php:86
+msgid "miniOrange Social Login"
+msgstr "miniOrange Sosiale Login"
+
+#: admin/plugins/register.php:92 admin/getting-started/getting-started.php:348
+msgid "Booking Calendar"
+msgstr "Bespreking Kalender"
+
+#: admin/plugins/register.php:98 admin/getting-started/getting-started.php:360
+msgid "Co-Authors Plus"
+msgstr "Mede-Skrywers Plus"
+
+#: admin/plugins/register.php:104 admin/getting-started/getting-started.php:372
+msgid "Comments Ratings"
+msgstr "Kommentaar Graderings"
+
+#: admin/plugins/register.php:110
+msgid "Contact Form 7"
+msgstr "Kontak Vorm 7"
+
+#: admin/plugins/register.php:116
+msgid "Contempo Listing Analytics"
+msgstr "Contempo Lys Analytics"
+
+#: admin/plugins/register.php:127
+msgid "Contempo Favorite Listings"
+msgstr "Contempo Gunsteling Lys"
+
+#: admin/plugins/register.php:138 admin/getting-started/getting-started.php:201
+msgid "Contempo Membership & Packages"
+msgstr "Contempo Lidmaatskap "
+
+#: admin/plugins/register.php:149
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo Real Estate 7 Betaling Poorte"
+
+#: admin/plugins/register.php:160 admin/getting-started/getting-started.php:237
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo Verband Sakrekenaar Widget"
+
+#: admin/plugins/register.php:171 admin/getting-started/getting-started.php:225
+msgid "Contempo Compare Listings"
+msgstr "Contempo Vergelyk Lys"
+
+#: admin/plugins/register.php:182 admin/getting-started/getting-started.php:213
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo Gestoor Soektogte "
+
+#: admin/plugins/register.php:193 admin/getting-started/getting-started.php:249
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Kind Tema Generator"
+
+#: admin/plugins/register.php:204 admin/getting-started/getting-started.php:273
+msgid "Slider Revolution"
+msgstr "Revolusie Skuiwer"
+
+#: admin/plugins/register.php:215
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Bladsy Bouer"
+
+#: admin/plugins/register.php:226 admin/getting-started/getting-started.php:384
+msgid "Envato Market"
+msgstr "Envato Mark"
+
+#: admin/plugins/deprecation.php:25
+#, php-format
+msgid ""
+"WP Favorite Posts was replaced by Contempo Favorite Listings. Please install "
+"and activate new plugin <a href='%s'>here</a>"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Aan die begin met die %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! We truly appreciate the support and the "
+"opportunity to share our work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Begin Hier"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "FAQ "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Nuutste Updates"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Die installering van %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5794
+msgid "Documentation"
+msgstr "Dokumentasie"
+
+#: admin/getting-started/getting-started.php:169
+msgid "Required & Recommended Plugins"
+msgstr "Vereis "
+
+#: admin/getting-started/getting-started.php:171
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"Hieronder is'n lys van wat vereis word en aanbeveel plugins te installeer "
+"wat jou sal help jy kry die meeste uit van die WP Pro Real Estate 7. Om mee "
+"te begin gebruik asseblief die knoppie hieronder, of blaai deur die lys te "
+"leer oor elke een in'n bietjie meer detail."
+
+#: admin/getting-started/getting-started.php:177
+#: admin/getting-started/getting-started.php:189
+msgid "Required"
+msgstr "Vereis"
+
+#: admin/getting-started/getting-started.php:179
+msgid "Install Redux Framework"
+msgstr "Installeer Redux Raamwerk"
+
+#: admin/getting-started/getting-started.php:179
+#: admin/getting-started/getting-started.php:191
+#: admin/getting-started/getting-started.php:203
+#: admin/getting-started/getting-started.php:215
+#: admin/getting-started/getting-started.php:227
+#: admin/getting-started/getting-started.php:239
+#: admin/getting-started/getting-started.php:251
+#: admin/getting-started/getting-started.php:263
+#: admin/getting-started/getting-started.php:275
+#: admin/getting-started/getting-started.php:287
+#: admin/getting-started/getting-started.php:299
+#: admin/getting-started/getting-started.php:314
+#: admin/getting-started/getting-started.php:326
+#: admin/getting-started/getting-started.php:338
+#: admin/getting-started/getting-started.php:350
+#: admin/getting-started/getting-started.php:362
+#: admin/getting-started/getting-started.php:374
+#: admin/getting-started/getting-started.php:386
+msgid "Install Now"
+msgstr "Installeer Nou"
+
+#: admin/getting-started/getting-started.php:181
+#: admin/getting-started/getting-started.php:193
+#: admin/getting-started/getting-started.php:205
+#: admin/getting-started/getting-started.php:217
+#: admin/getting-started/getting-started.php:229
+#: admin/getting-started/getting-started.php:241
+#: admin/getting-started/getting-started.php:253
+#: admin/getting-started/getting-started.php:265
+#: admin/getting-started/getting-started.php:277
+#: admin/getting-started/getting-started.php:289
+#: admin/getting-started/getting-started.php:301
+#: admin/getting-started/getting-started.php:316
+#: admin/getting-started/getting-started.php:328
+#: admin/getting-started/getting-started.php:340
+#: admin/getting-started/getting-started.php:352
+#: admin/getting-started/getting-started.php:364
+#: admin/getting-started/getting-started.php:376
+#: admin/getting-started/getting-started.php:388
+msgid "Installed"
+msgstr "Geïnstalleer"
+
+#: admin/getting-started/getting-started.php:185
+msgid "This plugin is used for the admin options framework."
+msgstr "Hierdie inprop is wat gebruik word vir die admin opsies raamwerk."
+
+#: admin/getting-started/getting-started.php:191
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Installeer Contempo Real Estate Persoonlike Poste"
+
+#: admin/getting-started/getting-started.php:197
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "Hierdie inprop registers die volledige lys, makelaars "
+
+#: admin/getting-started/getting-started.php:201
+#: admin/getting-started/getting-started.php:213
+#: admin/getting-started/getting-started.php:225
+#: admin/getting-started/getting-started.php:237
+#: admin/getting-started/getting-started.php:249
+#: admin/getting-started/getting-started.php:261
+#: admin/getting-started/getting-started.php:273
+#: admin/getting-started/getting-started.php:285
+#: admin/getting-started/getting-started.php:297
+#: admin/getting-started/getting-started.php:312
+#: admin/getting-started/getting-started.php:324
+#: admin/getting-started/getting-started.php:336
+#: admin/getting-started/getting-started.php:348
+#: admin/getting-started/getting-started.php:360
+#: admin/getting-started/getting-started.php:372
+#: admin/getting-started/getting-started.php:384
+msgid "Recommended"
+msgstr "Aanbeveel"
+
+#: admin/getting-started/getting-started.php:203
+msgid "Install Contempo Membership & Packages"
+msgstr "Installeer Contempo Lidmaatskap "
+
+#: admin/getting-started/getting-started.php:209
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "Hierdie plugin voeg die vermoë om te skep lidmaatskap "
+
+#: admin/getting-started/getting-started.php:215
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "Installeer Contempo Gestoor Soektogte "
+
+#: admin/getting-started/getting-started.php:221
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Hierdie inprop kan gebruikers in kennis gestel word via e-pos wanneer'n "
+"notering is bygevoeg."
+
+#: admin/getting-started/getting-started.php:227
+#: admin/getting-started/getting-started.php:251
+msgid "Install Contempo Compare Listings"
+msgstr "Installeer Contempo Vergelyk Lys"
+
+#: admin/getting-started/getting-started.php:233
+msgid "This plugin adds compare functionality for listings."
+msgstr "Hierdie plugin voeg vergelyk funksionaliteit vir die volledige lys."
+
+#: admin/getting-started/getting-started.php:239
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Installeer Contempo Verband Sakrekenaar Widget"
+
+#: admin/getting-started/getting-started.php:245
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr ""
+"Hierdie plugin in staat stel om'n eenvoudige verband sakrekenaar widget."
+
+#: admin/getting-started/getting-started.php:257
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"Hierdie inprop kan admin gebruikers te maklik genereer'n kind tema van jou "
+"Admin > Voorkoms paneel."
+
+#: admin/getting-started/getting-started.php:261
+msgid "Contempo Payment Gateways"
+msgstr "Contempo Betaling Poorte"
+
+#: admin/getting-started/getting-started.php:263
+msgid "Install Contempo Payment Gateways"
+msgstr "Installeer Contempo Betaling Poorte"
+
+#: admin/getting-started/getting-started.php:269
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"Hierdie plugin in staat stel om die PayPal API en slegs nodig as jy'weer "
+"gaan laai enkele lys betalings van die voorkant van die site, as jy'weer met "
+"behulp van die Lidmaatskap "
+
+#: admin/getting-started/getting-started.php:275
+msgid "Install Slider Revolution"
+msgstr "Installeer Revolusie Skuiwer"
+
+#: admin/getting-started/getting-started.php:281
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Revolusie skuiwer is'n innoverende, reageer WordPress Skuiwer Plugin wat gee "
+"jou die inhoud van die pragtige manier."
+
+#: admin/getting-started/getting-started.php:285
+msgid "Visual Composer"
+msgstr "Visuele Komponis"
+
+#: admin/getting-started/getting-started.php:287
+msgid "Install Visual Composer"
+msgstr "Installeer Visuele Komponis"
+
+#: admin/getting-started/getting-started.php:293
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"WordPress Bladsy Bouer plugin met'n intuïtiewe sleep en koppelvlak. Bou'n "
+"bladsy vinnig en maklik. Onbeperkte uitlegte vir jou webwerf."
+
+#: admin/getting-started/getting-started.php:297
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:299
+msgid "Install WPML"
+msgstr "Installeer WPML"
+
+#: admin/getting-started/getting-started.php:307
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:312
+#: admin/getting-started/getting-started.php:336
+msgid "WordPress Social Login"
+msgstr "WordPress Sosiale Login"
+
+#: admin/getting-started/getting-started.php:314
+#: admin/getting-started/getting-started.php:326
+msgid "Install WP Favorite Posts"
+msgstr "Installeer WP Gunsteling Poste"
+
+#: admin/getting-started/getting-started.php:320
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Hierdie inprop kan gebruikers te teken/registreer met hul sosiale profiele "
+"soos Facebook, Google, Twitter, ens"
+
+#: admin/getting-started/getting-started.php:324
+msgid "WP Favorite Posts"
+msgstr "WP Gunsteling Poste"
+
+#: admin/getting-started/getting-started.php:332
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "Hierdie inprop kan gebruikers gunsteling "
+
+#: admin/getting-started/getting-started.php:338
+msgid "Install WordPress Social Login"
+msgstr "Installeer WordPress Sosiale Login"
+
+#: admin/getting-started/getting-started.php:344
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Hierdie inprop kan gebruikers te teken/registreer vir jou webwerf via "
+"sosiale netwerke soos Facebook, Google, Twitter, ens"
+
+#: admin/getting-started/getting-started.php:350
+msgid "Install Booking Calendar"
+msgstr "Installeer Bespreking Kalender"
+
+#: admin/getting-started/getting-started.php:356
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Hierdie plugin in staat sal stel om aanlyn bespreking dienste, maar jy'weer "
+"gratis om te gebruik wat ook al bespreking plugin jy'd hou so lank as wat "
+"dit ondersteun short."
+
+#: admin/getting-started/getting-started.php:362
+msgid "Install Co-Authors Plus"
+msgstr "Installeer Mede-Skrywers Plus"
+
+#: admin/getting-started/getting-started.php:368
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Hierdie inprop kan jy om te wys verskeie gebruikers of agente te lys, perfek "
+"vir mede-lys."
+
+#: admin/getting-started/getting-started.php:374
+msgid "Install Comments Ratings"
+msgstr "Installeer Kommentaar Graderings"
+
+#: admin/getting-started/getting-started.php:380
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "Hierdie inprop kan jy in staat te stel graderings vir die jou lys."
+
+#: admin/getting-started/getting-started.php:386
+msgid "Install Envato Market"
+msgstr "Installeer Envato Mark"
+
+#: admin/getting-started/getting-started.php:392
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Hierdie inprop kan jy maklik kry tema updates deur jou WordPress admin."
+
+#: admin/getting-started/getting-started.php:401
+#, php-format
+msgid "Support for %s?"
+msgstr "Ondersteuning vir %s?"
+
+#: admin/getting-started/getting-started.php:407
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, we're "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and We'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:410
+#, php-format
+msgid "FAQ for %s?"
+msgstr "VRAE vir %s?"
+
+#: admin/getting-started/getting-started.php:413
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"Die volgende artikels hieronder dek baie dikwels gevra vrae wat jy mag hê."
+
+#: admin/getting-started/getting-started.php:459
+msgid "Need Modifications or Customizations?"
+msgstr "Moet Modifikasies of Veranderinge?"
+
+#: admin/getting-started/getting-started.php:464
+#, php-format
+msgid ""
+"Send an email to <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and we’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:473
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through our <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the "
+"<a href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:483
+msgid "Hosting Recommendations"
+msgstr "Hosting Aanbevelings"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "Google Plekke API is tans nie beskikbaar nie."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Jy moet spesifiseer'n geldige notering plek, gebruik straat adres in die lys "
+"titel saam met die stad, staat "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+#, fuzzy
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"Jy veel spesifiseer ten minste een van die volgende: \"navraag\", \"naam\", "
+"\"tipes\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Jy moet spesifiseer'n radius."
+
+#: admin/google-places/GooglePlaces.php:197
+#, fuzzy
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Jy moet spesifiseer'n plek voor die roeping van radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Jy moet spesifiseer óf'n \"placeid\" of'n \"verwysing\" (maar nie albei nie) "
+"voor die roeping van die besonderhede()."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:54
+#: admin/ReduxFramework/theme-options/re7-config.php:55
+msgid "Real Estate 7 Options"
+msgstr "Real Estate 7 Opsies"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:724
+msgid "Theme Information 1"
+msgstr "Tema Inligting 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:725
+#: admin/ReduxFramework/theme-options/re7-config.php:730
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:729
+msgid "Theme Information 2"
+msgstr "Tema Inligting 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:736
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:742
+msgid "General Settings"
+msgstr "Algemene Instellings"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:812
+#: admin/ReduxFramework/theme-options/re7-config.php:1964
+msgid "Header"
+msgstr "Kop"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:883
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:934
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:955
+msgid "Contact Phone"
+msgstr "Kontak Telefoon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:975
+#: admin/ReduxFramework/theme-options/re7-config.php:1114
+#: admin/ReduxFramework/theme-options/re7-config.php:1145
+#: admin/ReduxFramework/theme-options/re7-config.php:1176
+msgid "Icon"
+msgstr "Ikoon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:976
+#: admin/ReduxFramework/theme-options/re7-config.php:1115
+#: admin/ReduxFramework/theme-options/re7-config.php:1146
+#: admin/ReduxFramework/theme-options/re7-config.php:1177
+msgid "Select an icon."
+msgstr "Kies'n ikoon."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:992
+msgid "Social Links"
+msgstr "Sosiale Skakels"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1083
+msgid "Header Info Columns"
+msgstr "Kop Info Kolomme"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1091
+msgid "Column One"
+msgstr "Kolom Een"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1122
+msgid "Column Two"
+msgstr "Kolom Twee"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1153
+msgid "Column Three"
+msgstr "Kolom Drie"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1185
+msgid "Homepage"
+msgstr "Tuisblad"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1195
+msgid "Layout Manager"
+msgstr "Uitleg Bestuurder"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1236
+msgid "Revolution Slider"
+msgstr "Revolusie Skuiwer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1253
+#: admin/ReduxFramework/theme-options/re7-config.php:1660
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1279
+msgid "Listing Carousel"
+msgstr "Lys Mallemeule"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+msgid "Hero w/Search"
+msgstr "Held w/Soek"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1365
+msgid "Top Padding"
+msgstr "Top Padding"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1366
+msgid "Set the top padding in percentage."
+msgstr "Stel die top padding in persentasie."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1376
+msgid "Bottom Padding"
+msgstr "Onderkant Padding"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1377
+msgid "Set the bottom padding in percentage."
+msgstr "Stel die onderkant padding in persentasie."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1388
+msgid "Call To Action"
+msgstr "Oproep Tot Aksie"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1419
+msgid "Listings Count"
+msgstr "Volledige Lys Tel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1523
+msgid "Add/Edit Testimonials"
+msgstr "Voeg/Wysig Getuigskrifte"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1524
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "Voeg jou getuigskrifte om te vertoon word op die tuisblad."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1526
+msgid "Company or Person"
+msgstr "Maatskappy of Persoon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1527
+msgid "Testimonial Here"
+msgstr "Getuigskrif Hier"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1528
+#: admin/ReduxFramework/theme-options/re7-config.php:1558
+msgid "Link"
+msgstr "Skakel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1536
+msgid "Partners"
+msgstr "Vennote"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1553
+msgid "Add/Edit Partner Logos"
+msgstr "Voeg/Wysig Vennoot Logos"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1554
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "Voeg jou maat logos vertoon word op die tuisblad."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1556
+msgid "Partner Title"
+msgstr "Vennoot Titel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1557
+msgid "Description Here (not used)"
+msgstr "Beskrywing Hier (nie gebruik nie)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1579
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1600
+msgid "Page Builder"
+msgstr "Bladsy Bouer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1644
+msgid "Four Column Widget Area"
+msgstr "Vier Kolom Widget Area"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1738
+msgid "Create a Skin"
+msgstr "Skep'n Vel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+#: admin/ReduxFramework/theme-options/re7-config.php:1975
+#: admin/ReduxFramework/theme-options/re7-config.php:2122
+#: admin/ReduxFramework/theme-options/re7-config.php:2205
+#: admin/ReduxFramework/theme-options/re7-config.php:2339
+#: admin/ReduxFramework/theme-options/re7-config.php:2379
+msgid "NOTE!"
+msgstr "LET wel!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "As dit isn't stel om te Ja nie EEN van die Style sal Toegepas word."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1769
+msgid "Typography"
+msgstr "Tipografie"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1789
+msgid "Body"
+msgstr "Liggaam"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1808
+msgid "Headings"
+msgstr "Opskrifte"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1827
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1847
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1867
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1887
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1907
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1927
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1948
+msgid "Body Background"
+msgstr "Liggaam Agtergrond"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1976
+#: admin/ReduxFramework/theme-options/re7-config.php:2123
+#: admin/ReduxFramework/theme-options/re7-config.php:2206
+#: admin/ReduxFramework/theme-options/re7-config.php:2340
+#: admin/ReduxFramework/theme-options/re7-config.php:2380
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"Jy moet stel die Skep van'n Vel > Gebruik Persoonlike Style > Ja, as dit "
+"isn't stel nie EEN van die Style sal Toegepas word."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "Mobile Navigation"
+msgstr "Mobiele Navigasie"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2194
+msgid "Secondary Colors"
+msgstr "Sekondêre Kleure"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2328
+msgid "Links"
+msgstr "Skakels"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2368
+#: admin/ReduxFramework/theme-options/re7-config.php:5708
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2438
+msgid "User Profile Fields"
+msgstr "Gebruiker Profiel Velde"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agent Single"
+msgstr "Agent Enkele"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2682
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2739
+msgid "Global Options"
+msgstr "Globale Opsies"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2740
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"Hierdie opsies van toepassing is wêreldwyd aan die tuisblad, uitgebrei "
+"gebied van die kop-soek en soek widget."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2903
+msgid "Header Search"
+msgstr "Kop Soek"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3006
+msgid "Homepage Search"
+msgstr "Tuisblad Soek"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3039
+msgid "Elementor Search Module"
+msgstr "Elementor Soek Module"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3375
+msgid "Listings Search"
+msgstr "Lys Soek"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3588
+msgid "Listing Single"
+msgstr "Lys Van Enkele"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3951
+msgid "Listing Stats"
+msgstr "Lys Statistieke"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3992
+msgid "WalkScore"
+msgstr "WalkScore"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3995
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4033
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4036
+msgid ""
+"Send newly registered users directly to your MailChimp list, <a href=\"https:"
+"//us5.admin.mailchimp.com/account/api/\" target=\"_blank\">Get your API "
+"Key</a>."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4082
+msgid "Zapier"
+msgstr "Ontken"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4085
+msgid ""
+"Use webhooks to send single listing contact form data to Zapier, <a "
+"href=\"https://contempothemes.com/wp-real-estate-7/docs/zapier/\" "
+"target=\"_blank\">documentation</a>."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4161
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"Stel dit op as jy'd hou om te vertoon \"Wat's in die Buurt?\" inligting op "
+"jou lys soos restaurante, kruidenierswinkels, skole, koffie winkels, ens"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4268
+msgid "Front End Login & Registration"
+msgstr "Die Voorkant Einde Login "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4403
+msgid "Front End Submission"
+msgstr "Die Voorkant Einde Voorlegging"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4607
+msgid "Submit Listing Form"
+msgstr "Stuur Die Lys Vorm"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4618
+#: admin/ReduxFramework/theme-options/re7-config.php:4707
+#: admin/ReduxFramework/theme-options/re7-config.php:4915
+#: admin/ReduxFramework/theme-options/re7-config.php:5004
+msgid "Select which fields you'd like to be required."
+msgstr "Kies watter velde jy'd hou om te verwag word."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4826
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"Kies watter velde jy'd hou om te verwag word, hierdie is slegs getoon word "
+"indien geaktiveer via volledige Lys > Lys Enkele > staat Stel om Vakansie te "
+"Huur/Bespreking Velde."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5022
+msgid "PayPal Settings"
+msgstr "PayPal Instellings"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5095
+msgid "Stripe Settings"
+msgstr "Streep Instellings"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5133
+msgid "Wire Transfer"
+msgstr "Draad Oordrag"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5170
+msgid "WeCashUp Settings"
+msgstr "WeCashUp Instellings"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5263
+msgid "Email Content"
+msgstr "E-Pos Inhoud"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5403
+msgid "Blog Archive"
+msgstr "Blog Argief"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5445
+msgid "Single Post"
+msgstr "Enkele Post"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5613
+msgid "Map Addresses"
+msgstr "Kaart Adresse"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5614
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"Tik die adres van jou plekke om gebruik te word in die Google Map, moet "
+"ingeskryf word in hierdie formaat vir elke inskrywing: 849 Wes-Hawe Dr San "
+"Diego, CA 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5678
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5693
+msgid "Custom JS"
+msgstr "Persoonlike JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5774
+msgid "Import/Export"
+msgstr "Invoer/Uitvoer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5811
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5927
+msgid "Section via hook"
+msgstr "Artikel via haak"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5928
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"https://www."
+"contempothemes.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "https://contempothemes.com/wp-real-estate-7/"
+msgstr ""
+
+#. Author of the theme
+msgid "Contempo Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.contempothemes.com/wp-real-estate-7/"
+msgstr ""

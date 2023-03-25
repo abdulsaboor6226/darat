@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: NexProperty Real Estate were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://re.darat.io
+Data file = /home/darat/public_html/re.darat.io/wp-content/uploads/2023/01/demo-content-import-file_2023-01-30__21-16-08.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+

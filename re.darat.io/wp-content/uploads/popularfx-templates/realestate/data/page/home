@@ -1,0 +1,928 @@
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="160px,0px,140px,0px" ele_margin="0px,0px,0px,0px" ele_bg_type="" ele_bg_img="{{theme_url}}/images/banner-bg01.jpg" ele_bg_attachment="scroll" ele_bg_size="cover" ele_bg_posy="center" ele_padding_tablet="120px,0px,100px,0px" ele_padding_mobile="120px,0px,100px,0px" row_bg_type="slider" bg_slider_speed="2000" bg_slider="{{theme_url}}/images/banner-bg01.jpg,{{theme_url}}/images/banner-bg02.jpg"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,80,Normal,700,Normal,None,Solid,1.1,Uppercase,0,0" ele_padding="0px,0px,15px,0px" heading_typo_tablet="Raleway,48,Normal,700,Normal,None,Solid,1,Uppercase,0,0" heading_typo_mobile="Raleway,40,Normal,700,Normal,None,Solid,1.1,Uppercase,0,0" animation="fadeInUp" heading_state="normal" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+property[/pl_heading]
+[pl_heading color="#8b6bc2ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,96,Normal,700,Normal,None,Solid,1.1,Uppercase,0,0" ele_padding="0px,0px,15px,0px" heading_typo_tablet="Raleway,65,Normal,700,Normal,None,Solid,1,Uppercase,0,0" heading_typo_mobile="Raleway,48,Normal,700,Normal,None,Solid,1.1,Uppercase,0,0" animation="fadeInUp" heading_state="normal" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+broker[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#1f223eff"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_bg_type="color" ele_bg_color="#8b6bc2ff" ele_padding="0px,15px,0px,15px" border_radius="0px,0px,0px,0px" content_pos="center" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="15px,15px,15px,15px" ele_css="{{element}} {border-radius: 0px 50% 50% 0px;}" border_radius_tablet="0px,0px,0px,0px" animation="fadeInLeft" animation_delay="600"]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Raleway,28,Normal,400,Normal,None,Solid,1,Capitalize,0,0" ele_padding="5px,0px,0px,30px" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact for[/pl_heading]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Raleway,35,Normal,600,Normal,None,Solid,1,Capitalize,0,0" ele_padding="5px,0px,0px,30px" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+home here[/pl_heading]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="8" ele_padding="30px,130px,30px,130px" content_pos="center" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="15px,10px,15px,10px" animation="fadeInRight" animation_delay="600" animation_speed="slow"]
+[pl_contact form="home-form" name="Home Form" form_position="left" space_label="0,0,0,0" input_padding="0,14" radio_padding="10,10" field_hover_delay="400" submit="Contact us" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_label_color="#bdbdbdff" label_typo=",14,Normal,400,Normal,None,Solid,1.65,Capitalize,0,0" form_placeholder_color="#bdbdbdff" placeholder_typo=",14,Normal,400,Normal,None,Solid,1.65,Capitalize,0,0" input_height="45" field_border_type="solid" field_border_color="#ffffffcc" field_border_width="1,1,1,1" field_border_radius="4,4,4,4" form_input_bg="#90909013" field_state="" field_shadow_focus="0,0,1,#8c6bc4ff,1," btn_typo="Montserrat,14,Normal,700,Normal,None,Solid,1,Uppercase,1,0" btn_custom_size="10,105" btn_bg_color="#8c6bc4ff" btn_color="#ffffff" ele_css="{{elemnt}} input{ 
+padding-right: 0px !important;}"]
+[pl_contact_item label_name="Location" field_type="text" values="One
+Two" field_name="location" field_width="49" space_between="0,2,10,0" ele_bg_hover_delay="400" label_as_holder="true" field_display="inline-block" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5"]
+[/pl_contact_item]
+[pl_contact_item label_name="Type" field_type="select" values="Type
+Rent
+Buy
+Sell" field_name="type" field_width="49" space_between="0,0,10,2" ele_bg_hover_delay="400" label_as_holder="true" field_display="inline-block" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5"]
+[/pl_contact_item]
+[pl_contact_item label_name="Min. Budget" field_type="number" values="One
+Two" field_name="minbudget" field_width="49" space_between="0,2,0,0" ele_bg_hover_delay="400" label_as_holder="true" field_display="inline-block" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5"]
+[/pl_contact_item]
+[pl_contact_item label_name="Max Budget" field_type="number" values="One
+Two" field_name="maxbudget" field_width="49" space_between="0,0,0,2" ele_bg_hover_delay="400" label_as_holder="true" field_display="inline-block" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="80px,80px,40px,80px" ele_padding_tablet="50px,0px,0px,0px" ele_padding_mobile="50px,0px,20px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,28,Normal,700,Normal,None,Solid,1.3,Capitalize,0,0" ele_padding="0px,280px,30px,280px" heading_typo_tablet="Raleway,22,Normal,700,Normal,None,Solid,1.3,Capitalize,0,0" ele_padding_tablet="0px,0px,10px,0px" heading_typo_mobile="Raleway,19,Normal,700,Normal,None,Solid,1.3,Capitalize,0,0" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+welcome to property broker agency and adviser company[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,105px,0px,105px" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px" heading_state="normal" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you. I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.[/pl_heading]
+[pl_btn text="Know More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="0" ele_bg_hover_delay="400" ele_margin="36px,0px,10px,0px" btn_typo="Raleway,17,Normal,400,Normal,None,Solid,0.7,Capitalize,0,0" btn_bg_color="#8b6bc2ff" btn_color="#ffffffff" btn_custom_size="35.5" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" ele_padding_tablet="10px,10px,10px,10px" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="70px,0px,70px,0px" ele_padding_tablet="40px,0px,40px,0px" ele_padding_mobile="40px,0px,40px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,,0,0" ele_padding="0px,105px,10px,105px" heading_typo_tablet="Raleway,18,Normal,400,Normal,None,Double,1.1,,0,0" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" heading_typo_mobile="Raleway,17,Normal,400,Normal,None,Double,1.1,,0,0" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carefully picked high end properties[/pl_heading]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,24,Normal,700,Normal,None,Solid,1,Uppercase,0,0" ele_padding="0px,0px,30px,0px" heading_typo_tablet="Raleway,20,Normal,700,Normal,None,Solid,1,Uppercase,0,0" ele_padding_tablet="5px,5px,5px,5px" heading_typo_mobile="Raleway,19,Normal,700,Normal,None,Solid,1,Uppercase,0,0" ele_padding_mobile="5px,5px,5px,5px" heading_state="normal" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInDown" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+most recent  ptoperty offers for you[/pl_heading]
+[pl_inner_row stretch="auto" col_gap="10" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" ele_margin="0px,0px,0px,0px"]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,0px,0px,0px" border_width="1px,1px,1px,1px" border_color="#CCC" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="600"]
+[pl_image id="{{theme_url}}/images/property-img01.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,,0,0" ele_padding="10px,0px,10px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Property Title01[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_btn text="view More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="0" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" btn_typo="Raleway,16,Normal,400,Normal,None,Solid,0.9,Capitalize,0,0" btn_bg_color="#8b6bc2ff" btn_color="#ffffffff" btn_custom_size="23" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" full_width="true"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,0px,0px,0px" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+[pl_image id="{{theme_url}}/images/property-img02.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,,0,0" ele_padding="10px,0px,10px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Property Title02[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_btn text="view More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="0" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" btn_typo="Raleway,16,Normal,400,Normal,None,Solid,0.9,Capitalize,0,0" btn_bg_color="#8b6bc2ff" btn_color="#ffffffff" btn_custom_size="23" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" full_width="true"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,0px,0px,0px" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[pl_image id="{{theme_url}}/images/property-img03.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,,0,0" ele_padding="10px,0px,10px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Property Title03[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_btn text="view More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="0" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" btn_typo="Raleway,16,Normal,400,Normal,None,Solid,0.9,Capitalize,0,0" btn_bg_color="#8b6bc2ff" btn_color="#ffffffff" btn_custom_size="23" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" full_width="true"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,0px,0px,0px" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+[pl_image id="{{theme_url}}/images/property-img04.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,,0,0" ele_padding="10px,0px,10px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Property Title04[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_btn text="view More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="0" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" btn_typo="Raleway,16,Normal,400,Normal,None,Solid,0.9,Capitalize,0,0" btn_bg_color="#8b6bc2ff" btn_color="#ffffffff" btn_custom_size="23" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" full_width="true"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="100px,0px,100px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/services_banner_bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="top" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff" ele_padding_tablet="60px,0px,60px,0px" ele_padding_mobile="60px,0px,60px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding="0px,15px,0px,15px" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,28,Normal,700,Normal,None,Solid,1.65,Capitalize,0," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+Our services[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Solid,1.65,,0,0" animation="fadeInDown" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+Everything you need at your finger tips[/pl_heading]
+[pl_inner_row stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="50px,0px,20px,0px" ele_padding_tablet="20px,15px,0px,15px" ele_padding_mobile="20px,10px,20px,10px"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_padding="30px,30px,30px,30px" ele_bg_type="color" ele_bg_color="#ffffffff" ele_shadow="0,0,3,#00000026,0," border_shadow_hover="0,70,70,#00000033,0," ele_hover_anim="float" ele_margin_tablet="20px,0px,20px,0px" ele_padding_tablet="20px,20px,20px,20px" ele_padding_mobile="20px,15px,20px,15px" ele_margin_mobile="20px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+[pl_iconbox service_icon="fas fa-desktop" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8b6bc2ff" service_icon_font_size="60" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Fully Responsive" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#333333ff" service_heading_typo="Raleway,20,Normal,700,,None,Solid,1.65,Capitalize,0,0" heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_alignment="center" service_icon_spacing="50,0,70,0" service_content_spacing="0,0,10,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#8b6bc2ff" service_button_bg_color="#00000000" service_btn_dim="0,0" service_button_typo="Raleway,16,Normal,400,Normal,None,Solid,1,Capitalize,0,0" service_button_color_hover="#8b6bc2b9" service_button_bg_color_hover="#00000000"]
+
+
+
+
+
+
+<p style="font-size: 16px;"><font color="#636363">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisl massa, interdum non mi nec, molestie ullamcorper mauris.</font></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_padding="30px,30px,30px,30px" ele_bg_type="color" ele_bg_color="#ffffffff" ele_shadow="0,0,3,#00000026,0," border_shadow_hover="0,70,70,#00000033,0," ele_hover_anim="float" ele_margin_tablet="20px,0px,20px,0px" ele_padding_tablet="20px,20px,20px,20px" ele_padding_mobile="20px,15px,20px,15px" ele_margin_mobile="20px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+[pl_iconbox service_icon="fas fa-user-lock" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8b6bc2ff" service_icon_font_size="60" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Admin Panel" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#333333ff" service_heading_typo="Raleway,20,Normal,700,,None,Solid,1.65,Capitalize,0,0" heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_alignment="center" service_icon_spacing="50,0,70,0" service_content_spacing="0,0,10,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#8b6bc2ff" service_button_bg_color="#00000000" service_btn_dim="0,0" service_button_typo="Raleway,16,Normal,400,Normal,None,Solid,1,Capitalize,0,0" service_button_color_hover="#8b6bc2b9" service_button_bg_color_hover="#00000000"]
+
+
+
+
+
+
+<p style="font-size: 16px;"><font color="#636363">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisl massa, interdum non mi nec, molestie ullamcorper mauris.</font></p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_padding="30px,30px,30px,30px" ele_bg_type="color" ele_bg_color="#ffffffff" ele_shadow="0,0,3,#00000026,0," border_shadow_hover="0,70,70,#00000033,0," ele_hover_anim="float" ele_margin_tablet="20px,0px,20px,0px" ele_padding_tablet="20px,20px,20px,20px" ele_padding_mobile="20px,15px,20px,15px" ele_margin_mobile="20px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[pl_iconbox service_icon="fas fa-random" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8b6bc2ff" service_icon_font_size="60" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Compare Properties" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#333333ff" service_heading_typo="Raleway,20,Normal,700,,None,Solid,1.65,Capitalize,0,0" heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_alignment="center" service_icon_spacing="50,0,70,0" service_content_spacing="0,0,10,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#8b6bc2ff" service_button_bg_color="#00000000" service_btn_dim="0,0" service_button_typo="Raleway,16,Normal,400,Normal,None,Solid,1,Capitalize,0,0" service_button_color_hover="#8b6bc2b9" service_button_bg_color_hover="#00000000"]
+
+
+
+
+
+
+<p style="font-size: 16px;"><font color="#636363">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisl massa, interdum non mi nec, molestie ullamcorper mauris.</font></p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="70px,70px,70px,70px" ele_padding_tablet="40px,0px,40px,0px" ele_padding_mobile="40px,0px,40px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px" animation="fadeInLeft" animation_delay="600"]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,28,Normal,700,Normal,None,Solid,1.3,Capitalize,0,0" ele_padding="0px,0px,20px,0px" heading_typo_tablet="Raleway,24,Normal,700,Normal,None,Solid,1.3,Capitalize,0,0" ele_padding_tablet="0px,0px,0px,0px" heading_typo_mobile="Raleway,24,Normal,700,Normal,None,Solid,1.3,Capitalize,0,0" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+here is our some<br>
+Awesome features[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="5px,5px,5px,5px" ele_padding_tablet="5px,5px,5px,5px" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you. I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="5px,5px,5px,5px" ele_padding_tablet="5px,5px,5px,5px" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you..[/pl_heading]
+[pl_btn text="read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="0" ele_bg_hover_delay="400" ele_margin="36px,0px,10px,0px" btn_typo="Raleway,17,Normal,400,Normal,None,Solid,0.7,Capitalize,0,0" btn_bg_color="#8b6bc2ff" btn_color="#ffffffff" btn_custom_size="35.5" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px"]
+[/pl_btn]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_iconbox service_icon="fa fa-legal" service_alignment="left" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="18" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="planning new" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#333333ff" service_heading_typo="Raleway,20,Normal,500,Normal,None,Solid,1.1,Capitalize,0,0" heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#8b6bc2ff" service_icon_shape_type="circle" service_icon_spacing="0,20,0,0" service_rotate="0" service_content_spacing="5,0,0,0" ele_padding="15px,15px,15px,15px" ele_margin="0px,0px,15px,0px" ele_padding_tablet="10px,0px,10px,0px" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="15px,0px,15px,0px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-legal" service_alignment="left" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="18" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="planning new" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#333333ff" service_heading_typo="Raleway,20,Normal,500,Normal,None,Solid,1.1,Capitalize,0,0" heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#8b6bc2ff" service_icon_shape_type="circle" service_icon_spacing="0,20,0,0" service_rotate="0" service_content_spacing="5,0,0,0" ele_padding="15px,15px,15px,15px" ele_margin="0px,0px,15px,0px" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="10px,0px,10px,0px" ele_margin_mobile="0px,0px,0px,0px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInRight" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-legal" service_alignment="left" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="18" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="planning new" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#333333ff" service_heading_typo="Raleway,20,Normal,500,Normal,None,Solid,1.1,Capitalize,0,0" heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#8b6bc2ff" service_icon_shape_type="circle" service_icon_spacing="0,20,0,0" service_rotate="0" service_content_spacing="5,0,0,0" ele_padding="15px,15px,15px,15px" ele_margin="0px,0px,15px,0px" ele_margin_tablet="0px,0px,0px,0px" ele_padding_tablet="10px,0px,10px,0px" ele_padding_mobile="15px,0px,15px,0px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInRight" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="150px,100px,150px,100px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/services_banner_bg2.jpg" ele_bg_attachment="fixed" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.6" overlay_color="#000000ff" ele_padding_tablet="80px,0px,80px,10px" ele_padding_mobile="80px,0px,80px,0px" ele_bg_posx="center"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding="0px,15px,0px,15px" ele_padding_mobile="15px,15px,15px,15px" ele_padding_tablet="15px,15px,15px,15px"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Lato,24,Normal,500,Normal,None,Solid,1.6,Capitalize,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+Modern Design Houses<br>
+With Guest House And Pool[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Lato,16,Normal,600,Normal,None,Solid,1.65,Capitalize,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+$5,656.00/mo[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Lato,16,Normal,300,Normal,None,Solid,1.65,,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="900" animation_speed="slow"]
+
+
+
+
+
+
+Lorem ipsum dolor sit amet, cotetur adipiscing elit nam<br>
+sollicitudin in nulla vitae suscipit aenean[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Lato,16,Normal,600,Normal,None,Solid,1.65,Capitalize,0,0" ele_padding="0px,0px,30px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+3 Beds – 2 Baths – 3454 Sqft[/pl_heading]
+[pl_btn text="View Property" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" btn_custom_size="24" btn_bg_color="#00000000" btn_color="#ffffffff" btn_hover="hover" btn_bg_color_hover="#00000000" btn_color_hover="#ffffffff" btn_border_type="solid" btn_border_color="#ffffffff" btn_border_width="2,2,2,2" btn_border_radius="500,500,500,500" btn_typo="Roboto,15,Normal,500,Normal,None,Solid,1,Capitalize,00,0" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="70px,70px,70px,70px" ele_padding_tablet="40px,0px,40px,0px" ele_padding_mobile="40px,0px,40px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding_mobile="10px,10px,10px,10px" ele_margin_mobile="0px,0px,0px,0px"]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,24,Normal,700,Normal,None,Solid,1,Uppercase,0,0" ele_padding="0px,0px,30px,0px" ele_padding_mobile="5px,5px,5px,5px" heading_typo_mobile="Raleway,20,Normal,700,Normal,None,Solid,1,Uppercase,0,0" ele_padding_tablet="5px,5px,5px,5px" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+our qualified agents[/pl_heading]
+[pl_inner_row stretch="auto" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" ele_margin="0px,0px,0px,0px"]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,15px,0px,15px" border_width="1px,1px,1px,1px" border_color="#CCC" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="600"]
+[pl_image id="{{theme_url}}/images/agent-img01.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,Capitalize,0,0" ele_padding="20px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Joseph todd[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,10px,15px,10px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_social_grp align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="2.5" icon_size="32" color_scheme="pagelayer-scheme-official" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff" ele_bg_hover_delay="400" ele_padding="0px,0px,10px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[pl_social 1="fa-facebook-official"]
+[/pl_social]
+[pl_social 1="fa-google-plus-square"]
+[/pl_social]
+[pl_social 1="fa-twitter-square"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,15px,0px,15px" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+[pl_image id="{{theme_url}}/images/agent-img02.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,Capitalize,0,0" ele_padding="20px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+darcie norris[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,10px,15px,10px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_social_grp align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="2.5" icon_size="32" color_scheme="pagelayer-scheme-official" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff" ele_bg_hover_delay="400" ele_padding="0px,0px,10px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[pl_social 1="fa-facebook-official"]
+[/pl_social]
+[pl_social 1="fa-google-plus-square"]
+[/pl_social]
+[pl_social 1="fa-twitter-square"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,15px,0px,15px" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[pl_image id="{{theme_url}}/images/agent-img03.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,Capitalize,0,0" ele_padding="20px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+mark howe[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,10px,15px,10px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_social_grp align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="2.5" icon_size="32" color_scheme="pagelayer-scheme-official" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff" ele_bg_hover_delay="400" ele_padding="0px,0px,10px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[pl_social 1="fa-facebook-official"]
+[/pl_social]
+[pl_social 1="fa-google-plus-square"]
+[/pl_social]
+[pl_social 1="fa-twitter-square"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,15px,0px,15px" ele_padding_tablet="20px,15px,20px,15px" ele_padding_mobile="15px,0px,15px,0px" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+[pl_image id="{{theme_url}}/images/agent-img04.jpg" id-size="custom" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400" max-width="100" custom_size="3000x200"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading color="#333333ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Double,1.1,Capitalize,0,0" ele_padding="20px,0px,15px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+sarah wade[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,500,Normal,None,Double,1.5,,0,0" ele_padding="0px,10px,15px,10px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s[/pl_heading]
+[pl_social_grp align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="2.5" icon_size="32" color_scheme="pagelayer-scheme-official" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff" ele_bg_hover_delay="400" ele_padding="0px,0px,10px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[pl_social 1="fa-facebook-official"]
+[/pl_social]
+[pl_social 1="fa-google-plus-square"]
+[/pl_social]
+[pl_social 1="fa-twitter-square"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="80px,0px,80px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/clients-bg.jpg" ele_bg_size="cover" ele_bg_repeat="no-repeat" ele_bg_attachment="scroll" ele_bg_posy="center" ele_padding_tablet="50px,0px,50px,0px" ele_padding_mobile="50px,0px,50px,0px" ele_margin_mobile="0px,0px,0px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_icon icon="fa fa-star" icon_background_size="0" icon_alignment="center" icon_color_style="#8c6bc4ff" icon_size="pagelayer-icon-custom" icon_hover_delay="400" ele_bg_hover_delay="400" icon_size_custom="52" icon_rotate="0" ele_padding_tablet="0px,0px,0px,0px" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInLeft" animation_delay="600"]
+[/pl_icon]
+[pl_heading color="#343434ff" ele_bg_hover_delay="400" ele_padding="30px,30px,30px,30px" align="center" heading_typo="Raleway,16,Italic,400,Normal,None,Solid,1.5,,0,0" ele_padding_tablet="5px,5px,5px,5px" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInLeft" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you. I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.[/pl_heading]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,700,Normal,None,Solid,1,Capitalize,0,0" ele_padding="0px,0px,0px,0px" ele_padding_tablet="5px,5px,5px,5px" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+jonathan swann[/pl_heading]
+[pl_heading color="#8c6bc4ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,16,Normal,400,Normal,None,Solid,1,Capitalize,0,0" ele_padding="10px,10px,10px,10px" ele_padding_tablet="5px,5px,5px,5px" heading_state="normal" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px" animation="fadeInLeft" animation_delay="700" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+london[/pl_heading]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" content_pos="center" animation="fadeInRight" animation_delay="600"]
+[pl_image id="{{theme_url}}/images/client-family.png" id-size="full" align="center" img_filter="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]

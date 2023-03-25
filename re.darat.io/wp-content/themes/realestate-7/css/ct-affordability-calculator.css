@@ -1,0 +1,245 @@
+/**
+ * Affordablity Component Stylesheet
+ *
+ * @version 1.0.2
+ */
+
+ .ct-affordability-calculator {
+    margin: 30px 0 0 0;
+    padding: 0 30px 15px 30px;
+ }
+ 
+.ct-affordability-calculator__fields {
+    display: flex;
+    flex-wrap: wrap;
+    background: #f5f6f7;
+    border-radius: 3px;
+}
+.ct-affordability-calculator__fields__item {
+    width: 33.33%;
+    padding: 20px;
+}
+.ct-affordability-calculator__fields__item.downpayment {
+    width: 37.33%;
+}
+.ct-affordability-calculator__fields__item.interest-rate {
+    width: 29.33%;
+}
+.ct-affordability-calculator__fields__wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.ct-af-form-field-slider {
+    width: 100%;
+    margin-top: 30px;
+    position: relative;
+}
+.ct-af-form-field-slider .ui-slider-horizontal .ui-slider-handle {
+    top: -8px;
+    border: 1px solid #b0afaf;
+    height: 18px;
+    width: 18px;
+}
+.ct-af-form-field-slider .ui-slider-range-min {
+    background: #03b5c3;
+    height: 2px!important;
+    top: 0px;
+}
+.ct-affordability-calculator__fields__wrap label {
+    width: 220px;
+    color: #212121;
+    font-weight: bold;
+}
+.ct-affordability-calculator-column {
+    width: 50%;
+    position: relative;
+}
+#downpayment_percentage_symbol, #interest_rate_percentage {
+    position: absolute;
+    left: 37px;
+    top: 0px;
+    line-height: normal;
+    font-size: 14px;
+    pointer-events: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 42px;
+    display: flex;
+    align-items: center;
+}
+#downpayment_percentage_symbol {
+    left: 24px;
+    font-weight: 400;
+}
+.ct-affordability-calculator-column.right {
+    text-align: right;
+}
+.ct-af-form-group-field__item {
+    display: flex;
+}
+.ct-affordability-calculator__fields__wrap input[type=text] {
+    margin: 0;
+    border-radius: 3px;
+    padding: 0 5px 0 10px;
+}
+#ct-af-form-field-downpayment-percentage {
+    width: 45px;
+    padding: 0 12px 0 0;
+    font-weight: 400;
+    border-radius: 0 3px 3px 0;
+    margin-left: -1px;
+    text-align: center;
+}
+#ct-af-form-field-interest-rate {
+    width: 80px;
+}
+.ct-affordability-calculator__fields__item .nice-select {
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#ct-af-form-field-downpayment {
+    border-radius: 3px 0 0 3px;
+    width: calc( 100% - 45px );
+}
+.ct-affordability-calculator__fields__item.loan-type {
+    padding-top: 0;
+}
+.ct-affordability-calculator__fields__item.loan-type .ct-affordability-calculator__fields__wrap {
+    display: block;
+}
+/* Result */
+#ct-affordability-calculator-result {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+#ct-affordability-calculator-chart {
+    z-index: 20;
+    position: relative;
+}
+.ct-affordability-calculator-donut-chart {
+    position: relative;
+}
+#donut-chart-label {
+    position: absolute;
+    top: 42%;
+    text-align: center;
+    width: 250px;
+    z-index: 1;
+}
+#donut-chart-label-figure {
+    font-size: 24px;
+    display: block;
+    font-weight: bold;
+}
+.ct-affordability-calculator-details {
+    width: 100%;
+    max-width: 560px;
+}
+.ct-affordability-calculator-details ul li .label-ct-af-calc, .ct-affordability-calculator-details ul li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ct-affordability-calculator-details ul li .label-ct-af-calc::before {
+    content: " ";
+    background: #777;
+    height: 16px;
+    width: 16px;
+    border-radius: 8px;
+    display: block;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+.ct-affordability-calculator-details ul li:nth-child(1) .label-ct-af-calc::before {
+    background: #052286;
+}
+.ct-affordability-calculator-details ul li:nth-child(2) .label-ct-af-calc::before {
+    background: #00adbb;
+}
+.ct-affordability-calculator-details ul li:nth-child(3) .label-ct-af-calc::before {
+    background: #c2d500;
+}
+.ct-affordability-calculator-details ul li .result-ct-af-calc{
+    font-weight: bold;
+}
+.ct-affordability-calculator-details ul li a.btn.btn-full-width {
+    margin-top: 25px;
+}
+.ct-affordability-calculator__headlines h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+.ct-affordability-calculator__headlines h5 {
+    margin-bottom: 20px;
+}
+.ct-affordability-calculator__headlines h6 {
+    margin-bottom: 20px;
+}
+span#ct-affordability-calculator-est-payment {
+    font-weight: bold;
+}
+@media( max-width: 1200px ) {
+    .ct-affordability-calculator-details {
+        max-width: 480px;
+   }
+}
+/*Non standard breakpoint to target overlapping textfields with labels and charts*/
+@media( max-width: 1064px ) {
+    .ct-affordability-calculator-details {
+        max-width: 425px;
+        width: 50%;
+   }
+}
+@media( max-width: 992px ) {
+    .ct-affordability-calculator__fields__item, .ct-affordability-calculator__fields__item.downpayment, .ct-affordability-calculator__fields__item.interest-rate {
+        width: 100%;
+   }
+    #ct-affordability-calculator-result {
+        justify-content: center;
+   }
+    .ct-affordability-calculator-details {
+        margin: 20px 0 0 25px;
+        width: 100%;
+   }
+}
+@media( max-width: 576px ) {
+    .ct-affordability-calculator-column.right {
+        text-align: left;
+   }
+    .ct-affordability-calculator-column {
+        width: 100%;
+   }
+    .ct-affordability-calculator-details {
+        max-width: 425px;
+        margin-left: 0;
+   }
+   .ct-affordability-calculator__headlines h5 {
+        font-size: 0.83em;
+    }
+    .ct-affordability-calculator__headlines h6 {
+        font-size: 0.75em;
+    }
+}
+/** * Ajax Wrap */
+#single-listing-ajax-wrap .ct-affordability-calculator__fields__item, #single-listing-ajax-wrap .ct-affordability-calculator__fields__item.downpayment, #single-listing-ajax-wrap .ct-affordability-calculator__fields__item.interest-rate {
+    width: 100%;
+}
+#single-listing-ajax-wrap #ct-affordability-calculator-result {
+    justify-content: center;
+}
+#single-listing-ajax-wrap .ct-affordability-calculator-details {
+    max-width: 350px;
+    margin-top: 30px;
+}
+#single-listing-ajax-wrap .ct-af-form-field-slider {
+    margin-top: 15px;
+}
+.percentage-container {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+}

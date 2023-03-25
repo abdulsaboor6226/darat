@@ -1,0 +1,136 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">listings</custom-type>
+    <custom-type translate="1" display-as-translated="1">brokerage</custom-type>
+    <custom-type translate="1" display-as-translated="1">testimonial</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1" display-as-translated="1">property_type</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">beds</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">baths</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">ct_status</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">city</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">state</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">zipcode</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">country</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">county</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">community</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">additional_features</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">_ct_brokerage_phone</custom-field>
+    <custom-field action="translate">_ct_brokerage_fax</custom-field>
+    <custom-field action="translate">_ct_brokerage_email</custom-field>
+    <custom-field action="translate">_ct_brokerage_street_address</custom-field>
+    <custom-field action="translate">_ct_brokerage_city</custom-field>
+    <custom-field action="translate">_ct_brokerage_state</custom-field>
+    <custom-field action="translate">_ct_brokerage_zip</custom-field>
+    <custom-field action="translate">_ct_brokerage_twitter</custom-field>
+    <custom-field action="translate">_ct_brokerage_facebook</custom-field>
+    <custom-field action="translate">_ct_brokerage_linkedin</custom-field>
+    <custom-field action="translate">_ct_brokerage_gplus</custom-field>
+    <custom-field action="translate">_ct_agents</custom-field>
+    <custom-field action="translate">_menu_item_type</custom-field>
+    <custom-field action="translate">_ct_brokerage_address_two</custom-field>
+    <custom-field action="translate">_publicize_pending</custom-field>
+    <custom-field action="translate">_ct_inner_page_title</custom-field>
+    <custom-field action="translate">_ct_page_sub_title</custom-field>
+    <custom-field action="translate">_ct_page_header_bg_image_id</custom-field>
+    <custom-field action="translate">_ct_page_header_bg_image</custom-field>
+    <custom-field action="translate">_ct_inside_page_title</custom-field>
+    <custom-field action="translate">_ct_top_page_margin</custom-field>
+    <custom-field action="translate">_ct_bottom_page_margin</custom-field>
+    <custom-field action="translate">_ct_post_featured_type</custom-field>
+    <custom-field action="translate">_ct_post_style</custom-field>
+    <custom-field action="translate">_ct_post_lead</custom-field>
+    <custom-field action="translate">_ct_post_title</custom-field>
+    <custom-field action="translate">_ct_post_meta</custom-field>
+    <custom-field action="translate">_ct_post_social</custom-field>
+    <custom-field action="translate">_ct_post_header_bg</custom-field>
+    <custom-field action="translate">_ct_post_header</custom-field>
+    <custom-field action="translate">_ct_post_slider</custom-field>
+    <custom-field action="translate">_ct_video</custom-field>
+    <custom-field action="translate">_ct_interstitials</custom-field>
+    <custom-field action="translate">_additional_settings</custom-field>
+    <custom-field action="translate">_locale</custom-field>
+    <custom-field action="translate">_edit_last</custom-field>
+    <custom-field action="translate">price</custom-field>
+    <custom-field action="translate">time</custom-field>
+    <custom-field action="translate">listing</custom-field>
+    <custom-field action="translate">featured_listing</custom-field>
+    <custom-field action="translate">recurring</custom-field>
+    <custom-field action="translate">popular</custom-field>
+    <custom-field action="translate">date</custom-field>
+    <custom-field action="translate">packageid</custom-field>
+    <custom-field action="translate">package_name</custom-field>
+    <custom-field action="translate">currency</custom-field>
+    <custom-field action="translate">current_user_id</custom-field>
+    <custom-field action="translate">current_user_email</custom-field>
+    <custom-field action="translate">package_current_date</custom-field>
+    <custom-field action="translate">package_expire_date</custom-field>
+    <custom-field action="translate">order_status</custom-field>
+    <custom-field action="translate">pack_recurring</custom-field>
+    <custom-field action="translate">last_approved_revision</custom-field>
+    <custom-field action="translate">payment_method</custom-field>
+    <custom-field action="translate">wirepayment_status</custom-field>
+    <custom-field action="translate">payment_amount</custom-field>
+    <custom-field action="translate">bankaccountnumber</custom-field>
+    <custom-field action="translate">_ct_price</custom-field>
+    <custom-field action="translate">_ct_sqft</custom-field>
+    <custom-field action="translate">_ct_lotsize</custom-field>
+    <custom-field action="translate">post_views_count</custom-field>
+    <custom-field action="translate">_ct_parking</custom-field>
+    <custom-field action="translate">_ct_latlng</custom-field>
+    <custom-field action="translate">_ct_agent_name</custom-field>
+    <custom-field action="translate">_ct_branding_agent_name</custom-field>
+    <custom-field action="translate">_ct_branding_agent_phone</custom-field>
+    <custom-field action="translate">_ct_branding_agent_office_phone</custom-field>
+    <custom-field action="translate">_ct_branding_agent_first_name</custom-field>
+    <custom-field action="translate">_ct_branding_agent_last_name</custom-field>
+    <custom-field action="translate">_ct_branding_agent_id</custom-field>
+    <custom-field action="translate">_ct_slider</custom-field>
+    <custom-field action="translate">_ct_mls</custom-field>
+    <custom-field action="translate">_wp_old_slug</custom-field>
+    <custom-field action="translate">_ct_brokerage</custom-field>
+    <custom-field action="translate">_ct_listing_alt_title</custom-field>
+    <custom-field action="translate">_ct_price_postfix</custom-field>
+    <custom-field action="translate">_ct_booking_cal_shortcode</custom-field>
+    <custom-field action="translate">_ct_rental_guests</custom-field>
+    <custom-field action="translate">_ct_rental_min_stay</custom-field>
+    <custom-field action="translate">_ct_rental_checkin</custom-field>
+    <custom-field action="translate">_ct_rental_checkout</custom-field>
+    <custom-field action="translate">_ct_rental_extra_people</custom-field>
+    <custom-field action="translate">_ct_rental_cleaning</custom-field>
+    <custom-field action="translate">_ct_rental_cancellation</custom-field>
+    <custom-field action="translate">_ct_rental_deposit</custom-field>
+    <custom-field action="translate">wpfp_favorites</custom-field>
+    <custom-field action="translate">_ct_broker</custom-field>
+    <custom-field action="translate">_ct_price_prefix</custom-field>
+    <custom-field action="translate">_ct_images_position</custom-field>
+    <custom-field action="translate">_ct_pets</custom-field>
+    <custom-field action="translate">_ct_open_house_date</custom-field>
+    <custom-field action="translate">_ct_open_house_start_time</custom-field>
+    <custom-field action="translate">_ct_open_house_end_time</custom-field>
+    <custom-field action="translate">_ct_virtual_tour</custom-field>
+    <custom-field action="translate">_ct_open_house</custom-field>
+    <custom-field action="translate">_ct_listing_paid_transaction_id</custom-field>
+    <custom-field action="translate">_ct_files</custom-field>
+    <custom-field action="translate">_ct_energy_class</custom-field>
+    <custom-field action="translate">_ct_global_energy_performance_index</custom-field>
+    <custom-field action="translate">_ct_renewable_energy_performance_index</custom-field>
+    <custom-field action="translate">_ct_building_energy_performance</custom-field>
+    <custom-field action="translate">_ct_ownernotes</custom-field>
+    <custom-field action="translate">_ct_multiplan</custom-field>
+    <custom-field action="translate">_ct_display_listing_price</custom-field>
+    <custom-field action="translate">_ct_sold_date</custom-field>
+    <custom-field action="translate">_ct_security</custom-field>
+    <custom-field action="translate">_ct_floor_coverings</custom-field>
+    <custom-field action="translate">_ct_hoa_fee</custom-field>
+    <custom-field action="translate">_ct_hoa_fee_due</custom-field>
+    <custom-field action="translate">_ct_hoa_includes</custom-field>
+    <custom-field action="translate">width</custom-field>
+    <custom-field action="translate">height</custom-field>
+    <custom-field action="translate">file</custom-field>
+    <custom-field action="translate">image_meta</custom-field>
+  </custom-fields>
+</wpml-config>

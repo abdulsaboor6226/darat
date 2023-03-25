@@ -1,0 +1,139 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" ele_padding="30px,0px,20px,0px" ele_bg_type="color" ele_bg_color="#202125ff" ele_padding_tablet="20px,0px,0px,0px" ele_padding_mobile="20px,0px,0px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,20,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding="0px,0px,20px,0px" heading_typo_tablet="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" heading_typo_mobile="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" heading_state="normal"]
+
+
+
+
+
+
+
+
+information[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,16,Normal,500,Normal,None,Solid,1.2,,0,0" heading_typo_tablet="Raleway,15,Normal,500,Normal,None,Solid,1.2,,0,0" heading_typo_mobile="Raleway,15,Normal,500,Normal,None,Solid,1.2,,0,0" ele_padding="5px,5px,5px,5px" heading_state="normal" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px"]
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,16,Normal,500,Normal,None,Solid,1.2,,0,0" heading_typo_tablet="Raleway,15,Normal,500,Normal,None,Solid,1.2,,0,0" heading_typo_mobile="Raleway,15,Normal,500,Normal,None,Solid,1.2,,0,0" ele_padding="5px,5px,5px,5px" heading_state="normal" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px"]
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me.[/pl_heading]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="2" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,20,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding="0px,0px,20px,0px" ele_padding_tablet="0px,0px,0px,0px" heading_typo_tablet="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" heading_typo_mobile="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal"]
+
+
+
+
+
+
+
+
+about[/pl_heading]
+[pl_list list_type="none" spacing="12" list_color="#ffffffff" item_indent="3" icon_color="#8c6bc4ff" icon_border_type="solid" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="0" side_spacing="0" list_typo="Raleway,16,Normal,400,Normal,None,Solid,1,Capitalize,0,0" icon_size="16" list_typo_tablet="Raleway,15,Normal,400,Normal,None,Solid,1,Capitalize,0,0" list_typo_mobile="Raleway,15,Normal,400,Normal,None,Solid,1,Capitalize,0,0" ele_padding="5px,5px,5px,5px" list_text_state="normal" list_icon_state="normal" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px"]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+
+
+
+
+
+
+About Us[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+
+
+
+
+
+
+Contact Us[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+
+
+
+
+
+
+Delivery Info[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-chevron-right"]
+
+
+
+
+
+
+
+
+Privacy Policy[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,20,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding="0px,0px,20px,0px" heading_typo_tablet="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_tablet="0px,0px,0px,0px" heading_typo_mobile="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal"]
+
+
+
+
+
+
+
+
+newsletter[/pl_heading]
+[pl_heading color="#bdbdbdff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,16,Normal,500,Normal,None,Solid,1.2,,0,0" heading_typo_tablet="Raleway,15,Normal,500,Normal,None,Solid,1.2,,0,0" heading_typo_mobile="Raleway,15,Normal,500,Normal,None,Solid,1.2,,0,0" ele_padding="5px,5px,5px,5px" heading_state="normal" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px"]
+
+
+
+
+
+
+
+
+I’m a paragraph. Go to SitePad Editor to add your own text and edit me.[/pl_heading]
+[pl_contact form="footer-form" name="Footer Form" form_position="left" space_label="0,0,0,0" input_padding="0,14" radio_padding="10,10" field_hover_delay="400" submit="Subscribe" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_label_color="#bdbdbdff" label_typo=",14,Normal,400,Normal,,Solid,1.65,Capitalize,0,0" form_placeholder_color="#bdbdbdff" placeholder_typo=",14,Normal,400,Normal,None,Solid,1.65,,0,0" form_input_color="#bdbdbdff" form_input_bg="#90909013" input_height="45" field_border_type="solid" field_border_color="#8b6bc233" field_border_width="1,1,1,1" field_border_radius="4,4,4,4" field_state="focus" field_border_type_focus="solid" field_border_color_focus="#8c6bc4ff" field_border_width_focus="1,1,1,1" field_shadow_focus="0,0,1,#8c6bc4ff,1," field_border_radius_focus="4,4,4,4" btn_typo="Montserrat,14,Normal,700,Normal,None,Solid,1,Uppercase,1,0" btn_custom_size="11,12" btn_bg_color="#8c6bc4ff" btn_color="#ffffffff" contect_btn_align="left" ele_padding="5px,5px,5px,5px" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px"]
+[pl_contact_item label_name="Enter your email..." field_type="email" values="One
+Two" field_name="email" field_width="100" space_between="0,0,0,0" ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,20,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding="0px,0px,20px,0px" ele_padding_tablet="0px,0px,0px,0px" heading_typo_tablet="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" heading_typo_mobile="Raleway,18,Normal,700,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_mobile="0px,0px,0px,0px" heading_state="normal"]
+
+
+
+
+
+
+
+
+address[/pl_heading]
+[pl_address icon="fas fa-home" ele_bg_hover_delay="400" icon_color="#8c6bc4ff" icon_size="30" space="10" color="#ffffffff" ele_margin="0px,0px,20px,0px"]
+[/pl_address]
+[pl_phone icon="fas fa-phone-alt" ele_bg_hover_delay="400" icon_color="#8c6bc4ff" color="#ffffffff" space="10" icon_size="24" ele_margin="0px,0px,20px,0px"]
+[/pl_phone]
+[pl_email icon="fas fa-envelope" ele_bg_hover_delay="400" color="#ffffffff" icon_color="#8c6bc4ff" space="10" icon_size="25"]
+[/pl_email]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="10px,10px,10px,10px" ele_bg_type="color" ele_bg_color="#202125ff" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_copyright ele_bg_hover_delay="400" color="#ffffffff" typography=",,Normal,500,Normal,None,Solid,1,Capitalize,0,0"]
+[/pl_copyright]
+[/pl_col]
+[/pl_row]

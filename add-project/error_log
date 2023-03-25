@@ -1,0 +1,351 @@
+[19-Jul-2022 15:43:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/darat/public_html/add-project/add-project.php on line 4
+[19-Jul-2022 16:24:58 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 3
+[19-Jul-2022 16:38:15 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 3
+[19-Jul-2022 16:45:45 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 3
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 23
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: location in /home/darat/public_html/add-project/add-project.php on line 24
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: city_id in /home/darat/public_html/add-project/add-project.php on line 25
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 26
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 27
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: developer_contact in /home/darat/public_html/add-project/add-project.php on line 28
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: featured_phone_number in /home/darat/public_html/add-project/add-project.php on line 29
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: featured_whatsapp_number in /home/darat/public_html/add-project/add-project.php on line 30
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:37:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:38:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:38:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:39:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'darat_use'@'localhost' (using password: YES) in /home/darat/public_html/add-project/add-project.php on line 9
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:39:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:45:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 08:49:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 23
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: location in /home/darat/public_html/add-project/add-project.php on line 24
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: city_id in /home/darat/public_html/add-project/add-project.php on line 25
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 26
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 27
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: developer_contact in /home/darat/public_html/add-project/add-project.php on line 28
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: featured_phone_number in /home/darat/public_html/add-project/add-project.php on line 29
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: featured_whatsapp_number in /home/darat/public_html/add-project/add-project.php on line 30
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 10:02:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 23
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: location in /home/darat/public_html/add-project/add-project.php on line 24
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: city_id in /home/darat/public_html/add-project/add-project.php on line 25
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 26
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 27
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: developer_contact in /home/darat/public_html/add-project/add-project.php on line 28
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: featured_phone_number in /home/darat/public_html/add-project/add-project.php on line 29
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: featured_whatsapp_number in /home/darat/public_html/add-project/add-project.php on line 30
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 10:02:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:53:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:55:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: name in /home/darat/public_html/add-project/add-project.php on line 23
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: location in /home/darat/public_html/add-project/add-project.php on line 24
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: city_id in /home/darat/public_html/add-project/add-project.php on line 25
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 26
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: description in /home/darat/public_html/add-project/add-project.php on line 27
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: developer_contact in /home/darat/public_html/add-project/add-project.php on line 28
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: featured_phone_number in /home/darat/public_html/add-project/add-project.php on line 29
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: featured_whatsapp_number in /home/darat/public_html/add-project/add-project.php on line 30
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: user_id in /home/darat/public_html/add-project/add-project.php on line 31
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 10:58:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 11:00:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 11:02:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 11:11:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 33
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: logo in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 34
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 36
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image1 in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 37
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 39
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image2 in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 40
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 42
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image3 in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 43
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 45
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image4 in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 46
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 48
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Undefined index: image5 in /home/darat/public_html/add-project/add-project.php on line 49
+[20-Jul-2022 12:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/darat/public_html/add-project/add-project.php on line 49

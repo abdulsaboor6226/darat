@@ -1,0 +1,90 @@
+[pl_post_props post_title="Properties" post_name="properties" featured_image="" ele_bg_hover_delay="400" post_excerpt="" post_status="publish"]
+[/pl_post_props]
+[pl_row stretch="full" col_gap="0" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="80px,0px,80px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/short_banner_bg.jpg" ele_bg_attachment="scroll" ele_bg_size="cover" ele_bg_posy="center" overlay_type="color" overlay_transperancy="0.7" overlay_color="#000000ff" ele_padding_tablet="60px,0px,50px,0px" ele_padding_mobile="60px,0px,30px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_post_title title_color="#ffffffff" typo="Raleway,36,Normal,600,Normal,None,Solid,1.65,Capitalize,0,0" ele_bg_hover_delay="400" align="center" ele_padding_tablet="0px,0px,0px,0px" ele_margin_tablet="0px,0px,0px,0px" typo_mobile=",30,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+[/pl_post_title]
+[pl_breadcrumb home=" Home" alignment="center" separator=" &gt; " separator_color="#8c6bc4ff" ele_bg_hover_delay="400" breadcrumb_color="#8c6bc4ff" breadcrumb_hover="#8c6bc4ff" cur_color="#8c6bc4ff" typo="Raleway,16,Normal,500,Normal,None,Solid,1,Capitalize,0,0" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px" animation="fadeInDown" animation_delay="600" animation_speed="slow"]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="fit" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/poperties_banner_bg1.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_img="{{theme_url}}/images/poperties_banner_bg1.jpg" overlay_img_attachment="fixed" overlay_bg_posx="center" overlay_bg_posy="center" overlay_bg_repeat="no-repeat" overlay_bg_size="cover" ele_bg_color="#000000ff" overlay_color="#000000ff"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,30,Normal,500,Normal,None,Solid,1.2,Capitalize,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Modern Family Homes[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Solid,1,,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit[/pl_heading]
+[pl_btn text="View Our Family House" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" btn_custom_size="24" btn_bg_color="#00000000" btn_color="#ffffffff" btn_hover="hover" btn_bg_color_hover="#ffffffff" btn_color_hover="#000000ff" btn_typo="Roboto,15,Normal,500,Normal,None,Solid,1,Capitalize,0,0" btn_border_type="solid" btn_border_color="#ffffffff" btn_border_width="1,1,1,1" btn_border_radius="25,25,25,25" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="fit" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/poperties_banner_bg2.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_img="{{theme_url}}/images/poperties_banner_bg1.jpg" overlay_img_attachment="fixed" overlay_bg_posx="center" overlay_bg_posy="center" overlay_bg_repeat="no-repeat" overlay_bg_size="cover" ele_bg_color="#000000ff" overlay_color="#000000ff"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,30,Normal,500,Normal,None,Solid,1.2,Capitalize,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Modern Lofts With All Comfort[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Solid,1,,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit[/pl_heading]
+[pl_btn text="View Our Modern Lofts" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" btn_custom_size="24" btn_bg_color="#00000000" btn_color="#ffffffff" btn_hover="hover" btn_bg_color_hover="#ffffffff" btn_color_hover="#000000ff" btn_typo="Roboto,15,Normal,500,Normal,None,Solid,1,Capitalize,0,0" btn_border_type="solid" btn_border_color="#ffffffff" btn_border_width="1,1,1,1" btn_border_radius="25,25,25,25" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="fit" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/poperties_banner_bg3.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_img="{{theme_url}}/images/poperties_banner_bg1.jpg" overlay_img_attachment="fixed" overlay_bg_posx="center" overlay_bg_posy="center" overlay_bg_repeat="no-repeat" overlay_bg_size="cover" ele_bg_color="#000000ff" overlay_color="#000000ff"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,30,Normal,500,Normal,None,Solid,1.2,Capitalize,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Exclusive Apartments[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Solid,1,,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit[/pl_heading]
+[pl_btn text="View Our Apartments" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" btn_custom_size="24" btn_bg_color="#00000000" btn_color="#ffffffff" btn_hover="hover" btn_bg_color_hover="#ffffffff" btn_color_hover="#000000ff" btn_typo="Roboto,15,Normal,500,Normal,None,Solid,1,Capitalize,0,0" btn_border_type="solid" btn_border_color="#ffffffff" btn_border_width="1,1,1,1" btn_border_radius="25,25,25,25" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="fit" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/poperties_banner_bg4.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_img="{{theme_url}}/images/poperties_banner_bg1.jpg" overlay_img_attachment="fixed" overlay_bg_posx="center" overlay_bg_posy="center" overlay_bg_repeat="no-repeat" overlay_bg_size="cover" ele_bg_color="#000000ff" overlay_color="#000000ff"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,30,Normal,500,Normal,None,Solid,1.2,Capitalize,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+Luxury Villas[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,20,Normal,400,Normal,None,Solid,1,,0,0" ele_padding="0px,0px,20px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slow"]
+
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit[/pl_heading]
+[pl_btn text="View Our Luxury Villas" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" btn_custom_size="24" btn_bg_color="#00000000" btn_color="#ffffffff" btn_hover="hover" btn_bg_color_hover="#ffffffff" btn_color_hover="#000000ff" btn_typo="Roboto,15,Normal,500,Normal,None,Solid,1,Capitalize,0,0" btn_border_type="solid" btn_border_color="#ffffffff" btn_border_width="1,1,1,1" btn_border_radius="25,25,25,25" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]

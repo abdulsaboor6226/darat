@@ -1,0 +1,295 @@
+/*
+* Mobile Menu
+* 
+* @package WP Pro Real Estate 7
+* @subpackage CSS
+*/
+
+/** General Styles
+==============================================================================*/
+
+.cbp-spmenu {
+    background: #fff;
+    position: fixed;
+    overflow-y: scroll;
+}
+    body.cbp-spmenu-push-toleft #compare-panel {
+        z-index: 20;
+    }
+        .cbp-spmenu a {
+            display: block;
+            color: #fff;
+            font-weight: 300;
+        }
+
+            .cbp-spmenu a:hover {
+               /* background: rgba(39, 174, 96, 1); */
+            }
+
+                .cbp-spmenu a:active {
+                    background: #afdefa;
+                    color: #47a3da;
+                }
+
+/* Orientation-dependent styles for the content of the menu */
+
+.stop-scrolling {
+    height: 100%;
+    overflow: hidden;
+}
+
+    body.cbp-spmenu-push-toleft #header-wrap.sticky {
+        left: -280px !important;
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+    }
+
+        .cbp-spmenu-vertical {
+            width: 280px;
+            height: 100vh;
+            border-left: 1px solid #d5d9dd;
+            top: 0;
+            z-index: 1000;
+        }
+
+            body.admin-bar .cbp-spmenu-vertical {
+                top: 46px;
+            }
+
+
+                .cbp-spmenu-vertical .menu-primary-container {
+                    height: 100vh;
+                    overflow: auto;
+                }
+
+                    .cbp-spmenu-vertical .menu-primary-container::-webkit-scrollbar {
+                        display: none;
+                    }
+
+                        .cbp-spmenu-vertical #menu-primary > li > a {
+                            font-weight: 400;
+                            color: #2d3756;
+                        }
+
+                        .cbp-spmenu-vertical a {
+                            color: #2d3756;
+                            font-size: 14px;
+                            border-bottom: 1px solid #d5d9dd;
+                            padding: 1em 1.5em;
+                        }
+
+                            .cbp-spmenu-vertical a:hover {
+                                opacity: 1;
+                            }
+
+                                .cbp-spmenu-vertical .sub-menu {
+                                    position: relative;
+                                    visibility: visible;
+                                    display: none;
+                                }
+
+                                    .cbp-spmenu-vertical .sub-menu a {
+                                        font-size: 12px;
+                                        padding-left: 2em;
+                                    }
+
+                                        .sub-menu .fa-angle-right {
+                                            position: relative;
+                                            float: left;
+                                            top: 21px;
+                                            left: 24px;
+                                            color: #878c92;
+                                            font-size: 14px;
+                                        }
+
+                                            .cbp-spmenu-horizontal {
+                                                width: 100%;
+                                                height: 150px;
+                                                left: 0;
+                                                z-index: 1000;
+                                                overflow: hidden;
+                                            }
+
+                                                .cbp-spmenu-horizontal h3 {
+                                                    height: 100%;
+                                                    width: 20%;
+                                                    float: left;
+                                                }
+
+                                                    .cbp-spmenu-horizontal a {
+                                                        float: left;
+                                                        width: 20%;
+                                                        padding: 0.8em;
+                                                        border-left: 1px solid #258ecd;
+                                                    }
+
+                                                        #cbp-spmenu .menu-item-has-children + .sub-menu {
+                                                            display: none;
+                                                        }
+
+/* Vertical menu that slides from the left or right */
+
+.cbp-spmenu-left {
+    left: -280px;
+}
+
+    .cbp-spmenu-right {
+        right: -280px;
+    }
+
+        .cbp-spmenu-left.cbp-spmenu-open {
+            left: 0px;
+        }
+
+            .cbp-spmenu-right.cbp-spmenu-open {
+                right: 0px;
+            }
+
+/* Horizontal menu that slides from the top or bottom */
+
+.cbp-spmenu-top {
+    top: -150px;
+}
+
+    .cbp-spmenu-bottom {
+        bottom: -150px;
+    }
+
+        .cbp-spmenu-top.cbp-spmenu-open {
+            top: 0px;
+        }
+
+            .cbp-spmenu-bottom.cbp-spmenu-open {
+                bottom: 0px;
+            }
+
+/* Push classes applied to the body */
+
+.cbp-spmenu-push {
+    overflow-x: hidden;
+    position: relative;
+    left: 0;
+}
+
+    .cbp-spmenu-push-toright {
+        left: 280px;
+    }
+
+        .cbp-spmenu-push-toleft {
+            left: -280px;
+        }
+
+/* Transitions */
+
+.cbp-spmenu,
+.cbp-spmenu-push {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 55.1875em) {
+
+    .cbp-spmenu-horizontal {
+        font-size: 75%;
+        height: 110px;
+    }
+
+    .cbp-spmenu-top {
+        top: -110px;
+    }
+
+    .cbp-spmenu-bottom {
+        bottom: -110px;
+    }
+
+}
+
+@media screen and (max-height: 26.375em) {
+
+    .cbp-spmenu-vertical {
+        font-size: 90%;
+        width: 190px;
+    }
+
+    .cbp-spmenu-left,
+    .cbp-spmenu-push-toleft {
+        left: -190px;
+    }
+
+    .cbp-spmenu-right {
+        right: -190px;
+    }
+
+    .cbp-spmenu-push-toright {
+        left: 190px;
+    }
+}
+
+.cbp-spmenu {
+    overflow-y: scroll;
+}
+
+/* Mobile Menu Toggle */
+
+.cbp-spmenu-vertical li.menu-item.menu-item-has-children > a {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+}
+
+    .cbp-spmenu-vertical li.menu-item.menu-item-has-children > a span.submenu-toggle {
+        flex-basis: 50%;
+        text-align: right;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        width: 60px;
+        justify-content: center;
+
+    }
+
+        .cbp-spmenu-vertical li.menu-item.menu-item-has-children > a .submenu-toggle > i {
+            transition: all 0.25s ease-in-out;
+            color: #878c92;
+            font-size: 11px;
+        }
+
+            .cbp-spmenu-vertical li.menu-item.menu-item-has-children.open > a .submenu-toggle > i {
+                transform: rotate(180deg);
+            }
+                .cbp-spmenu-vertical li.menu-item.menu-item-has-children .sub-menu .submenu-toggle i { color: #878c92; font-size: 12px;}
+
+                    .cbp-spmenu-vertical li.menu-item.menu-item-has-children .sub-menu li.menu-item.menu-item-has-children .sub-menu { font-size: 0.76em;}
+                        .cbp-spmenu-vertical li.menu-item.menu-item-has-children .sub-menu li.menu-item.menu-item-has-children .sub-menu a { padding-left: 2.7em;}
+                            .cbp-spmenu-vertical li.menu-item.menu-item-has-children .sub-menu li.menu-item.menu-item-has-children .sub-menu li.menu-item.menu-item-has-children .sub-menu a { padding-left: 3.7em;}
+
+        .home #header-wrap.trans-header .cbp-spmenu-vertical li .sub-menu li a:hover,
+        .page #header-wrap.trans-header .cbp-spmenu-vertical li .sub-menu li a:hover {
+            color: #191919;
+        }
+
+            .cbp-spmenu-vertical li.current-menu-item > a {
+                font-weight: bold;
+            }
+
+
+                #cbp-spmenu .col-title {
+                    display: block;
+                }
+/**
+ * Previous Conflicts Fixes
+ */
+
+.page-template-template-full-width .cbp-spmenu-vertical ul {
+    list-style: none;
+    margin: 0;
+}

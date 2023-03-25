@@ -1,0 +1,71 @@
+[pl_row stretch="full" col_gap="0" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="80px,0px,80px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/short_banner_bg.jpg" ele_bg_attachment="scroll" ele_bg_size="cover" ele_bg_posy="center" overlay_type="color" overlay_transperancy="0.7" overlay_color="#000000ff" ele_padding_tablet="60px,0px,50px,0px" ele_padding_mobile="60px,0px,30px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_post_title title_color="#ffffffff" typo="Raleway,36,Normal,600,Normal,None,Solid,1.65,Capitalize,0,0" ele_bg_hover_delay="400" after=" Us" align="center" ele_padding_tablet="0px,0px,0px,0px" ele_margin_tablet="0px,0px,0px,0px" typo_mobile=",30,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+[/pl_post_title]
+[pl_breadcrumb home=" Home" alignment="center" separator=" &gt; " separator_color="#8c6bc4ff" ele_bg_hover_delay="400" breadcrumb_color="#8c6bc4ff" breadcrumb_hover="#8c6bc4ff" cur_color="#8c6bc4ff" typo="Raleway,16,Normal,500,Normal,None,Solid,1,Capitalize,0,0" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px" animation="fadeInDown" animation_delay="600" animation_speed="slow"]
+[/pl_breadcrumb]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="70px,70px,70px,70px" ele_padding_tablet="40px,0px,40px,0px" ele_padding_mobile="40px,0px,40px,0px"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px" animation="fadeInLeft" animation_delay="600"]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,24,Normal,600,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" ele_padding="0px,0px,15px,0px" heading_state="normal" ele_margin="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+contact form[/pl_heading]
+[pl_contact form="contact-form" name="Contact Form" form_position="left" space_label="0,0,0,0" input_padding="0,14" radio_padding="10,10" field_hover_delay="400" submit="Send Message" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" form_label_color="#bdbdbdff" label_typo=",14,Normal,400,Normal,None,Solid,1.65,Capitalize,00,0" form_placeholder_color="#bdbdbdff" placeholder_typo=",14,Normal,400,Normal,None,Solid,1.65,Capitalize,0,00" form_input_color="#444444ff" form_input_bg="#90909013" input_height="45" field_border_type="solid" field_border_color="#8b6bc233" field_border_width="1,1,1,1" field_border_radius="4,4,4,4" field_state="focus" field_border_type_focus="solid" field_border_color_focus="#8c6bc4ff" field_border_width_focus="1,1,1,1" field_border_radius_focus="4,4,4,4" field_shadow_focus="0,0,1,#8c6bc4ff,1," btn_typo="Montserrat,14,Normal,700,Normal,None,Solid,1,Uppercase,1,0" btn_bg_color="#8c6bc4ff" btn_color="#ffffffff" btn_custom_size="11,12" ele_padding_tablet="5px,5px,5px,5px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px"]
+[pl_contact_item label_name="Name" field_type="text" values="One
+Two" field_name="name" field_width="100" space_between="0,0,10,0" ele_bg_hover_delay="400" label_as_holder="true" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5"]
+[/pl_contact_item]
+[pl_contact_item label_name="Email" field_type="email" values="One
+Two" field_name="name" field_width="100" space_between="0,0,10,0" ele_bg_hover_delay="400" label_as_holder="true" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5"]
+[/pl_contact_item]
+[pl_contact_item label_name="Message" field_type="textarea" values="One
+Two" field_name="name" field_width="100" space_between="0,0,10,0" ele_bg_hover_delay="400" label_as_holder="true" field_width_tablet="100" space_between_tablet="5,5,5,5" field_width_mobile="100" space_between_mobile="5,5,5,5" textarea_rows="3"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="0px,15px,0px,15px" ele_padding_tablet="15px,15px,15px,15px" ele_padding_mobile="10px,10px,10px,10px" animation="fadeInRight" animation_delay="600" animation_speed="slow"]
+[pl_heading color="#000000ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,24,Normal,600,Normal,None,Solid,1.1,Capitalize,0,0" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" ele_padding="0px,0px,15px,0px" heading_state="normal" ele_margin="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+contact info[/pl_heading]
+[pl_address icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" space="10" icon_color="#8c6bc4ff" icon_size="20" ele_padding="5px,5px,5px,5px" color="#000000ff" typography="Raleway,16,Normal,400,Normal,None,Solid,1,,0,0" ele_margin="20px,0px,20px,0px"]
+[/pl_address]
+[pl_phone icon="fas fa-phone-alt" ele_bg_hover_delay="400" ele_padding="5px,5px,5px,5px" space="10" icon_color="#8c6bc4ff" icon_size="20" color="#000000ff" typography="Raleway,16,Normal,400,Normal,None,Solid,1,,0,0" ele_margin="0px,0px,20px,0px"]
+[/pl_phone]
+[pl_email icon="fas fa-envelope" ele_bg_hover_delay="400" space="10" icon_color="#8c6bc4ff" icon_size="20" ele_padding="5px,5px,5px,5px" color="#000000ff" typography="Raleway,16,Normal,400,Normal,None,Solid,1,,0,0" ele_margin="0px,0px,20px,0px"]
+[/pl_email]
+[pl_iconbox service_icon="fa fa-clock-o" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#8c6bc4ff" service_icon_font_size="20" service_icon_hover_delay="400" service_bor_state="normal" service_heading="working hours 8 AM - 6 PM" service_title_spacing="0,0,0,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,16,Normal,400,Normal,None,Solid,1,Capitalize,0,0" heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,0,0,0" service_icon_spacing="0,10,0,0" ele_padding="5px,5px,5px,5px" ele_padding_tablet="5px,5px,5px,5px" ele_margin_tablet="0px,0px,0px,0px" ele_padding_mobile="5px,5px,5px,5px" ele_margin_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" content_pos="center" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="10px,10px,10px,10px" animation="fadeInUp" animation_delay="600"]
+[pl_google_maps zoom="7" height="370" ele_bg_hover_delay="400"]
+
+
+
+
+
+
+
+Australia[/pl_google_maps]
+[/pl_col]
+[/pl_row]

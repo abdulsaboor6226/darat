@@ -1,0 +1,12 @@
+[30-Jan-2023 16:22:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Beta_Testers' not found in /home/darat/public_html/re.darat.io/wp-content/plugins/elementor/includes/plugin.php:750
+Stack trace:
+#0 /home/darat/public_html/re.darat.io/wp-content/plugins/elementor/includes/plugin.php(641): Elementor\Plugin->init_components()
+#1 /home/darat/public_html/re.darat.io/wp-includes/class-wp-hook.php(308): Elementor\Plugin->init('')
+#2 /home/darat/public_html/re.darat.io/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /home/darat/public_html/re.darat.io/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/darat/public_html/re.darat.io/wp-settings.php(617): do_action('init')
+#5 /home/darat/public_html/re.darat.io/wp-config.php(98): require_once('/home/darat/pub...')
+#6 /home/darat/public_html/re.darat.io/wp-load.php(50): require_once('/home/darat/pub...')
+#7 /home/darat/public_html/re.darat.io/wp-admin/admin-ajax.php(22): require_once('/home/darat/pub...')
+#8 {main}
+  thrown in /home/darat/public_html/re.darat.io/wp-content/plugins/elementor/includes/plugin.php on line 750
