@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\GoogleController;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
@@ -21,19 +22,24 @@ Route::get('/', function () {
 
 Auth::routes();
 
+Route::get('auth/google', [GoogleController::class, 'redirectToGoogle'])->name('google');
+Route::get('auth/google/callback', [GoogleController::class, 'handleGoogleCallback']);
+Route::middleware('auth')->group(function (){
+    Route::get('dashboard', 'Admin\DashboardController@index')->name('dashboard');
 
-Route::namespace('Admin')->middleware(['admin'])->group(function () {
-
-    Route::get('dashboard', 'DashboardController@index');
-    Route::resource('packages', 'PackageController');
-    Route::resource('projects', 'ProjectController');
-    Route::post('is-featured/{id}', 'ProjectController@isFeatured');
-    Route::post('is-approved/{id}', 'ProjectController@isApproved');
-    Route::get('modrate-projects', 'ProjectController@modrateProject');
-    Route::resource('products', 'ProductController');
-    Route::resource('rate-lists', 'RateListController');
-    Route::resource('users', 'UserController');
+    Route::namespace('Admin')->middleware(['admin'])->group(function () {
+        Route::resource('packages', 'PackageController');
+        Route::resource('projects', 'ProjectController');
+        Route::post('is-featured/{id}', 'ProjectController@isFeatured');
+        Route::post('is-approved/{id}', 'ProjectController@isApproved');
+        Route::get('modrate-projects', 'ProjectController@modrateProject');
+        Route::resource('products', 'ProductController');
+        Route::resource('rate-lists', 'RateListController');
+        Route::resource('users', 'UserController');
+    });
 });
+
+
 
 //   FailBack route
 Route::fallback(function () {

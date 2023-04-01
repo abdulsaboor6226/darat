@@ -87,8 +87,11 @@
                                             <h6 class="mb-3">Or Login With</h6> </div>
                                         <div class="btn-group w-100">
 {{--                                            <button type="button" class="btn btn-sm btn-outline-secondary">Facebook</button>--}}
-                                            <button type="button" class="btn btn-sm btn-outline-secondary">Twitter</button>
-                                            <button type="button" class="btn btn-sm btn-outline-secondary">Google</button>
+{{--                                            <a type="button" class="btn btn-sm btn-outline-primary">Apple</a>--}}
+{{--                                            <a type="button" class="btn btn-sm btn-outline-primary">Google</a>--}}
+                                            <a href="{{ route('google') }}">
+                                                <img src="{{asset('assets/images/google_signin_btn.png')}}">
+                                            </a>
                                         </div>
                                     </div>
                                 </div>

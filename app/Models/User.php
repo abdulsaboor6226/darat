@@ -37,6 +37,7 @@ class User extends Authenticatable
         'construction_company',
         'real_state_agent',
         'architect',
+        'google_id'
     ];
 
     /**

@@ -155,7 +155,8 @@ return [
     |
     */
 
-    'domain' => env('SESSION_DOMAIN', 'darat.io'),
+//    'domain' => env('SESSION_DOMAIN', 'darat.io'),
+    'domain' => null,//env('SESSION_DOMAIN', '127.0.0.1:8000'),
 
     /*
     |--------------------------------------------------------------------------
@@ -168,7 +169,7 @@ return [
     |
     */
 
-    'secure' => env('SESSION_SECURE_COOKIE',null),
+    'secure' => false,//env('SESSION_SECURE_COOKIE',null),
 
     /*
     |--------------------------------------------------------------------------
@@ -198,6 +199,5 @@ return [
 
     'same_site' => 'lax',
     // 'same_site' => 'none',
-    
 
 ];

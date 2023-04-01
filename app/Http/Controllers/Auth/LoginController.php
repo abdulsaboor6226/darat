@@ -144,10 +144,6 @@ class LoginController extends Controller
             return response()->json(['status' => true, 'message' => 'Login Successfully', 'data' => $user], 200);
         }
 
-        return $request->wantsJson()
-            ? new JsonResponse([], 204)
-            : redirect('/dashboard');
-
 
             // redirect('/dashboard')->intended($this->redirectPath()
     }
